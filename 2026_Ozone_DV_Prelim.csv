@@ -1,0 +1,752 @@
+STATE_CODE,COUNTY_CODE,SITE_NUMBER,SITE_ID,SI_ID,DV_YEAR,POLLUTANT_NAME,LATITUDE,LONGITUDE,COUNTY_NAME,CITY_NAME,CBSA_NAME,LOCAL_SITE_ID,LOCAL_SITE_NAME,STREET_ADDRESS,DV_YEAR_4TH_MAX,DESIGN_VALUE,DV_VALIDITY_IND,PRIMARY_STANDARD_LEVEL
+01,003,0010,0010,0010,2026,Ozone,30.4974780008256,-87.880258,Baldwin,Fairhope,"Daphne-Fairhope-Foley, AL",0010,"FAIRHOPE, Alabama","FAIRHOPE HIGH SCHOOL, 1 PIRATE DRIVE, FAIRHOPE,  ALABAMA",,,N,0.07
+01,049,9991,9991,9991,2026,Ozone,34.2890010008786,-85.970065,DeKalb,Crossville,"Fort Payne, AL",SND152,Sand Mountain,"Sand Mountain Alabama Agricultural Experiment Station, Crossville, AL 35962",0.047,0.057,Y,0.07
+01,051,0004,0004,0004,2026,Ozone,32.53568,-86.255193,Elmore,Wetumpka,"Montgomery, AL",0004,Wetumpka Westside Technology Park,"3148 Elmore Road, Wetumpka, Alabama 36092",,,N,0.07
+01,055,0010,0010,0010,2026,Ozone,33.98821,-85.992556,Etowah,Gadsden,"Gadsden, AL",0010 (SPM),GADSDEN C. COLLEGE,"314 COLLEGE DRIVE, GADSDEN, AL 35902",,,N,0.07
+01,073,0023,0023,0023,2026,Ozone,33.5530560008695,-86.815,Jefferson,Birmingham,"Birmingham-Hoover, AL",BIRM1,North Birmingham,"NO. B'HAM,SOU R.R., 3009 28TH ST. NO.",0.046,0.059,Y,0.07
+01,073,1003,1003,1003,2026,Ozone,33.4855560008686,-86.915,Jefferson,Fairfield,"Birmingham-Hoover, AL",1003,Fairfield,"FAIRFIELD, PFD, 5229 COURT B",,,N,0.07
+01,073,1005,1005,1005,2026,Ozone,33.3311110008666,-87.003611,Jefferson,Not in a city,"Birmingham-Hoover, AL",,McAdory,ROUTE 8 MCADORY,,,N,0.07
+01,073,1010,1010,1010,2026,Ozone,33.5452780008694,-86.549167,Jefferson,Leeds,"Birmingham-Hoover, AL",,Leeds,201 ASHVILLE ROAD,,,N,0.07
+01,073,2003,2003,2003,2026,Ozone,33.4997220008688,-86.924167,Jefferson,Birmingham,"Birmingham-Hoover, AL",,Wylam,1242 JERSEY ST WYLAM AL,,,N,0.07
+01,073,5003,5003,5003,2026,Ozone,33.8016670008726,-86.9425,Jefferson,Not in a city,"Birmingham-Hoover, AL",,Corner,10005 CORNER SCHOOL ROAD,,,N,0.07
+01,073,6002,6002,6002,2026,Ozone,33.5783330008698,-86.773889,Jefferson,Tarrant (corporate name for Tarrant City),"Birmingham-Hoover, AL",,Tarrant Elementary School,"TARRANT, ELEM. SCH., 1269 PORTLAND STREE",,,N,0.07
+01,089,0014,0014,0014,2026,Ozone,34.68547,-86.58816,Madison,Huntsville,"Huntsville, AL",,HUNTSVILLE OLD AIRPORT,3720 Russell Brown Dr SW,,,N,0.07
+01,089,0022,0022,0022,2026,Ozone,34.7727270008843,-86.756174,Madison,Huntsville,"Huntsville, AL",,HUNTSVILLE CAPSHAW ROAD,1130 Capshaw Road,,,N,0.07
+01,097,0003,0003,0003,2026,Ozone,30.7701810008299,-88.087761,Mobile,Chickasaw,"Mobile, AL",0003,CHICKASAW,"Iroquois and Azalea, CHICKASAW, MOBILE CO.,  ALABAMA",,,N,0.07
+01,097,2005,2005,2005,2026,Ozone,30.4743050008252,-88.141022,Mobile,Theodore,"Mobile, AL",,BAY ROAD,"BAY RD. ,MOBILE AL.",,,N,0.07
+01,101,1002,1002,1002,2026,Ozone,32.4128110008542,-86.263394,Montgomery,Montgomery,"Montgomery, AL",,"MOMS, ADEM","1350 COLISEUM BLVD, MONTGOMERY, ALABAMA",,,N,0.07
+01,103,0011,0011,0011,2026,Ozone,34.5307170008815,-86.967536,Morgan,Decatur,"Decatur, AL",0011,"DECATUR, Alabama","P.O. BOX 2224 WALLACE DEVELOPMENT CENTER. DECATUR, ALABAMA",,,N,0.07
+01,113,0003,0003,0003,2026,Ozone,32.437028,-84.999653,Russell,Phenix City,"Columbus, GA-AL",0003,PHENIX CITY - SOUTH GIRARD SCHOOL,"510 6th Place South, Phenix City, Alabama  36869",,,N,0.07
+01,117,0004,0004,0004,2026,Ozone,33.3171420008665,-86.825754,Shelby,Helena,"Birmingham-Hoover, AL",0004,HELENA,"HELENA, BEARDEN FARM",,,N,0.07
+01,119,0003,0003,0003,2026,Ozone,32.3626060008535,-88.277992,Sumter,Not in a city,,0003,"Ward, Sumter Co.","NNE of Ward Post Office, Sumter Co., Alabama",,,N,0.07
+01,125,0011,0011,0011,2026,Ozone,33.095379,-87.481507,Tuscaloosa,Tuscaloosa,"Tuscaloosa, AL",,"Duncanville Middle School, Duncanville (Tuscaloosa) Alabama","11205 Eagle Pkwy, DUNCANVILLE, AL_35456",,,N,0.07
+05,019,9991,9991,9991,2026,Ozone,34.1795,-93.0988,Clark,Not in a city,"Arkadelphia, AR",CAD150,Caddo Valley,"Lower Lake Recreation Area, Caddo Valley, AR 71923",0.049,0.057,Y,0.07
+05,035,0005,0005,0005,2026,Ozone,35.1972876317392,-90.1931407655994,Crittenden,Marion,"Memphis, TN-MS-AR",WATER TOWER,MARION,LH POLK AND COLONIAL DRIVE,0.042,0.06,Y,0.07
+05,101,0002,0002,0002,2026,Ozone,35.8327262904149,-93.208259502105,Newton,Not in a city,"Harrison, AR",FOREST SERVICE,DEER,HWY 16,0.056,0.058,Y,0.07
+05,113,0003,0003,0003,2026,Ozone,34.454513987,-94.143521226,Polk,Mena,,CACR1,EAGLE MOUNTAIN,463 POLK 631,,,N,0.07
+05,119,0007,0007,0007,2026,Ozone,34.7561888042723,-92.2812958643647,Pulaski,North Little Rock,"Little Rock-North Little Rock-Conway, AR",,PARR,PIKE AVE AT RIVER ROAD,0.044,0.056,Y,0.07
+05,119,1002,1002,1002,2026,Ozone,34.8357211208321,-92.2605813844258,Pulaski,North Little Rock,"Little Rock-North Little Rock-Conway, AR",,NLR AIRPORT,"REMOUNT ROAD N. LITTLE ROCK, ARKANSAS",0.05,0.06,Y,0.07
+05,143,0005,0005,0005,2026,Ozone,36.1797000452413,-94.1168273808054,Washington,Springdale,"Fayetteville-Springdale-Rogers, AR-MO",AIRPORT,SPRINGDALE,600 SOUTH OLD MISSOURI ROAD,0.052,0.059,Y,0.07
+05,143,0006,0006,0006,2026,Ozone,36.011703,-94.167436,Washington,Fayetteville,"Fayetteville-Springdale-Rogers, AR-MO",,Fayetteville Airport,429 Ernest Lancaster Dr.,0.048,0.056,Y,0.07
+10,001,0002,0002,0002,2026,Ozone,38.986681,-75.556818,Kent,Not in a city,"Dover, DE",KIL,PROPERTY OF KILLENS POND STATE PARK; BEHIND FARM BUILDINGS,"STATE ROAD 384, KILLENS POND RD",0.038,0.056,Y,0.07
+10,003,1007,1007,1007,2026,Ozone,39.551279,-75.732015,New Castle,Not in a city,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",LUM,Lums Pond,LUMS POND STATE PARK,0.037,0.057,Y,0.07
+10,003,1010,1010,1010,2026,Ozone,39.800423,-75.57634,New Castle,Not in a city,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",BCP,BCSP,BRANDYWINE CREEK STATE PARK,0.037,0.055,Y,0.07
+10,003,1013,1013,1013,2026,Ozone,39.773913,-75.496513,New Castle,Not in a city,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",BF2,"BELLEVUE STATE PARK, FIELD IN SE PORTION OF PARK",BELLEVUE STATE PARK,0.033,0.055,Y,0.07
+10,003,2004,2004,2004,2026,Ozone,39.739441,-75.557534,New Castle,Wilmington,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",MLK,MLK  CORNER OF MLK BLVD AND JUSTISON ST,MLK BLVD AND JUSTISON ST.,0.032,0.056,Y,0.07
+10,005,1002,1002,1002,2026,Ozone,38.65392,-75.610605,Sussex,Seaford,"Salisbury, MD-DE",SEA,Seaford Shipley State Service Center,350 VIRGINIA AVE SEAFORD,0.038,0.055,Y,0.07
+10,005,1003,1003,1003,2026,Ozone,38.779077,-75.163269,Sussex,Lewes,"Salisbury, MD-DE",LEW,"Lewes SPM SITE, NEAR UD ACID RAIN/MERCURY COLLECTORS",UNIV. OF DE COLLEGE OF MARINE STUDIES,0.038,0.054,Y,0.07
+11,001,0041,0041,0041,2026,Ozone,38.895572,-76.958072,District of Columbia,Washington,"Washington-Arlington-Alexandria, DC-VA-MD-WV",0041,RIVER TERRACE,"420 34th Street N.E.,Washington, DC 20019",0.029,0.053,Y,0.07
+11,001,0043,0043,0043,2026,Ozone,38.9218470009224,-77.013178,District of Columbia,Washington,"Washington-Arlington-Alexandria, DC-VA-MD-WV",0043,MCMILLAN  NCore-PAMS,"2500 1ST STREET, N.W. WASHINGTON DC",0.035,0.057,Y,0.07
+11,001,0050,0050,0050,2026,Ozone,38.970092,-77.016715,District of Columbia,Washington,"Washington-Arlington-Alexandria, DC-VA-MD-WV",0050,Takoma Rec Center,"301 Van Buren Street, N.W. Washington DC 20012",0.034,0.057,Y,0.07
+12,001,3012,3012,3012,2026,Ozone,29.5661120008103,-82.26608,Alachua,Micanopy,"Gainesville, FL",,Paynes Prairie Farm,"9300 CR 234 Micanopy, FL",,,N,0.07
+12,003,0002,0002,0002,2026,Ozone,30.2011110008208,-82.441111,Baker,Not in a city,"Jacksonville, FL",0160002F01,OLUSTEE,HWY 90 OLUSTEE FOREST SERVICE OFFICE,0.041,0.053,Y,0.07
+12,005,0006,0006,0006,2026,Ozone,30.1304330008197,-85.731517,Bay,Lower Grand Lagoon,"Panama City, FL",,"ST.ANDREWS STATE PARK, PANAMA CITY BEACH","4607 STATE PARK LN PCB,FL",0.045,0.054,Y,0.07
+12,009,0007,0007,0007,2026,Ozone,28.053611,-80.628611,Brevard,Melbourne,"Palm Bay-Melbourne-Titusville, FL",,Melbourne,"401 West Florida Avenue, Melbourne, FL 32901",0.046,0.055,Y,0.07
+12,009,4001,4001,4001,2026,Ozone,28.310840926,-80.61532975,Brevard,Cocoa Beach,"Palm Bay-Melbourne-Titusville, FL",,Cocoa Beach,400 SOUTH 4TH STREET,0.047,0.057,Y,0.07
+12,011,0033,0033,0033,2026,Ozone,26.0735360007455,-80.33845,Broward,Davie,"Miami-Fort Lauderdale-West Palm Beach, FL",33,Vista View Park,"4001 SW 142nd Ave, Davie, FL 33330",0.043,0.055,Y,0.07
+12,011,0034,0034,0034,2026,Ozone,26.0538889,-80.2569444,Broward,Davie,"Miami-Fort Lauderdale-West Palm Beach, FL",,Daniela Banu NCORE,"5300 South Pine Island Road, Davie, FL 33328",0.043,0.054,Y,0.07
+12,011,2003,2003,2003,2026,Ozone,26.2910878597443,-80.0963533689314,Broward,Pompano Beach Highlands,"Miami-Fort Lauderdale-West Palm Beach, FL",,Pompano Highlands,1951 NE 48TH ST,0.043,0.054,Y,0.07
+12,011,8002,8002,8002,2026,Ozone,26.087567132361,-80.1111521207624,Broward,Hollywood,"Miami-Fort Lauderdale-West Palm Beach, FL",,Dr. Von Mizell-Eula Johnson State Park (prev. John U Lloyd State Park),"6503 N Ocean Dr, Dania Beach, FL 33004",0.04,0.051,Y,0.07
+12,021,0004,0004,0004,2026,Ozone,26.2700825638459,-81.7109593300421,Collier,Naples,"Naples-Immokalee-Marco Island, FL",,LAURAL OAKS ELEMENTARY,7800 IMMOKALEE ROAD NAPLES 34119,0.042,0.054,Y,0.07
+12,023,0002,0002,0002,2026,Ozone,30.1780560008205,-82.619167,Columbia,Lake City,"Lake City, FL",,Lake City - Veteran's Domicile,751 SE SYCAMORE TERRACE,0.041,0.055,Y,0.07
+12,031,0077,0077,0077,2026,Ozone,30.477725,-81.587339,Duval,Jacksonville,"Jacksonville, FL",,Sheffield,13333 LANIER RD.,0.039,0.052,Y,0.07
+12,031,0100,0100,0100,2026,Ozone,30.2602780008218,-81.453611,Duval,Jacksonville,"Jacksonville, FL",,Mayo Clinic,13600 William Davis Parkway.,0.039,0.057,Y,0.07
+12,031,0106,0106,0106,2026,Ozone,30.378217,-81.8409,Duval,Jacksonville,"Jacksonville, FL",,Cisco Drive,4770 Cisco Dr,0.039,0.052,Y,0.07
+12,033,0004,0004,0004,2026,Ozone,30.525367,-87.20355,Escambia,Ferry Pass,"Pensacola-Ferry Pass-Brent, FL",,Ellyson Industrial Park,ELLYSON INDUSTRIAL PARK-COPTER ROAD,0.044,0.055,Y,0.07
+12,033,0018,0018,0018,2026,Ozone,30.3680500008235,-87.270967,Escambia,Pensacola,"Pensacola-Ferry Pass-Brent, FL",,Pensacola NAS,"21 Cunningham St, Pensacola, FL 32508",0.043,0.056,Y,0.07
+12,035,0004,0004,0004,2026,Ozone,29.489083,-81.276833,Flagler,Bunnell,"Deltona-Daytona Beach-Ormond Beach, FL",120350004,Flagler,208 Sawgrass Rd,0.041,0.053,Y,0.07
+12,055,0003,0003,0003,2026,Ozone,27.189215243,-81.340350458,Highlands,Sebring,"Sebring, FL",ARCHBOLD,Archbold Biological Station,123 MAIN DRIVE VENUS FL 33960,0.047,0.056,Y,0.07
+12,057,0081,0081,0081,2026,Ozone,27.7400328172842,-82.4651456481963,Hillsborough,Ruskin,"Tampa-St. Petersburg-Clearwater, FL",,Simmons Park,2401 19th Avenue Northwest,0.045,0.059,Y,0.07
+12,057,1035,1035,1035,2026,Ozone,27.928356115,-82.454538683,Hillsborough,Tampa,"Tampa-St. Petersburg-Clearwater, FL",,Davis Island,"155 Columbia Dr, Tampa FL 33606",0.043,0.058,Y,0.07
+12,057,1065,1065,1065,2026,Ozone,27.892523006,-82.538429412,Hillsborough,Tampa,"Tampa-St. Petersburg-Clearwater, FL",,USMC Reserve Center (Gandy),"5121 Gandy Blvd, Tampa, FL 33611",,,N,0.07
+12,057,3002,3002,3002,2026,Ozone,27.9656500007821,-82.2304,Hillsborough,Valrico,"Tampa-St. Petersburg-Clearwater, FL",,SYDNEY,"1167 N Dover Road, Valrico, FL 33527",0.043,0.056,Y,0.07
+12,059,0004,0004,0004,2026,Ozone,30.8486110008311,-85.603889,Holmes,Not in a city,,1860004F03,Bonifay,"1976 Tri County Airport Rd., Bonifay, FL 32425",0.043,0.052,Y,0.07
+12,061,9991,9991,9991,2026,Ozone,27.8492,-80.4554,Indian River,Not in a city,"Sebastian-Vero Beach, FL",IRL141,Indian River Lagoon,"Sebastian Inlet State Recreation Area, Vero Beach, FL 32963",0.049,0.055,Y,0.07
+12,069,0002,0002,0002,2026,Ozone,28.523889,-81.723333,Lake,Clermont,"Orlando-Kissimmee-Sanford, FL",,Clermont,1901 JOHNS LAKE RD,0.043,0.056,Y,0.07
+12,071,0005,0005,0005,2026,Ozone,26.602015752134,-81.8779081610228,Lee,Fort Myers,"Cape Coral-Fort Myers, FL",,Winkler Pump Station,"1403 Princeton St., Ft. Myers, FL 33901",0.045,0.049,Y,0.07
+12,071,2002,2002,2002,2026,Ozone,26.5482120414614,-81.9815225251196,Lee,Cape Coral,"Cape Coral-Fort Myers, FL",CAPE CORAL,Cape Coral - Rotary Park,5505 ROSE GARDEN RD CAPE COREL FL 33914,0.045,0.057,Y,0.07
+12,071,3002,3002,3002,2026,Ozone,26.449247204,-81.939255546,Lee,Fort Myers Beach,"Cape Coral-Fort Myers, FL",,Bay Oaks Park,"2731 Oak Street, Ft. Myers Beach, FL 33931",,,N,0.07
+12,073,0012,0012,0012,2026,Ozone,30.4397220008247,-84.346389,Leon,Tallahassee,"Tallahassee, FL",,Tallahassee Community College,110 CENTURY PARK CIRCLE WEST,0.03,0.049,Y,0.07
+12,077,9991,9991,9991,2026,Ozone,30.1103,-84.9903,Liberty,Not in a city,,SUM156,Sumatra,"Apalachicola National Forest, Bristol, FL 32321",,,N,0.07
+12,081,3002,3002,3002,2026,Ozone,27.633089127,-82.545929727,Manatee,Palmetto,"North Port-Sarasota-Bradenton, FL",,Port Manatee,"1801 Piney Point Rd., Palmetto, FL 34221",0.043,0.054,Y,0.07
+12,081,4012,4012,4012,2026,Ozone,27.480873047,-82.6187093,Manatee,Bradenton,"North Port-Sarasota-Bradenton, FL",,G.T. BRAY PARK,5502 33RD AVE DRIVE W. (G T BRAY PARK),0.045,0.057,Y,0.07
+12,081,4013,4013,4013,2026,Ozone,27.449763122,-82.52204068,Manatee,Bradenton,"North Port-Sarasota-Bradenton, FL",,39TH STREET SITE,5511 39TH STREET EAST,0.042,0.053,Y,0.07
+12,083,0003,0003,0003,2026,Ozone,29.170532805,-82.100645862,Marion,Ocala,"Ocala, FL",,Ocala YMCA,3200 SE 17TH STREET,0.044,0.056,Y,0.07
+12,083,0004,0004,0004,2026,Ozone,29.192753809,-82.173148714,Marion,Ocala,"Ocala, FL",,Marion County Sheriff,692 NW 30TH AVE,0.043,0.053,Y,0.07
+12,085,0007,0007,0007,2026,Ozone,27.172458,-80.240689,Martin,Stuart,"Port St. Lucie, FL",,Stuart,950 SE MONTEREY RD,0.045,0.053,Y,0.07
+12,086,0027,0027,0027,2026,Ozone,25.7328779805659,-80.1617501050887,Miami-Dade,Miami,"Miami-Fort Lauderdale-West Palm Beach, FL",,Rosenstiel,"4600 Rickenbacker Causeway, Miami, FL 33149",0.043,0.056,Y,0.07
+12,086,0029,0029,0029,2026,Ozone,25.5873274912361,-80.3259218761746,Miami-Dade,Cutler Ridge,"Miami-Fort Lauderdale-West Palm Beach, FL",,Perdue,19590 OLD CUTLER RD-PERDUE MED. CENTER,,,N,0.07
+12,091,0002,0002,0002,2026,Ozone,30.426533,-86.666217,Okaloosa,Fort Walton Beach,"Crestview-Fort Walton Beach-Destin, FL",,Ft. Walton Beach,720 Lovejoy Rd,,,N,0.07
+12,091,0003,0003,0003,2026,Ozone,30.4443689,-86.6095677,Okaloosa,Fort Walton Beach,"Crestview-Fort Walton Beach-Destin, FL",,Stillwell Park,710 Essex Drive,,,N,0.07
+12,095,0010,0010,0010,2026,Ozone,28.4531670007909,-81.397139,Orange,Orlando,"Orlando-Kissimmee-Sanford, FL",,Skyview,7697 S. Orange Blossom Trail,,,N,0.07
+12,095,2002,2002,2002,2026,Ozone,28.596389,-81.3625,Orange,Winter Park,"Orlando-Kissimmee-Sanford, FL",,WINTER PARK,"466 Harper St, Winter Park, FL 32789",,,N,0.07
+12,097,2002,2002,2002,2026,Ozone,28.347508623,-81.636463928,Osceola,Kissimmee,"Orlando-Kissimmee-Sanford, FL",,Osceola County Fire Station,"8706 W Irlo Bronson Memorial Hwy (SR 192), Kissimmee, FL 34747",0.042,0.058,Y,0.07
+12,099,0021,0021,0021,2026,Ozone,26.5938083,-80.0584917,Palm Beach,Lantana,"Miami-Fort Lauderdale-West Palm Beach, FL",,Lantana Preserve,"968 N 8th Street, Lantana, FL 33462",0.04,0.05,Y,0.07
+12,099,0022,0022,0022,2026,Ozone,26.687606,-80.219619,Palm Beach,Not in a city,"Miami-Fort Lauderdale-West Palm Beach, FL",,Lamstein Lane,"151 Lamstein Lane, Royal Palm Beach, FL 33411",,,N,0.07
+12,101,0005,0005,0005,2026,Ozone,28.332225323,-82.305642931,Pasco,Dade City,"Tampa-St. Petersburg-Clearwater, FL",,San Antonio,30908 WARDER ROAD,0.041,0.057,Y,0.07
+12,101,2001,2001,2001,2026,Ozone,28.195574101863,-82.7562643554609,Pasco,Holiday,"Tampa-St. Petersburg-Clearwater, FL",,Holiday,"3452 DARLINGTON RD., HOLIDAY",0.043,0.055,Y,0.07
+12,103,0004,0004,0004,2026,Ozone,27.946687816,-82.731766912,Pinellas,Clearwater,"Tampa-St. Petersburg-Clearwater, FL",,St. Petersburg College,2435 SHARKEY RD.CLEARWATER,0.044,0.058,Y,0.07
+12,103,0018,0018,0018,2026,Ozone,27.7858655503876,-82.7398753622281,Pinellas,Saint Petersburg,"Tampa-St. Petersburg-Clearwater, FL",,Azalea Park,"7200-22 Avenue N., St. Petersburg, FL 33710",0.045,0.056,Y,0.07
+12,103,0028,0028,0028,2026,Ozone,27.75704,-82.6618,Pinellas,Saint Petersburg,"Tampa-St. Petersburg-Clearwater, FL",,St. Pete Midtown,1323 21st Street South,,,N,0.07
+12,103,5002,5002,5002,2026,Ozone,28.0902994860128,-82.7007069013916,Pinellas,Tarpon Springs,"Tampa-St. Petersburg-Clearwater, FL",,John Chesnut Sr. Park - East Lake,"2200 East Lake Rd, Palm Harbor, FL 34865",0.044,0.056,Y,0.07
+12,105,6005,6005,6005,2026,Ozone,27.939746481,-82.000084012,Polk,Lakeland,"Lakeland-Winter Haven, FL",,Sikes Elementary School,2727 SHEPHERD RD (JAMES W. SIKES ELM SCH,0.045,0.056,Y,0.07
+12,105,6006,6006,6006,2026,Ozone,28.028889,-81.972222,Polk,Lakeland,"Lakeland-Winter Haven, FL",,Baptist Childrens' Home,"1015 SIKES BLVD., LAKELAND",,,N,0.07
+12,111,0013,0013,0013,2026,Ozone,27.3890790007713,-80.311033,St. Lucie,Fort Pierce,"Port St. Lucie, FL",,Savannas,1420 E Midway rd,0.046,0.054,Y,0.07
+12,113,0015,0015,0015,2026,Ozone,30.394133000824,-87.008033,Santa Rosa,Gulf Breeze,"Pensacola-Ferry Pass-Brent, FL",,Woodlawn Beach Middle School,1500 WOODLAWN WAY,0.043,0.055,Y,0.07
+12,115,1005,1005,1005,2026,Ozone,27.307268468,-82.570376362,Sarasota,Sarasota,"North Port-Sarasota-Bradenton, FL",,Lido Park,190 Taft Dr.,0.045,0.056,Y,0.07
+12,115,1006,1006,1006,2026,Ozone,27.350278,-82.479722,Sarasota,Sarasota,"North Port-Sarasota-Bradenton, FL",,Paw Park,"4570 17th Street, Sarasota, FL 34232",0.045,0.055,Y,0.07
+12,115,2002,2002,2002,2026,Ozone,27.089194,-82.362583,Sarasota,Venice,"North Port-Sarasota-Bradenton, FL",,Jackson Road,250 SOUTH JACKSON ROAD VENICE FLORIDA,0.045,0.054,Y,0.07
+12,117,1002,1002,1002,2026,Ozone,28.746111,-81.310556,Seminole,Sanford,"Orlando-Kissimmee-Sanford, FL",,Sanford (Seminole Community College),"284-300 Broadmoor Rd., Lake Mary, FL 32773",0.043,0.056,Y,0.07
+12,127,5002,5002,5002,2026,Ozone,29.206667,-81.0525,Volusia,Daytona Beach,"Deltona-Daytona Beach-Ormond Beach, FL",,DAYTONA BLIND SERVICES,"1185-A DUNN AVE., DAYTONA BEACH",0.043,0.054,Y,0.07
+12,129,0001,0001,0001,2026,Ozone,30.0925000008191,-84.161111,Wakulla,Saint Marks,"Tallahassee, FL",SAMA1,St. Marks Wildlife Refuge,COUNTY RD 59,0.041,0.051,Y,0.07
+13,021,0012,0012,0012,2026,Ozone,32.8052638843599,-83.5434927764767,Bibb,Macon,"Macon, GA",,Macon-Forestry,"Georgia Forestry Commision, 5645 Riggins Mill Road, Dry Branch, Georgia, 31020",,,N,0.07
+13,051,0021,0021,0021,2026,Ozone,32.0684799339595,-81.0494200624211,Chatham,Savannah,"Savannah, GA",,Savannah-E. President,"2500 E. PRESIDENT STREET, Bd-A, SAVANNAH, GA, 31404",0.034,0.049,Y,0.07
+13,055,0001,0001,0001,2026,Ozone,34.4745258717202,-85.4088473945433,Chattooga,Summerville,"Summerville, GA",,Summerville,"DNR Fish Hatchery, 231 Fish Hatchery Road, Summerville, Georgia, 30747",,,N,0.07
+13,059,0002,0002,0002,2026,Ozone,33.91813699186,-83.3443853953649,Clarke,Athens (corp name Athens-Clarke County),"Athens-Clarke County, GA",,Athens,"2350 BARNETT SHOALS RD., ATHENS, GA 30605",,,N,0.07
+13,067,0003,0003,0003,2026,Ozone,34.0154357417377,-84.6074234375265,Cobb,Kennesaw,"Atlanta-Sandy Springs-Roswell, GA",,Kennesaw,"Georgia National Guard, 1901 McCollum Parkway, Kennesaw, Georgia, 30144",,,N,0.07
+13,073,0001,0001,0001,2026,Ozone,33.5820435341433,-82.1312494133626,Columbia,Evans,"Augusta-Richmond County, GA-SC",,Evans,"Riverside Park, 4431 Hardy McManus Road, Evans, Georgia, 30809",,,N,0.07
+13,085,0001,0001,0001,2026,Ozone,34.3762272381086,-84.0595064747239,Dawson,Not in a city,"Atlanta-Sandy Springs-Roswell, GA",,Dawsonville,"Georgia Forestry Commission, 4500 Georgia Highway 53 East, Dawsonville, Georgia, 30534",,,N,0.07
+13,089,0002,0002,0002,2026,Ozone,33.6878000008712,-84.2905,DeKalb,Not in a city,"Atlanta-Sandy Springs-Roswell, GA",ATLA1,South DeKalb,"2300-C Wildcat Road, Decatur GA 30034",0.041,0.058,Y,0.07
+13,097,0004,0004,0004,2026,Ozone,33.7412421697239,-84.7764287767455,Douglas,Douglasville,"Atlanta-Sandy Springs-Roswell, GA",,Douglasville,"Douglas County Water Authority, 7725 W. Strickland St., Douglasville, Georgia 30134",,,N,0.07
+13,121,0055,0055,0055,2026,Ozone,33.720742384971,-84.3573161635597,Fulton,Atlanta,"Atlanta-Sandy Springs-Roswell, GA",,United Avenue,"945 East United Ave., Atlanta, Georgia, 30316",,,N,0.07
+13,127,0006,0006,0006,2026,Ozone,31.1698048619361,-81.4950347836971,Glynn,Brunswick,"Brunswick, GA",,Brunswick,"Glynn Learning Center, 2900 ALBANY ST., BRUNSWICK, GA 31520",0.042,0.051,Y,0.07
+13,135,0002,0002,0002,2026,Ozone,33.9632,-84.0691,Gwinnett,Not in a city,"Atlanta-Sandy Springs-Roswell, GA",,Gwinnett,"Gwinnett Tech, 5150 Sugarloaf Parkway, Lawrenceville, Georgia, 30043",,,N,0.07
+13,151,0002,0002,0002,2026,Ozone,33.4339490197359,-84.1618105696717,Henry,McDonough,"Atlanta-Sandy Springs-Roswell, GA",,McDonough,"Blessings Thrift Store, 86 Work Camp Road, McDonough, Georgia, 30253",,,N,0.07
+13,213,0003,0003,0003,2026,Ozone,34.7852187052364,-84.6264233130497,Murray,Chatsworth,"Dalton, GA",COHU1,Fort Mountain,"FORT MOUNTAIN, STATE HWY 52, COHUTTA OVERLOOK, CHATSWORTH, GA 30705",,,N,0.07
+13,215,0008,0008,0008,2026,Ozone,32.521272004906,-84.9446347567188,Muscogee,Columbus,"Columbus, GA-AL",,Columbus-Airport,"Columbus Airport, 3100 Airport Thruway Drive, Columbus, Georgia, 31909",,,N,0.07
+13,231,9991,9991,9991,2026,Ozone,33.1787,-84.4052,Pike,Not in a city,"Atlanta-Sandy Springs-Roswell, GA",GAS153,Georgia Station,"Georgia Station Georgia Agricultural Experiment Station, Williamson, GA 30292",0.051,0.065,Y,0.07
+13,245,0091,0091,0091,2026,Ozone,33.433900000868,-82.0224,Richmond,Augusta,"Augusta-Richmond County, GA-SC",,Augusta,"Bungalow Road Elementary School, 2216 BUNGALOW RD, AUGUSTA GA 30906",,,N,0.07
+13,247,0001,0001,0001,2026,Ozone,33.5885452834593,-84.0696076372333,Rockdale,Conyers,"Atlanta-Sandy Springs-Roswell, GA",,Conyers,"2625 Georgia Highway 212, Conyers, Georgia, 30094",,,N,0.07
+13,261,1001,1001,1001,2026,Ozone,31.954286175003,-84.0810096466376,Sumter,Leslie (RR name Leslie-DeSoto),"Americus, GA",,Leslie,"Leslie Communty Center, N Bass St/E Allen St., Leslie, Georgia, 31764",,,N,0.07
+17,001,0007,0007,0007,2026,Ozone,39.9154093678845,-91.3358683221107,Adams,Quincy,"Quincy, IL-MO",,JOHN WOOD COMMUNITY COLLEGE,1301 S. 48TH ST.,,,N,0.07
+17,019,0007,0007,0007,2026,Ozone,40.244913,-88.188519,Champaign,Thomasboro,"Champaign-Urbana, IL",,Thomasboro,NORTH THOMAS ST.,,,N,0.07
+17,019,1001,1001,1001,2026,Ozone,40.05278,-88.37251,Champaign,Bondville,"Champaign-Urbana, IL",,ISWS CLIMATE STATION,TWP RD 500 E.,,,N,0.07
+17,023,0001,0001,0001,2026,Ozone,39.210856578,-87.668297281,Clark,Not in a city,,,416 S. State St. Hwy 1- West Union,416 S. STATE ST. HWY 1/ WEST UNION,0.041,0.055,Y,0.07
+17,031,0001,0001,0001,2026,Ozone,41.6709918952829,-87.7324568962847,Cook,Alsip,"Chicago-Naperville-Elgin, IL-IN-WI",,VILLAGE GARAGE,4500 W. 123RD ST.,,,N,0.07
+17,031,0032,0032,0032,2026,Ozone,41.755832412403,-87.545349670582,Cook,Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",,SOUTH WATER FILTRATION PLANT,3300 E. CHELTENHAM PL.,,,N,0.07
+17,031,0076,0076,0076,2026,Ozone,41.7513999786378,-87.7134881520007,Cook,Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",CHIC1,COM ED MAINTENANCE BLDG,7801 LAWNDALE,,,N,0.07
+17,031,1003,1003,1003,2026,Ozone,41.9843323270383,-87.7920016971163,Cook,Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",,TAFT HS,6545 W. HURLBUT ST.,,,N,0.07
+17,031,1601,1601,1601,2026,Ozone,41.6681203371799,-87.9905696935943,Cook,Lemont,"Chicago-Naperville-Elgin, IL-IN-WI",,COOK COUNTY TRAILER,729 HOUSTON,,,N,0.07
+17,031,3103,3103,3103,2026,Ozone,41.9651934814238,-87.8762647334973,Cook,Schiller Park,"Chicago-Naperville-Elgin, IL-IN-WI",,IEPA TRAILER,4743 MANNHEIM RD.,,,N,0.07
+17,031,4002,4002,4002,2026,Ozone,41.8552431328191,-87.7524696987103,Cook,Cicero,"Chicago-Naperville-Elgin, IL-IN-WI",,COOK COUNTY TRAILER,1820 S. 51ST AVE.,,,N,0.07
+17,031,4007,4007,4007,2026,Ozone,42.0602846910538,-87.8632254343829,Cook,Des Plaines,"Chicago-Naperville-Elgin, IL-IN-WI",,REGIONAL OFFICE BUILDING,9511 W. HARRISON ST,,,N,0.07
+17,031,4201,4201,4201,2026,Ozone,42.139996190948,-87.7992269168431,Cook,Northbrook,"Chicago-Naperville-Elgin, IL-IN-WI",,NORTHBROOK WATER PLANT,750 DUNDEE ROAD,0.041,0.06,Y,0.07
+17,031,7002,7002,7002,2026,Ozone,42.062053,-87.675254,Cook,Evanston,"Chicago-Naperville-Elgin, IL-IN-WI",,WATER PLANT,531 E. LINCOLN,,,N,0.07
+17,043,6001,6001,6001,2026,Ozone,41.8130493906461,-88.0728268954165,DuPage,Lisle,"Chicago-Naperville-Elgin, IL-IN-WI",,MORTON ARBORETUM,RT. 53,,,N,0.07
+17,049,1001,1001,1001,2026,Ozone,39.067159316124,-88.5489340120502,Effingham,Effingham,"Effingham, IL",,CENTRAL JR HIGH,10421 N. US HWY. 45,,,N,0.07
+17,065,0002,0002,0002,2026,Ozone,38.0821551646727,-88.6249434004072,Hamilton,Not in a city,"Mount Vernon, IL",,TEN MILE CREEK DNR OFFICE,STATE ROUTE 14,,,N,0.07
+17,083,0117,0117,0117,2026,Ozone,39.101439,-90.344494,Jersey,Jerseyville,"St. Louis, MO-IL",,JERSEYVILLE WATER TREATMENT PLANT (WTP),1320 MAPLE SUMMTT ROAD,,,N,0.07
+17,085,9991,9991,9991,2026,Ozone,42.2869,-89.9997,Jo Daviess,Not in a city,,STK138,Stockton,"10952 E. Parker Rd, Stockton, IL 61085",0.041,0.055,Y,0.07
+17,089,0124,0124,0124,2026,Ozone,42.021314,-88.282985,Kane,Elgin,"Chicago-Naperville-Elgin, IL-IN-WI",,Elgin DMV,595 S. State Street,,,N,0.07
+17,097,1007,1007,1007,2026,Ozone,42.465964,-87.809624,Lake,Zion,"Chicago-Naperville-Elgin, IL-IN-WI",,CAMP LOGAN TRAILER,ILLINOIS BEACH STATE PARK,,,N,0.07
+17,111,0001,0001,0001,2026,Ozone,42.221441662101,-88.2422073399828,McHenry,Cary,"Chicago-Naperville-Elgin, IL-IN-WI",,CARY GROVE HS,FIRST ST. & THREE OAKS RD.,,,N,0.07
+17,113,2003,2003,2003,2026,Ozone,40.5187353721062,-88.9968957084304,McLean,Normal,"Bloomington, IL",,ISU HARRIS PHYSICAL PLANT,MAIN & GREGORY,,,N,0.07
+17,115,0013,0013,0013,2026,Ozone,39.866833885022,-88.925594450544,Macon,Decatur,"Decatur, IL",,IEPA TRAILER,2200 N. 22ND,,,N,0.07
+17,117,0002,0002,0002,2026,Ozone,39.3960753340187,-89.809738918633,Macoupin,Nilwood,"St. Louis, MO-IL",,IEPA TRAILER,HEATON & DUBOIS,,,N,0.07
+17,119,0120,0120,0120,2026,Ozone,38.901361539954,-90.1463079297551,Madison,Alton,"St. Louis, MO-IL",,ALTON HORACE MANN ELEMENTARY SCHOOL,2708 EDWARDS STREET,,,N,0.07
+17,119,0122,0122,0122,2026,Ozone,38.730263,-89.950053,Madison,Maryville,"St. Louis, MO-IL",,VILLAGE OF MARYVILLE,8B SCHIBER COURT,,,N,0.07
+17,119,3007,3007,3007,2026,Ozone,38.8606694707698,-90.1058511128885,Madison,Wood River,"St. Louis, MO-IL",,WATER PLANT,54 N. WALCOTT,,,N,0.07
+17,119,9991,9991,9991,2026,Ozone,38.869001000922,-89.622816,Madison,Not in a city,"St. Louis, MO-IL",ALH157,Alhambra,"5403 State Road 160, Highland, IL 62249",,,N,0.07
+17,143,0024,0024,0024,2026,Ozone,40.6874203817217,-89.6069427745454,Peoria,Peoria,"Peoria, IL",,FIRESTATION,HURLBURT & MACARTHUR,,,N,0.07
+17,143,1001,1001,1001,2026,Ozone,40.7455039336384,-89.5858690207098,Peoria,Peoria Heights,"Peoria, IL",,PEORIA HEIGHTS HS,508 E. GLEN AVE.,,,N,0.07
+17,157,0001,0001,0001,2026,Ozone,38.1762776056649,-89.7884586171723,Randolph,Not in a city,,,IEPA TRAILER,HICKORY GROVE & FALLVIEW,,,N,0.07
+17,161,3002,3002,3002,2026,Ozone,41.5147269688183,-90.5173502630811,Rock Island,Rock Island Arsenal (U.S. Army),"Davenport-Moline-Rock Island, IA-IL",,ROCK ISLAND ARSENAL,32 RODMAN AVE.,,,N,0.07
+17,163,0010,0010,0010,2026,Ozone,38.6120344810656,-90.1604766324869,Saint Clair,East Saint Louis,"St. Louis, MO-IL",,IEPA-RAPS TRAILER,13TH & TUDOR,,,N,0.07
+17,167,0014,0014,0014,2026,Ozone,39.831522,-89.640926,Sangamon,Springfield,"Springfield, IL",,Illinois Building State Fairgrounds,Illinois Building State Fairgrounds,,,N,0.07
+17,197,1011,1011,1011,2026,Ozone,41.2215370677657,-88.190967175228,Will,Braidwood,"Chicago-Naperville-Elgin, IL-IN-WI",,COM ED TRAINING CENTER,36400 S. ESSEX RD.,,,N,0.07
+17,201,2001,2001,2001,2026,Ozone,42.3349822164807,-89.037774802799,Winnebago,Loves Park,"Rockford, IL",,MAPLE ELEMENTARY SCHOOL,1405 MAPLE AVE.,,,N,0.07
+18,003,0002,0002,0002,2026,Ozone,41.2214176,-85.0168207,Allen,Leo-Cedarville,"Fort Wayne, IN",,Leo High School,"14600 AMSTUTZ RD., LEO HS",0.038,0.057,Y,0.07
+18,003,0004,0004,0004,2026,Ozone,41.094965496,-85.101816308,Allen,Fort Wayne,"Fort Wayne, IN",,Ft. Wayne- Beacon St.,2022 NORTH BEACON/ Fort Wayne- Beacon St.,,,N,0.07
+18,003,0015,0015,0015,2026,Ozone,41.081864059,-85.088313045,Allen,Fort Wayne,"Fort Wayne, IN",,Fort Wayne- Coliseum,Fort Wayne- Coliseum   707 N. Coliseum Blvd.,,,N,0.07
+18,005,0007,0007,0007,2026,Ozone,39.2943220009249,-85.76681648,Bartholomew,Hope,"Columbus, IN",,Hope- Hauser Jr-Sr High School,"Hope-Hauser Jr-Sr High School, 9404 N. 775 E.",0.044,0.058,Y,0.07
+18,011,0001,0001,0001,2026,Ozone,39.9977323389292,-86.395394405,Boone,Not in a city,"Indianapolis-Carmel-Anderson, IN",SITE 45,"Perry Worth ELEMENTRY SCHOOL, WEST OF WHITESTOWN","3900 E. 300 S, WHITESTOWN/ Perry Worth Elementary",0.04,0.058,Y,0.07
+18,013,0001,0001,0001,2026,Ozone,39.263914301,-86.2922690984,Brown,Not in a city,"Indianapolis-Carmel-Anderson, IN",,Helmsburg,4831 Helmsburg Rd.- Helmsburg,0.042,0.054,Y,0.07
+18,015,0002,0002,0002,2026,Ozone,40.540454633,-86.553034931,Carroll,Not in a city,"Lafayette-West Lafayette, IN",,Flora-Flora Airport,481 S. 150 W. / FLORA AIRPORT,0.04,0.058,Y,0.07
+18,019,0008,0008,0008,2026,Ozone,38.3938222909186,-85.66411754,Clark,Not in a city,"Louisville/Jefferson County, KY-IN",,Charlestown State Park- 1051.8 meters East of SR 62/ Indiana armory,12500 St. Rd. 62-Charlestown State Park/ Indiana Armory,0.044,0.062,Y,0.07
+18,035,0010,0010,0010,2026,Ozone,40.3003849529308,-85.245861596,Delaware,Albany,"Muncie, IN",,Albany- Albany Elem. Sch.,700 W. STATE ST./ ALBANY ELEMENTARY,0.041,0.058,Y,0.07
+18,039,0007,0007,0007,2026,Ozone,41.7169590009372,-85.824696,Elkhart,Bristol,"Elkhart-Goshen, IN",,Bristol- Bristol Elem. Sch.,705 Indiana St../ Bristol Elementary,0.04,0.057,Y,0.07
+18,043,0008,0008,0008,2026,Ozone,38.317813,-85.833322,Floyd,New Albany,"Louisville/Jefferson County, KY-IN",,,New Albany- 4H Road (site on Floyd County Fairgrounds),,,N,0.07
+18,055,0001,0001,0001,2026,Ozone,38.9854769349229,-86.990419044,Greene,Not in a city,"Bloomington, IN",SITE 47,"Plummer, 2500 S. W- Citizens gas Plummer maintenance faciliy","2500 S. 275 W, PLUMMER",0.044,0.057,Y,0.07
+18,057,0006,0006,0006,2026,Ozone,40.0682967009296,-85.9924507,Hamilton,Noblesville,"Indianapolis-Carmel-Anderson, IN",,Our Lady of Grace- Noblesville,Noblesville- 9900 E. 191st St.,0.042,0.059,Y,0.07
+18,063,0004,0004,0004,2026,Ozone,39.7587065209278,-86.39849989,Hendricks,Avon,"Indianapolis-Carmel-Anderson, IN",SITE 46,"AVON- 255 S. SR 267 (also 255 S. Avon Ave.) Avon, IN","Avon- 7203 E. US HIGHWAY 36, Avon Transportation Cntr.- 255 S. Avon Ave.(updated 2016)",0.041,0.056,Y,0.07
+18,067,0004,0004,0004,2026,Ozone,40.4813468883318,-86.109688135,Howard,Kokomo,"Kokomo, IN",,Kokomo- E. Vaile Rd.,Kokomo- 1802 E. Vaile Ave.,0.04,0.059,Y,0.07
+18,083,9991,9991,9991,2026,Ozone,38.7408,-87.4853,Knox,Not in a city,"Vincennes, IN",VIN140,Vincennes,"Southwest Purdue Agricultural Center, Vincennes, IN 47591",0.044,0.058,Y,0.07
+18,089,0022,0022,0022,2026,Ozone,41.6066623240368,-87.304943321,Lake,Gary,"Chicago-Naperville-Elgin, IL-IN-WI",,Gary-IITRI/ 1219.5 meters east of Tennessee St.- old ammuntion bunker,"201 MISSISSIPPI ST., IITRI BUNKER",0.039,0.059,Y,0.07
+18,089,2008,2008,2008,2026,Ozone,41.639305615,-87.493608768,Lake,Hammond,"Chicago-Naperville-Elgin, IL-IN-WI",,HAMMOND CAAP- Hammond- 141st St.,1300 141 ST STREET,0.04,0.061,Y,0.07
+18,091,0005,0005,0005,2026,Ozone,41.717761593,-86.907786329,LaPorte,Michigan City,"Michigan City-La Porte, IN",,Michigan City- W. Michigan Blvd./  NIPSCO Gas Station,490 W. Michigan Blvd. Michigan City- W. Michigan Blvd.,0.041,0.062,Y,0.07
+18,091,0010,0010,0010,2026,Ozone,41.629258966,-86.685020473,LaPorte,La Porte,"Michigan City-La Porte, IN",,LAPORTE OZONE SITE AT WATER TREATMENT PLANT,2011 E. LINCOLNWAY  LaPorte- E. Lincolnway,0.042,0.057,Y,0.07
+18,095,0011,0011,0011,2026,Ozone,40.1257028009299,-85.652184,Madison,Anderson,"Indianapolis-Carmel-Anderson, IN",,Anderson- Eastside Elem. School,844 N. Scatterfield - Anderson Eastside Elementary,0.041,0.059,Y,0.07
+18,097,0050,0050,0050,2026,Ozone,39.8588890009284,-86.021389,Marion,Lawrence,"Indianapolis-Carmel-Anderson, IN",,Indpls.- Ft. Harrison,5753 Glenn Rd.- FORT HARRISON STATE PARK,0.042,0.057,Y,0.07
+18,097,0057,0057,0057,2026,Ozone,39.7490270009277,-86.186269,Marion,Indianapolis (Remainder),"Indianapolis-Carmel-Anderson, IN",,Indpls- Harding St.,1321 SOUTH HARDING,0.039,0.057,Y,0.07
+18,097,0078,0078,0078,2026,Ozone,39.8108330009281,-86.114444,Marion,Indianapolis (Remainder),"Indianapolis-Carmel-Anderson, IN",SITE 41,Indpls- Washington Park/  in parking lot next to police station,"3120 E. 30TH ST., WASHINGTON PARK",0.039,0.058,Y,0.07
+18,097,0087,0087,0087,2026,Ozone,39.787933053,-86.130879593,Marion,Indianapolis (Remainder),"Indianapolis-Carmel-Anderson, IN",,Indpls.- I 70,1650 Ludlow Ave.- Indianapolis- I 70,,,N,0.07
+18,123,0009,0009,0009,2026,Ozone,38.1151518879165,-86.603250244,Perry,Not in a city,,,Leopold- Perry Central HS,19856 OLD ST RD 37/PERRY CENTRAL HS/ LEOPOLD,0.043,0.057,Y,0.07
+18,127,0024,0024,0024,2026,Ozone,41.6175000009369,-87.199167,Porter,Ogden Dunes (Wickliffe),"Chicago-Naperville-Elgin, IL-IN-WI",,Ogden Dunes- Water Treatment Plant,84 DIANA RD/ WATER TREATMENT PLANT,0.04,0.061,Y,0.07
+18,127,0026,0026,0026,2026,Ozone,41.5121175909364,-87.03623606,Porter,Not in a city,"Chicago-Naperville-Elgin, IL-IN-WI",,VALPARAISO,1000 WESLEY ST./ VALPARAISO WATER DEPT.,0.041,0.059,Y,0.07
+18,129,0003,0003,0003,2026,Ozone,38.0064104009156,-87.71835352,Posey,Not in a city,"Evansville, IN-KY",,ST. PHILLIPS- St. Phillips road CAAP trailer,"2027 S. ST. PHILLIPS RD., Evansville",0.043,0.057,Y,0.07
+18,141,0010,0010,0010,2026,Ozone,41.5516670009366,-86.370556,St. Joseph,Not in a city,"South Bend-Mishawaka, IN-MI",,Potato Creek State Park,"25601 STATE RD. 4, North Liberty/ POTATO CREEK STATE PARK",0.038,0.054,Y,0.07
+18,141,0015,0015,0015,2026,Ozone,41.6966604109371,-86.214722,St. Joseph,South Bend,"South Bend-Mishawaka, IN-MI",,South Bend-Shields Dr.,2335 SHIELDS DR/ SOUTH BEND CAAP 2,0.04,0.059,Y,0.07
+18,141,0016,0016,0016,2026,Ozone,41.7547220009374,-86.11,St. Joseph,Granger,"South Bend-Mishawaka, IN-MI",,Granger-Beckley St.,"Granger- Beckley St.  12441 Beckley. St., Granger",0.042,0.058,Y,0.07
+18,145,0001,0001,0001,2026,Ozone,39.6133665609269,-85.8706688,Shelby,Not in a city,"Indianapolis-Carmel-Anderson, IN",SITE 50,"TRITON Middle SCHOOL, NORTH OF FAIRLAND","4740  W. 600 N, FAIRLAND",0.04,0.057,Y,0.07
+18,163,0013,0013,0013,2026,Ozone,38.1138890009165,-87.536667,Vanderburgh,Not in a city,"Evansville, IN-KY",,Inglefield/ Scott School,14940 OLD STATE ROAD/ SCOTT ELEMENTARY,0.041,0.057,Y,0.07
+18,163,0021,0021,0021,2026,Ozone,38.0133330009157,-87.577222,Vanderburgh,Evansville,"Evansville, IN-KY",,Evansville- Buena Vista,Evansville-Buena Vista-1110 W. Buena Vista Rd.,0.042,0.058,Y,0.07
+18,167,0018,0018,0018,2026,Ozone,39.4859870009261,-87.401312,Vigo,Terre Haute,"Terre Haute, IN",,TERRE HAUTE CAAP/ McLean High School,Terre Haute- Lafayette Ave.   961 N. LAFAYETTE AVE.,0.039,0.054,Y,0.07
+18,167,0024,0024,0024,2026,Ozone,39.5585249109266,-87.31288295,Vigo,Not in a city,"Terre Haute, IN",,Sandcut/  SITE LOCATED BY HOME BEHIND SHED.,7597 N. STEVENSON RD/ SANDCUT,,,N,0.07
+18,169,9991,9991,9991,2026,Ozone,40.8160380009334,-85.661408,Wabash,Not in a city,"Wabash, IN",SAL133,Salamonie Reservoir,"Hamilton Rd, Lagro, IN 46941",0.044,0.058,Y,0.07
+18,173,0008,0008,0008,2026,Ozone,38.051667000916,-87.278056,Warrick,Boonville,"Evansville, IN-KY",,Boonville-  Boonville HS,300 N. 1ST ST./ BOONVILLE HIGH SCHOOL,0.043,0.059,Y,0.07
+18,173,0011,0011,0011,2026,Ozone,37.9544440009152,-87.321667,Warrick,Not in a city,"Evansville, IN-KY",,Dayville,"DAYVILLE- 3488 EBLE RD, Newburgh",,,N,0.07
+19,017,0011,0011,0011,2026,Ozone,42.743036336,-92.51324149,Bremer,Waverly,"Waterloo-Cedar Falls, IA",,WAVERLY AIRPORT SITE,WAVERLY AIRPORT,,,N,0.07
+19,045,0021,0021,0021,2026,Ozone,41.8749989322255,-90.17757390303,Clinton,Clinton,"Clinton, IA",RAINBOW PARK,"CLINTON, RAINBOW PARK",ROOSEVELT ST.,,,N,0.07
+19,085,0007,0007,0007,2026,Ozone,41.8322560508807,-95.9281846453789,Harrison,Not in a city,"Omaha-Council Bluffs, NE-IA",,,"206 Polk St, Pisgah, IA",,,N,0.07
+19,113,0033,0033,0033,2026,Ozone,42.281013,-91.526879,Linn,Coggon,"Cedar Rapids, IA",,COGGON ELEMENTARY SCHOOL BLDG. NORTHERN LIMITS OF LINN COUNTY,"408 E. LINN ST. COGGON, IOWA",,,N,0.07
+19,113,0040,0040,0040,2026,Ozone,41.97677,-91.68766,Linn,Cedar Rapids,"Cedar Rapids, IA",,Public Health,500 11TH ST NW,,,N,0.07
+19,137,0002,0002,0002,2026,Ozone,40.9691120009341,-95.044951,Montgomery,Not in a city,,VIKING LAKE STATE PARK,VIKING LAKE STATE PARK,2780 VIKING LAKE ROAD,,,N,0.07
+19,147,1002,1002,1002,2026,Ozone,43.1237040009413,-94.693518,Palo Alto,Emmetsburg,,EMMETSBURG,"EMMETSBURG, IOWA LAKES COMMUNITY COLL.",IOWA LAKES COMMUNITY COLLEGE,,,N,0.07
+19,153,0030,0030,0030,2026,Ozone,41.6031590009368,-93.643118,Polk,Des Moines,"Des Moines-West Des Moines, IA",,CARPENTER,"1907 CARPENTER, DES MOINES IOWA",,,N,0.07
+19,153,1579,1579,1579,2026,Ozone,41.8494333309377,-93.69761667,Polk,Polk City,"Des Moines-West Des Moines, IA",,"Sheldahl, Southern Crossroads",15795 NW 58th Street,,,N,0.07
+19,163,0014,0014,0014,2026,Ozone,41.6991742378824,-90.5219436580942,Scott,Davenport,"Davenport-Moline-Rock Island, IA-IL",SCOTT COUNTY PARK,SCOTT COUNTY PARK,SCOTT COUNTY PARK,,,N,0.07
+19,163,0015,0015,0015,2026,Ozone,41.5300106207475,-90.5876108140407,Scott,Davenport,"Davenport-Moline-Rock Island, IA-IL",JEFFERSON SCH.,"DAVENPORT, JEFFERSON SCH.",10TH ST. & VINE ST. DAVENPORT,0.031,0.053,Y,0.07
+19,177,0006,0006,0006,2026,Ozone,40.695078,-92.006318,Van Buren,Not in a city,,LAKE SUGEMA STATE PARK II,LAKE SUGEMA STATE PARK II,24430 LACEY TRAIL,,,N,0.07
+19,193,0022,0022,0022,2026,Ozone,42.55472,-96.46288,Woodbury,Sioux City,"Sioux City, IA-NE-SD",,Sioux City Stone State Park,5001 Talbot Rd,,,N,0.07
+20,045,9991,9991,9991,2026,Ozone,38.9349,-95.2309,Douglas,Lawrence,"Lawrence, KS",HAS012,Haskell Indian Nations University,155 Indian Ave,,,N,0.07
+20,091,0010,0010,0010,2026,Ozone,38.838575,-94.746424,Johnson,Not in a city,"Kansas City, MO-KS",,HERITAGE PARK,13899 W 159TH,0.037,0.053,Y,0.07
+20,103,0003,0003,0003,2026,Ozone,39.327391,-94.95102,Leavenworth,Leavenworth,"Kansas City, MO-KS",,Leavenworth,2010 METROPOLITAN,0.035,0.054,Y,0.07
+20,133,0003,0003,0003,2026,Ozone,37.67696,-95.47594,Neosho,Not in a city,,,CHANUTE,1500 WEST SEVENTH,0.036,0.054,Y,0.07
+20,173,0010,0010,0010,2026,Ozone,37.702066,-97.314847,Sedgwick,Wichita,"Wichita, KS",,WICHITA HD,"HEALTH DEPT., 1900 EAST 9TH ST.",0.038,0.055,Y,0.07
+20,173,0018,0018,0018,2026,Ozone,37.897506,-97.492083,Sedgwick,Not in a city,"Wichita, KS",,Sedgwick Ozone,12831 W. 117N,0.039,0.057,Y,0.07
+20,177,0013,0013,0013,2026,Ozone,39.024265,-95.711275,Shawnee,Topeka,"Topeka, KS",,KNI,2501 RANDOLPH AVENUE,0.035,0.056,Y,0.07
+20,191,0002,0002,0002,2026,Ozone,37.47689,-97.366399,Sumner,Not in a city,"Wichita, KS",,PECK,"707 E 119TH ST SOUTH,PECK COMMUNITY BLDG",0.036,0.053,Y,0.07
+20,195,0001,0001,0001,2026,Ozone,38.770081,-99.763424,Trego,Not in a city,,CEBL1,CEDAR BLUFF,"CEDAR BLUFF RESERVOIR,PRONGHORN & MULEY",0.037,0.057,Y,0.07
+20,209,0021,0021,0021,2026,Ozone,39.117219,-94.635605,Wyandotte,Kansas City,"Kansas City, MO-KS",,JFK,"1210 N. 10TH ST.,JFK RECREATION CENTER",0.036,0.056,Y,0.07
+21,013,0002,0002,0002,2026,Ozone,36.60843,-83.73694,Bell,Middlesborough (corporate name for Middlesboro),"Middlesborough, KY",KAIRS 1340,MIDDLESBORO,1420 DORCHESTER AVENUE,0.032,0.049,Y,0.07
+21,015,0008,0008,0008,2026,Ozone,38.9674434,-84.7213627,Boone,Not in a city,"Cincinnati, OH-KY-IN",,Nature Center,9101 Camp Ernst Rd,,,N,0.07
+21,019,0017,0017,0017,2026,Ozone,38.45934,-82.64041,Boyd,Ashland,"Huntington-Ashland, WV-KY-OH",KAIRS 5365,ASHLAND PRIMARY (FIVCO),"FIVCO HEALTH DEPARTMENT, 2924 HOLT STREET",0.041,0.056,Y,0.07
+21,029,0006,0006,0006,2026,Ozone,37.98629,-85.71192,Bullitt,Shepherdsville,"Louisville/Jefferson County, KY-IN",KAIRS 7337,SHEPHERDSVILLE,SECOND & CARPENTER STREETS,0.038,0.056,Y,0.07
+21,037,3002,3002,3002,2026,Ozone,39.021881,-84.47445,Campbell,Highland Heights,"Cincinnati, OH-KY-IN",,NORTHERN KENTUCKY UNIVERSITY (NKU),524A JOHN'S HILL ROAD,0.035,0.059,Y,0.07
+21,043,0500,0500,0500,2026,Ozone,38.23887,-82.9881,Carter,Not in a city,,KAIRS 5302,GRAYSON LAKE,"CAMP ROBERT WEBB, 1486 CAMP WEBB ROAD",0.043,0.054,Y,0.07
+21,047,0006,0006,0006,2026,Ozone,36.91171,-87.323337,Christian,Not in a city,"Clarksville, TN-KY",10-148,HOPKINSVILLE,"WILLIAMSON RESIDENCE, 10800 PILOT ROCK ROAD",,,N,0.07
+21,059,0005,0005,0005,2026,Ozone,37.780776,-87.075307,Daviess,Not in a city,"Owensboro, KY",KAIRS 4058,OWENSBORO PRIMARY,716 PLEASANT VALLEY ROAD,,,N,0.07
+21,059,0015,0015,0015,2026,Ozone,37.7716709,-87.0558193,Daviess,Not in a city,"Owensboro, KY",,Meadow Lands (Owensboro),3500 Hayden Rd,,,N,0.07
+21,061,0501,0501,0501,2026,Ozone,37.13179,-86.142953,Edmonson,Not in a city,"Bowling Green, KY",MACA1,Mammoth Cave NP,MAMMOTH CAVE NP - ALFRED COOK ROAD,0.044,0.055,Y,0.07
+21,067,0012,0012,0012,2026,Ozone,38.06503,-84.49761,Fayette,Lexington-Fayette (corporate name for Lexington),"Lexington-Fayette, KY",KAIRS 2263,LEXINGTON PRIMARY,"FAYETTE COUNTY HEALTH DEPT, 650 NEWTOWN PIKE",0.04,0.054,Y,0.07
+21,089,0007,0007,0007,2026,Ozone,38.548136,-82.731163,Greenup,Worthington,"Huntington-Ashland, WV-KY-OH",KAIRS 5282,WORTHINGTON,SCOTT STREET & CENTER AVENUE,0.038,0.051,Y,0.07
+21,091,0012,0012,0012,2026,Ozone,37.93829,-86.89719,Hancock,Lewisport,"Owensboro, KY",KAIRS 4281,LEWISPORT,2ND STREET & CAROLINE STREET,0.038,0.055,Y,0.07
+21,093,0006,0006,0006,2026,Ozone,37.705612,-85.852629,Hardin,Elizabethtown,"Elizabethtown-Fort Knox, KY",,ELIZABETHTOWN,"AMERICAN LEGION PARK, 801 NORTH MILES STREET",,,N,0.07
+21,093,0007,0007,0007,2026,Ozone,37.7145134,-85.878227,Hardin,Not in a city,"Elizabethtown-Fort Knox, KY",,Freeman Lake,140 Freeman Lake Park Road,,,N,0.07
+21,111,0051,0051,0051,2026,Ozone,38.0609100009161,-85.89804,Jefferson,Louisville,"Louisville/Jefferson County, KY-IN",KAIRS 6111,Watson Lane,"7201 WATSON LN, WATSON LN ELEMENTARY SCH",,,N,0.07
+21,111,0067,0067,0067,2026,Ozone,38.2287600009174,-85.65452,Jefferson,Louisville,"Louisville/Jefferson County, KY-IN",67,CANNONS LANE,"2730 CANNONS LANE, BOWMAN FIELD",0.042,0.064,Y,0.07
+21,111,0080,0080,0080,2026,Ozone,38.182435,-85.574361,Jefferson,Jeffersontown,"Louisville/Jefferson County, KY-IN",,Carrithers Middle School,4320 Billtown Road,,,N,0.07
+21,111,1041,1041,1041,2026,Ozone,38.2315800009174,-85.82678,Jefferson,Louisville,"Louisville/Jefferson County, KY-IN",KAIRS 6083,Algonquin Parkway,4201 ALGONQUIN PKWY,0.029,0.056,Y,0.07
+21,113,0001,0001,0001,2026,Ozone,37.89147,-84.58825,Jessamine,Nicholasville,"Lexington-Fayette, KY",KAIRS 2332,NICHOLASVILLE,"KYTC MAINTENANCE GARAGE,  260 WILSON DRIVE",0.043,0.057,Y,0.07
+21,139,0003,0003,0003,2026,Ozone,37.155392,-88.394024,Livingston,Not in a city,"Paducah, KY-IL",KAIRS 8288,SMITHLAND,"LIVINGSTON CO ROAD DEPT, 706 STATE DRIVE",0.042,0.055,Y,0.07
+21,145,1024,1024,1024,2026,Ozone,37.05822,-88.57251,McCracken,Paducah,"Paducah, KY-IL",KAIRS 8280,JACKSON PURCHASE (PADUCAH PRIMARY),"JACKSON PURCHASE RECC, 2901 POWELL STREET",,,N,0.07
+21,145,1027,1027,1027,2026,Ozone,37.08727,-88.60801,McCracken,Paducah,"Paducah, KY-IL",,Paducah Transit,920 Harrison Street,,,N,0.07
+21,175,9991,9991,9991,2026,Ozone,37.9214,-83.0662,Morgan,Not in a city,,CKT136,Crockett,"State Highway 437, West Liberty, KY 41472",0.046,0.054,Y,0.07
+21,185,0004,0004,0004,2026,Ozone,38.4002,-85.44428,Oldham,Buckner,"Louisville/Jefferson County, KY-IN",KAIRS 7293,BUCKNER,"KYTC MAINTENANCE FACILITY, 1601 SOUTH HWY 393",0.038,0.059,Y,0.07
+21,193,0003,0003,0003,2026,Ozone,37.28329,-83.20932,Perry,Hazard,,KAIRS 1363,HAZARD,"PERRY COUNTY HORSE PARK, 354 PERRY PARK ROAD",0.043,0.052,Y,0.07
+21,195,0002,0002,0002,2026,Ozone,37.4826,-82.53532,Pike,Pikeville,,KAIRS 1343,PIKEVILLE PRIMARY,"KYTC DISTRICT OFFICE,  109 LORAINE STREET",0.037,0.05,Y,0.07
+21,199,0003,0003,0003,2026,Ozone,37.09798,-84.61152,Pulaski,Somerset,"Somerset, KY",KAIRS 9339,SOMERSET,"SOMERSET GAS CO WAREHOUSE, 305 CLIFTY STREET",0.041,0.051,Y,0.07
+21,213,0004,0004,0004,2026,Ozone,36.708607,-86.566284,Simpson,Franklin,,KAIRS 9331,FRANKLIN,"KYTC MAINTENANCE FACILITY, 573 HARDING ROAD",0.042,0.056,Y,0.07
+21,221,9991,9991,9991,2026,Ozone,36.7841,-87.8499,Trigg,Not in a city,"Clarksville, TN-KY",CDZ171,Cadiz,"5720 Old Dover Rd, Cadiz, KY 42211",,,N,0.07
+21,227,0009,0009,0009,2026,Ozone,37.04926,-86.21487,Warren,Smiths Grove,"Bowling Green, KY",,ED SPEAR PARK (SMITHS GROVE),226 SUNSET STREET,0.039,0.053,Y,0.07
+21,229,9991,9991,9991,2026,Ozone,37.7046,-85.0485,Washington,Not in a city,,MCK131/231,Mackville,"542 Wesley-Miller Rd, Harrodsburg, KY 40330",0.046,0.057,Y,0.07
+22,005,0004,0004,0004,2026,Ozone,30.229652646797,-90.9656281018517,Ascension,Not in a city,"Baton Rouge, LA",,Dutchtown,11153 Kling Road,0.043,0.058,Y,0.07
+22,015,0008,0008,0008,2026,Ozone,32.536273,-93.74894,Bossier,Shreveport,"Shreveport-Bossier City, LA",,Shreveport / Airport,1425 Airport Drive,0.046,0.058,Y,0.07
+22,017,0001,0001,0001,2026,Ozone,32.6833601103078,-93.8615819966487,Caddo,Not in a city,"Shreveport-Bossier City, LA",,Dixie,HAGOOD ROAD,0.043,0.058,Y,0.07
+22,019,0002,0002,0002,2026,Ozone,30.1402646056318,-93.3684484545468,Calcasieu,Carlyss,"Lake Charles, LA",,Carlyss,HIGHWAY 27 AND HIGHWAY 108,0.043,0.058,Y,0.07
+22,019,0009,0009,0009,2026,Ozone,30.2277977301424,-93.5799647199621,Calcasieu,Vinton,"Lake Charles, LA",,Vinton,2210-B Bellow Road,0.043,0.056,Y,0.07
+22,033,0003,0003,0003,2026,Ozone,30.419805,-91.182016,East Baton Rouge,Baton Rouge,"Baton Rouge, LA",,LSU,EAST END OF ASTER LANE,0.042,0.06,Y,0.07
+22,033,0009,0009,0009,2026,Ozone,30.461981,-91.179219,East Baton Rouge,Baton Rouge,"Baton Rouge, LA",,Capitol,1061-A Leesville Ave,0.039,0.055,Y,0.07
+22,033,0013,0013,0013,2026,Ozone,30.700895,-91.056068,East Baton Rouge,Not in a city,"Baton Rouge, LA",,Pride,"11245 Port Hudson-Pride Rd. Zachary, La",0.044,0.057,Y,0.07
+22,047,0009,0009,0009,2026,Ozone,30.2212545830062,-91.3154182263438,Iberville,Not in a city,"Baton Rouge, LA",,Bayou Plaquemine,65180 Belleview Road,0.045,0.061,Y,0.07
+22,047,0012,0012,0012,2026,Ozone,30.2042182540666,-91.1260407204003,Iberville,St. Gabriel,"Baton Rouge, LA",,Carville,5445 Point Clair Rd. Carville< LA 70721 (275 yard SW of the end of betty Martin Ext.),0.044,0.062,Y,0.07
+22,051,1001,1001,1001,2026,Ozone,30.0412377293313,-90.2728258440869,Jefferson,Kenner,"New Orleans-Metairie, LA",AS006,Kenner,100 West Temple Pl,0.044,0.058,Y,0.07
+22,055,0007,0007,0007,2026,Ozone,30.2261097092031,-92.0429082948787,Lafayette,Lafayette,"Lafayette, LA",,Lafayette / USGS,700 Cajundome Boulevard,0.044,0.057,Y,0.07
+22,057,0004,0004,0004,2026,Ozone,29.764098203,-90.765274558,Lafourche,Thibodaux,"Houma-Thibodaux, LA",,Thibodaux,194 Thorough-bred Park Drive,0.044,0.055,Y,0.07
+22,063,0002,0002,0002,2026,Ozone,30.3154062678331,-90.8113827241473,Livingston,French Settlement,"Baton Rouge, LA",,French Settlement,16627 Perrilloux Ln@ Hwy 16,0.045,0.058,Y,0.07
+22,073,0004,0004,0004,2026,Ozone,32.5099590139388,-92.046195875745,Ouachita,Monroe,"Monroe, LA",,Monroe / Airport,5296 Southwest Rd.,0.043,0.055,Y,0.07
+22,077,0001,0001,0001,2026,Ozone,30.681718,-91.366247,Pointe Coupee,New Roads,"Baton Rouge, LA",,New Roads,Hwy 415,0.044,0.059,Y,0.07
+22,087,0004,0004,0004,2026,Ozone,29.9396140008166,-89.923883,St. Bernard,Meraux,"New Orleans-Metairie, LA",AS004,Meraux,4101 Mistrot Drive,,,N,0.07
+22,093,0002,0002,0002,2026,Ozone,30.058209,-90.863857,St. James,Not in a city,"New Orleans-Metairie, LA",,Convent,8187-1 Hwy 18,0.039,0.056,Y,0.07
+22,095,0002,0002,0002,2026,Ozone,30.0575149951384,-90.6192858876033,St. John the Baptist,Garyville,"New Orleans-Metairie, LA",,Garyville,152 Anthony F. Monica Street,0.045,0.059,Y,0.07
+22,099,0001,0001,0001,2026,Ozone,30.088872,-91.869595,St. Martin,St. Martinville,"Lafayette, LA",220990001,St.Martinville,1178 W.J. Bernard Road (ULL Cade Research and Experimental Farm),0.043,0.057,Y,0.07
+22,103,0002,0002,0002,2026,Ozone,30.4293810008245,-90.199678,St. Tammany,Not in a city,"New Orleans-Metairie, LA",,Madisonville,1421 Hwy 22 West,0.045,0.057,Y,0.07
+22,121,0001,0001,0001,2026,Ozone,30.500642,-91.213556,West Baton Rouge,Not in a city,"Baton Rouge, LA",,Port Allen,"1005 Northwest Drive, Port Allen",0.043,0.059,Y,0.07
+24,003,1003,1003,1003,2026,Ozone,39.169533,-76.627933,Anne Arundel,Glen Burnie,"Baltimore-Columbia-Towson, MD",GLNB,GLEN BURNIE,ANNE ARUNDEL CO. PUBLIC WORKS BLDG. 7409 BALTIMORE ANNAPOLIS BLVD.,,,N,0.07
+24,003,1004,1004,1004,2026,Ozone,39.2177194,-76.6360972,Anne Arundel,Pumphrey,"Baltimore-Columbia-Towson, MD",,Pumphrey,5757 Belle Grove Road,,,N,0.07
+24,005,1007,1007,1007,2026,Ozone,39.460478000926,-76.633543,Baltimore,Cockeysville,"Baltimore-Columbia-Towson, MD",PADN,Padonia,"Padonia Elementary School, 9834 Greenside Drive",,,N,0.07
+24,005,3001,3001,3001,2026,Ozone,39.310833,-76.474444,Baltimore,Essex,"Baltimore-Columbia-Towson, MD",ESSX,Essex,600 Dorsey Avenue,0.033,0.056,Y,0.07
+24,009,0011,0011,0011,2026,Ozone,38.536722,-76.617194,Calvert,Prince Frederick,"Washington-Arlington-Alexandria, DC-VA-MD-WV",CLVT,Calvert,350 Stafford Road,,,N,0.07
+24,013,0001,0001,0001,2026,Ozone,39.444294,-77.042252,Carroll,Not in a city,"Baltimore-Columbia-Towson, MD",SOCL,South Carroll,1300 W. Old Liberty Road,,,N,0.07
+24,015,0003,0003,0003,2026,Ozone,39.702982,-75.864771,Cecil,Not in a city,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Fair Hill,Fair Hill Natural Resource Management Area,"Fair Hill Natural Resource Mgmt Area, 4493 Telegraph Road",0.037,0.058,Y,0.07
+24,017,0010,0010,0010,2026,Ozone,38.508547,-76.811864,Charles,Not in a city,"Washington-Arlington-Alexandria, DC-VA-MD-WV",SOMD,Southern Maryland,14320 Oaks Road,,,N,0.07
+24,019,0004,0004,0004,2026,Ozone,38.587525,-76.141006,Dorchester,Not in a city,"Cambridge, MD",Horn Point,Horn Point,University of Maryland for Environmental and Estuarine Studies,0.036,0.054,Y,0.07
+24,019,9991,9991,9991,2026,Ozone,38.444971000919,-76.111274,Dorchester,Not in a city,"Cambridge, MD",BWR139,Blackwater NWR,"Blackwater National Wildlife Refuge, Cambridge, MD 21613",0.035,0.052,Y,0.07
+24,021,0037,0037,0037,2026,Ozone,39.42276,-77.37519,Frederick,Frederick,"Washington-Arlington-Alexandria, DC-VA-MD-WV",FRED,Frederick Airport,"Frederick County Airport ,180 E Airport Drive",,,N,0.07
+24,023,0002,0002,0002,2026,Ozone,39.70595,-79.012,Garrett,Grantsville,,PYRN,Piney Run,"Piney Run, Frostburg Reservoir, Finzel",0.043,0.056,Y,0.07
+24,025,1001,1001,1001,2026,Ozone,39.410191,-76.296946,Harford,Edgewood,"Baltimore-Columbia-Towson, MD",EDGE,Edgewood,"Edgewood  Chemical Biological Center (APG), Waehli Road",0.034,0.058,Y,0.07
+24,025,9001,9001,9001,2026,Ozone,39.563333,-76.203889,Harford,Not in a city,"Baltimore-Columbia-Towson, MD",ALDN,Aldino,3560 Aldino Road,0.037,0.058,Y,0.07
+24,029,0002,0002,0002,2026,Ozone,39.305021,-75.797317,Kent,Not in a city,,MLTN,Millington,"Millington Wildlife Management Area, Massey - Maryland Line Road (Route 330)",0.037,0.057,Y,0.07
+24,031,3001,3001,3001,2026,Ozone,39.114313,-77.106876,Montgomery,Not in a city,"Washington-Arlington-Alexandria, DC-VA-MD-WV",ROCK,Rockville,"Lathrop E. Smith Environmental Education Center, 5110 Meadowside Lane",,,N,0.07
+24,033,0030,0030,0030,2026,Ozone,39.055277,-76.878333,Prince George's,Beltsville,"Washington-Arlington-Alexandria, DC-VA-MD-WV",HUBV,HU-Beltsville,"Howard University's Beltsville Laboratory, 12003 Old Baltimore Pike",0.033,0.055,Y,0.07
+24,033,8003,8003,8003,2026,Ozone,38.81194,-76.74417,Prince George's,Greater Upper Marlboro,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PGE,PG Equestrian Center,"PG County Equestrian Center, 14900 Pennsylvania  Ave.",,,N,0.07
+24,033,9991,9991,9991,2026,Ozone,39.0284,-76.8171,Prince George's,Not in a city,"Washington-Arlington-Alexandria, DC-VA-MD-WV",BEL116,Beltsville,"Powder Mill Rd, Laurel, MD 20708",0.034,0.056,Y,0.07
+24,043,0009,0009,0009,2026,Ozone,39.564178,-77.720244,Washington,Not in a city,"Hagerstown-Martinsburg, MD-WV",HAGR,Hagerstown,MD Correctional Institution  18530 Roxbury Road,,,N,0.07
+24,510,0054,0054,0054,2026,Ozone,39.328807,-76.553075,Baltimore (City),Baltimore,"Baltimore-Columbia-Towson, MD",FRLY,Furley,"Furley E.S. Recreational Center, 4633 Furley Avenue.",,,N,0.07
+24,510,5253,5253,5253,2026,Ozone,39.3374600009252,-76.58905,Baltimore (City),Baltimore,"Baltimore-Columbia-Towson, MD",,Lake Montebello,3900 Hillen Road,,,N,0.07
+26,005,0003,0003,0003,2026,Ozone,42.768233333333335,-86.15063608333334,Allegan,Holland,"Holland, MI",,1016 W. 32nd St (Holland),1016 West 32nd Street (Holland),,,N,0.07
+26,019,0003,0003,0003,2026,Ozone,44.6169430943907,-86.1094077826288,Benzie,Benzonia,"Traverse City, MI",,"1060 West St, Benzonia Twp, MI",1060 West Street (Frankfort),,,N,0.07
+26,021,0014,0014,0014,2026,Ozone,42.1977895429013,-86.3096939751232,Berrien,Coloma,"Niles-Benton Harbor, MI",,"Coloma site 4689 Defield Rd, Coloma, MI PAW PAW WWTP",4689 Defield Road (Coloma),,,N,0.07
+26,027,0003,0003,0003,2026,Ozone,41.8955698036322,-86.0016287299423,Cass,Cassopolis,"South Bend-Mishawaka, IN-MI",,"Cassopolis ROSS BEATTY HIGH SCHOOL, 22721 DIAMOND COVE ST.",22721 Diamond Cove Street (Cassopolis),,,N,0.07
+26,037,0002,0002,0002,2026,Ozone,42.798339380413,-84.3937952605202,Clinton,Lansing,"Lansing-East Lansing, MI",,ROSELAKE2 9870 STOLL RD,9870 STOLL RD (ROSELAKE2),,,N,0.07
+26,049,0021,0021,0021,2026,Ozone,43.0472241917062,-83.6701590874905,Genesee,Flint,"Flint, MI",,WHALEY PK 3610 IOWA (FLINT),3610 IOWA (Flint),,,N,0.07
+26,049,2001,2001,2001,2026,Ozone,43.1683362727992,-83.4615406938937,Genesee,Otisville,"Flint, MI",,OtisvilleLAKEVILLE MIDDLE SCHOOL,"LAKEVILLE MS, G11107 WASHBURN RD (OTISVILLE)",,,N,0.07
+26,063,0007,0007,0007,2026,Ozone,43.8363879340172,-82.642899906862,Huron,Harbor Beach,,,RURAL THUMB AREA OZONE SITE,1172 S M25 SAND BEACH TWP (HARBOR BEACH),,,N,0.07
+26,065,0018,0018,0018,2026,Ozone,42.76138,-84.562867,Ingham,Lansing,"Lansing-East Lansing, MI",,Lansing - Filley,815 Filley Street (Lansing),0.034,0.052,Y,0.07
+26,077,0008,0008,0008,2026,Ozone,42.278067,-85.54189,Kalamazoo,Kalamazoo,"Kalamazoo-Portage, MI",,Kalamazoo Fairgrounds,1400 Olmstead Road (Kalamazoo),,,N,0.07
+26,081,0020,0020,0020,2026,Ozone,42.984173,-85.671339,Kent,Grand Rapids,"Grand Rapids-Wyoming, MI",,GR-MONROE,165 Monroe NW (Grand Rapids),,,N,0.07
+26,081,0022,0022,0022,2026,Ozone,43.1766718109728,-85.41660782861,Kent,Not in a city,"Grand Rapids-Wyoming, MI",,APPROXIMATELY 1/4 MILE SOUTH OF 14 MILE RD - EVANS,10300 14 MILE RD NE #B (EVANS),,,N,0.07
+26,091,0007,0007,0007,2026,Ozone,41.995568,-83.946559,Lenawee,Tecumseh,"Adrian, MI",,"6792 RAISIN CENTER HWY, LENAWEE CO.RD.COMM.OWNER, TECUMSEH",6792 RAISEN CTR HWY (TECUMSEH),,,N,0.07
+26,099,0009,0009,0009,2026,Ozone,42.7313941191528,-82.79346283166,Macomb,New Haven,"Detroit-Warren-Dearborn, MI",,New Haven,57700 GRATIOT (New Haven),,,N,0.07
+26,099,1003,1003,1003,2026,Ozone,42.5133398483411,-83.0059705578442,Macomb,Warren,"Detroit-Warren-Dearborn, MI",,WARREN - FIRE STATION 29900 HOOVER AT COMMON,29900 HOOVER (WARREN),,,N,0.07
+26,101,0922,0922,0922,2026,Ozone,44.3070000829522,-86.2426486419024,Manistee,Manistee,,,,3031 DOMRES RD (MANISTEE LRBOI),,,N,0.07
+26,105,0007,0007,0007,2026,Ozone,43.9533344091604,-86.2944146313703,Mason,Scottville,"Ludington, MI",,SCOTTVILLE - LOCATED 550 FT NORTH OF US10,525 W US10 (Scottville),,,N,0.07
+26,113,0001,0001,0001,2026,Ozone,44.3105554203758,-84.8918653238824,Missaukee,Not in a city,"Cadillac, MI",,LOCATED ABOUT 1/4 MILE WEST OF SITE,1769 S JEFFS RD (Houghton Lake),0.038,0.053,Y,0.07
+26,121,0039,0039,0039,2026,Ozone,43.2780605982874,-86.3110825322265,Muskegon,Muskegon,"Muskegon, MI",,MUSKEGON,1340 GREEN CREEK RD (Muskegon),,,N,0.07
+26,125,0001,0001,0001,2026,Ozone,42.4630634106704,-83.1831986800023,Oakland,Oak Park,"Detroit-Warren-Dearborn, MI",,Oak Park,13701 OAK PARK BLVD (Oak Park),,,N,0.07
+26,139,0005,0005,0005,2026,Ozone,42.894444,-85.852778,Ottawa,Jenison,"Grand Rapids-Wyoming, MI",,Jenison,6981 28th Avenue (Jenison),,,N,0.07
+26,147,0005,0005,0005,2026,Ozone,42.953336,-82.456229,St. Clair,Port Huron,"Detroit-Warren-Dearborn, MI",,Port Huron,2525 Dove Street (Port Huron),,,N,0.07
+26,153,0001,0001,0001,2026,Ozone,46.2888771607497,-85.9502269219365,Schoolcraft,Not in a city,,SENE1,"Seney National Wildlife Refuge, Germfask, MI",Seney National Wildlife Refuge (Seney),,,N,0.07
+26,157,9991,9991,9991,2026,Ozone,43.6138,-83.3591,Tuscola,Not in a city,,UVL124,Unionville,"1821 E. Dickerson Rd, Unionville, MI 48767",0.037,0.054,Y,0.07
+26,161,0008,0008,0008,2026,Ozone,42.240556,-83.599722,Washtenaw,Ypsilanti,"Ann Arbor, MI",,"YPSILANTI TOWNER ST, SOUTH;",555 TOWNER ST (Ypsilanti),,,N,0.07
+26,161,9991,9991,9991,2026,Ozone,42.4166360009395,-83.902185,Washtenaw,Not in a city,"Ann Arbor, MI",ANA115,Ann Arbor,"10070 Strawberry Lake Rd, Dexter, MI 48130",0.036,0.053,Y,0.07
+26,163,0001,0001,0001,2026,Ozone,42.228611,-83.208333,Wayne,Allen Park,"Detroit-Warren-Dearborn, MI",DETR1,Allen Park,14700 GODDARD (Allen Park),0.032,0.056,Y,0.07
+26,163,0019,0019,0019,2026,Ozone,42.4308404181017,-83.0001375444892,Wayne,Detroit,"Detroit-Warren-Dearborn, MI",,East 7 Mile,11600 East 7-Mile Road (Detroit-E7M),,,N,0.07
+26,165,9991,9991,9991,2026,Ozone,44.1808900009429,-85.738985,Wexford,Not in a city,"Cadillac, MI",HOX148,Hoxeyville,"10637 S 9 Rd, Cadillac, MI 49601",0.036,0.054,Y,0.07
+27,003,1001,1001,1001,2026,Ozone,45.4018400009431,-93.20306,Anoka,East Bethel,"Minneapolis-St. Paul-Bloomington, MN-WI",6012,Cedar Creek,2660 Fawn Rd.,,,N,0.07
+27,003,1002,1002,1002,2026,Ozone,45.1376795361548,-93.207614975211,Anoka,Blaine,"Minneapolis-St. Paul-Bloomington, MN-WI",6010,Anoka County Airport,9399 Lima St,0.035,0.052,Y,0.07
+27,005,2013,2013,2013,2026,Ozone,46.851811,-95.846272,Becker,Detroit Lakes,,2013,FWS Wetland Management District,26624 NORTH TOWER ROAD,0.034,0.051,Y,0.07
+27,007,2305,2305,2305,2026,Ozone,47.8796,-95.0166,Beltrami,Not in a city,"Bemidji, MN",,Red Lake Nation DNR,15761 High School Drive,,,N,0.07
+27,013,5510,5510,5510,2026,Ozone,44.1364,-93.9813,Blue Earth,Mankato,"Mankato-North Mankato, MN",,Rosa Parks Elementary,1001 Heron Drive,,,N,0.07
+27,017,7417,7417,7417,2026,Ozone,46.7136940009414,-92.511722,Carlton,Cloquet,"Duluth, MN-WI",7417,Fond du Lac Band,28 University Road,,,N,0.07
+27,035,3204,3204,3204,2026,Ozone,46.396740000942,-94.1303,Crow Wing,Brainerd,"Brainerd, MN",3204,Brainerd Lakes Regional Airport,16384 AIRPORT RD,,,N,0.07
+27,049,5302,5302,5302,2026,Ozone,44.473754,-93.012611,Goodhue,Not in a city,"Red Wing, MN",5302,Stanton Air Field,1235 HIGHWAY 19,,,N,0.07
+27,053,0962,0962,0962,2026,Ozone,44.9652420009432,-93.254759,Hennepin,Minneapolis,"Minneapolis-St. Paul-Bloomington, MN-WI",962,Near Road I-35/I-94,1444 E 18th St,,,N,0.07
+27,075,0005,0005,0005,2026,Ozone,47.948622,-91.495574,Lake,Not in a city,,7001,Boundary Waters,Fernberg Road,,,N,0.07
+27,083,4210,4210,4210,2026,Ozone,44.4438000009431,-95.81789,Lyon,Marshall,"Marshall, MN",4210,Southwest Minnesota Regional Airport,WEST HIGHWAY 19,,,N,0.07
+27,095,3051,3051,3051,2026,Ozone,46.2053000009423,-93.75945,Mille Lacs,Onamia,"Minneapolis-St. Paul-Bloomington, MN-WI",3051,Mille Lacs Band,43408 Oodena Dr,,,N,0.07
+27,109,5008,5008,5008,2026,Ozone,43.996908,-92.450366,Olmsted,Rochester,"Rochester, MN",5008,Ben Franklin School,1801 9th Ave. SE,,,N,0.07
+27,137,0034,0034,0034,2026,Ozone,48.41252,-92.829225,Saint Louis,Not in a city,"Duluth, MN-WI",VOYA2,Voyageurs NP #2,VOYAGEURS NATIONAL PARK,0.036,0.052,Y,0.07
+27,137,7550,7550,7550,2026,Ozone,46.8182600009412,-92.08936,Saint Louis,Duluth,"Duluth, MN-WI",7550,U of M - Duluth,1202 EAST UNIVERSITY CIRCLE,0.034,0.049,Y,0.07
+27,139,0505,0505,0505,2026,Ozone,44.7914370009432,-93.512534,Scott,Shakopee,"Minneapolis-St. Paul-Bloomington, MN-WI",505,B.F. Pearson School,917 DAKOTA ST.,0.035,0.052,Y,0.07
+27,145,3052,3052,3052,2026,Ozone,45.549839,-94.13345,Stearns,St. Cloud,"St. Cloud, MN",3052,Talahi School,1321 University Dr.,,,N,0.07
+27,163,6016,6016,6016,2026,Ozone,45.168004,-92.765136,Washington,Not in a city,"Minneapolis-St. Paul-Bloomington, MN-WI",,St. Croix Watershed Research Station,St. Croix Trail N,,,N,0.07
+27,171,3201,3201,3201,2026,Ozone,45.2091600009432,-93.66921,Wright,St. Michael,"Minneapolis-St. Paul-Bloomington, MN-WI",3201,St. Michael Elementary School,101 Central Ave. W.,,,N,0.07
+28,011,0002,0002,0002,2026,Ozone,33.750838,-90.734175,Bolivar,Cleveland,"Cleveland, MS",,Cleveland Delta State,highway 8 west,,,N,0.07
+28,033,0002,0002,0002,2026,Ozone,34.82056,-89.98778,DeSoto,Hernando,"Memphis, TN-MS-AR",,Hernando,5 EAST SOUTH ST. (HERNANDO),,,N,0.07
+28,045,0003,0003,0003,2026,Ozone,30.3008330008224,-89.395916,Hancock,Waveland,"Gulfport-Biloxi-Pascagoula, MS",,Waveland,400 Baltic St,,,N,0.07
+28,047,0008,0008,0008,2026,Ozone,30.390369181243,-89.0497776193734,Harrison,Gulfport,"Gulfport-Biloxi-Pascagoula, MS",,Gulfport Youth Court,47 Maple Street,,,N,0.07
+28,049,0020,0020,0020,2026,Ozone,32.329111,-90.182722,Hinds,Jackson,"Jackson, MS",,Jackson NCORE,232 East Woodrow Wilson Drive,0.045,0.056,Y,0.07
+28,049,0021,0021,0021,2026,Ozone,32.346722,-90.225667,Hinds,Jackson,"Jackson, MS",,Hinds CC,3925 Sunset Drive,,,N,0.07
+28,059,0006,0006,0006,2026,Ozone,30.3782867218264,-88.5339296135032,Jackson,Pascagoula,"Gulfport-Biloxi-Pascagoula, MS",,Pascagoula,Hospital Road at Co. Health Dept.,,,N,0.07
+28,075,0003,0003,0003,2026,Ozone,32.3645652793284,-88.731491343876,Lauderdale,Meridian,"Meridian, MS",,Meridian,Hwy 19 and 53rd Ave,,,N,0.07
+28,081,0005,0005,0005,2026,Ozone,34.264917,-88.766222,Lee,Tupelo,"Tupelo, MS",,TUPELO AIRPORT NEAR OLD NWS OFFICE,West Jackson at Tupelo Airport,,,N,0.07
+28,161,9991,9991,9991,2026,Ozone,34.0027470008751,-89.799183,Yalobusha,Not in a city,,CVL151,Coffeeville,"Jamie L. Whitten Plant Materials Center, Coffeeville, MS 38922",0.045,0.054,Y,0.07
+29,003,0001,0001,0001,2026,Ozone,39.9544000009289,-94.849,Andrew,Not in a city,"St. Joseph, MO-KS",,Savannah,"SAVANAH: 11796 Highway 71, Savanah, MO 64485",,,N,0.07
+29,019,0011,0011,0011,2026,Ozone,39.07803,-92.31632,Boone,Not in a city,"Columbia, MO",,Finger Lakes,"FINGER LAKES: 1505 East Peaboy Road, Columbia, MO 65202",,,N,0.07
+29,027,0002,0002,0002,2026,Ozone,38.7060800009209,-92.09308,Callaway,Not in a city,"Jefferson City, MO",,New Bloomfield,"NEW BLOOMFIELD: 2625 Medow Lake Drive, New Bloomfield, MO, 65063",,,N,0.07
+29,037,0003,0003,0003,2026,Ozone,38.75961,-94.57983,Cass,Not in a city,"Kansas City, MO-KS",,Richard Gebaur-South,"RICHARDS GEBAUR - SOUTH: 1802 E 203rd Street, Belton, MO 64012",,,N,0.07
+29,039,0001,0001,0001,2026,Ozone,37.70097,-94.03474,Cedar,Not in a city,,ELDO1,El Dorado Springs,"EL DORADO SPRINGS: Highway 97 & Barnes Road, El Dorado Springs, 64744",,,N,0.07
+29,047,0003,0003,0003,2026,Ozone,39.4074519596912,-94.2653727917367,Clay,Not in a city,"Kansas City, MO-KS",,Watkins Mill State Park,"WATKINS MILL STATE PARK: Watkins Mill Road, Lawson, MO 64062",,,N,0.07
+29,047,0005,0005,0005,2026,Ozone,39.3031741035639,-94.3770140393154,Clay,Not in a city,"Kansas City, MO-KS",,Liberty,"LIBERTY: Highway 33 & NE 116th St., Liberty, 64068",,,N,0.07
+29,047,0006,0006,0006,2026,Ozone,39.3319133088112,-94.580930693472,Clay,Kansas City,"Kansas City, MO-KS",,Rocky Creek,"ROCKY CREEK: 13131 Highway 169, Kansas City, MO 64165",,,N,0.07
+29,049,0001,0001,0001,2026,Ozone,39.53063,-94.55594,Clinton,Trimble,"Kansas City, MO-KS",,Trimble,"TRIMBLE: 7536 SW State Highway O, Trimble, MO 64492",,,N,0.07
+29,077,0036,0036,0036,2026,Ozone,37.2561370295805,-93.2998938430676,Greene,Springfield,"Springfield, MO",,Hillcrest High School,"HILLCREST HIGH SCHOOL: 3319 N Grant, Springfield, MO 65803",,,N,0.07
+29,077,0042,0042,0042,2026,Ozone,37.319186114946,-93.2044110101528,Greene,Not in a city,"Springfield, MO",,Fellows Lake,"FELLOWS LAKE: 4208 E Farm Road 66, Springfield, MO 65803",,,N,0.07
+29,097,0004,0004,0004,2026,Ozone,37.2385,-94.42468,Jasper,Not in a city,"Joplin, MO",,Alba,"ALBA: 20400 Millwood Road, Alba, MO64755",,,N,0.07
+29,099,0019,0019,0019,2026,Ozone,38.44853,-90.3986,Jefferson,Arnold,"St. Louis, MO-IL",,Arnold West,"ARNOLD WEST: 1709 Lonedell Drive, Arnold, MO 63010",,,N,0.07
+29,113,0004,0004,0004,2026,Ozone,39.04577,-90.84927,Lincoln,Foley,"St. Louis, MO-IL",,Foley West,"FOLEY WEST: 2100 Highway Y, Foley, MO 63347",,,N,0.07
+29,137,0001,0001,0001,2026,Ozone,39.4749761538023,-91.7889909775483,Monroe,Not in a city,,,MTSP,"MARK TWAIN STATE PARK: 20057 State Park Office Road, Stoutville, MO 65283",0.044,0.055,Y,0.07
+29,157,0001,0001,0001,2026,Ozone,37.70264,-89.69864,Perry,Not in a city,,,,"FARRAR: County Road 342, Farrar, MO 63746",,,N,0.07
+29,183,1002,1002,1002,2026,Ozone,38.8725458723206,-90.2264884702189,Saint Charles,West Alton,"St. Louis, MO-IL",,West Alton,"WEST ALTON: General Electric Store, Highway 94, WestT Alton, MO 63386",,,N,0.07
+29,183,1004,1004,1004,2026,Ozone,38.8994,-90.44917,Saint Charles,Not in a city,"St. Louis, MO-IL",,Orchard Farm,"ORCHARD FARM: 2165 Highway V, St. Charles, MO 63301",,,N,0.07
+29,186,0005,0005,0005,2026,Ozone,37.90084,-90.42388,Sainte Genevieve,Not in a city,,,Bonne Terre,"BONNE TERRE: 15797 Highway D, Bonne Terre, MO 63628",,,N,0.07
+29,189,0005,0005,0005,2026,Ozone,38.49015,-90.70509,Saint Louis,Not in a city,"St. Louis, MO-IL",,Pacific,"PACIFIC: 18701 Old Highway 66, Pacific, MO 63039",,,N,0.07
+29,189,0014,0014,0014,2026,Ozone,38.71085,-90.47606,Saint Louis,Maryland Heights,"St. Louis, MO-IL",,Maryland Heights,"MARYLAND HEIGHTS: 13044 Marine Avenue, Maryland Heights, MO 63146",,,N,0.07
+29,510,0085,0085,0085,2026,Ozone,38.656428944875,-90.1983482680334,St. Louis City,St. Louis,"St. Louis, MO-IL",,Blair Street,"BLAIR STREET: 3247 Blair Street, St. Louis, MO 63107",0.042,0.058,Y,0.07
+31,055,0019,0019,0019,2026,Ozone,41.2474860009354,-95.973142,Douglas,Omaha,"Omaha-Council Bluffs, NE-IA",,4102 Woolworth Ave. on Healthcenter Warehouse,DOUGLAS COUNTY HOSP  42ND & WOOLWORTH,0.032,0.053,Y,0.07
+31,055,0053,0053,0053,2026,Ozone,41.3225077191395,-95.9385927532938,Douglas,Omaha,"Omaha-Council Bluffs, NE-IA",,Whitmore,1616 WHITMORE,,,N,0.07
+31,079,0005,0005,0005,2026,Ozone,40.9155550009339,-98.378888,Hall,Grand Island,"Grand Island, NE",,Grand Island NDOT,3305 W Old Potash Hwy,,,N,0.07
+31,107,9991,9991,9991,2026,Ozone,42.8291540009406,-97.854129,Knox,Not in a city,,SAN189,Santee Sioux,"State Spur 54D, Niobrara, NE 68760",,,N,0.07
+31,107,9992,9992,9992,2026,Ozone,42.74749,-97.92823,Knox,Not in a city,,SAN192,Santee Sioux - Environmental Office,"52948 Hwy 12, Niobrara, NE 68760",,,N,0.07
+31,109,0016,0016,0016,2026,Ozone,40.98498020896014,-96.67137265076563,Lancaster,Not in a city,"Lincoln, NE",,,"FIRST & MAPLE , DAVEY",,,N,0.07
+31,165,7103,7103,7103,2026,Ozone,42.71,-103.591,Sioux,Not in a city,"Scottsbluff, NE",,Fort Robinson,"Soldier Creek Road and US Hwy 20, Crawford, NE 69339",,,N,0.07
+35,001,0023,0023,0023,2026,Ozone,35.1343000008884,-106.5852,Bernalillo,Albuquerque,"Albuquerque, NM",2ZM,DEL NORTE HIGH SCHOOL,4700A SAN MATEO NE,0.046,0.063,Y,0.07
+35,001,0029,0029,0029,2026,Ozone,35.01708,-106.65739,Bernalillo,South Valley,"Albuquerque, NM",2ZV,SOUTH VALLEY,201 PROSPERITY SE,0.039,0.054,Y,0.07
+35,001,1012,1012,1012,2026,Ozone,35.1852000008889,-106.50815,Bernalillo,Albuquerque,"Albuquerque, NM",2ZF,Foothills,8901 LOWELL NE,0.048,0.063,Y,0.07
+35,001,2022,2022,2022,2026,Ozone,35.063569,-106.647503,Bernalillo,Albuquerque,"Albuquerque, NM",2SJ,San Jose,2015 Galena Street SE,,,N,0.07
+35,003,7501,7501,7501,2026,Ozone,33.22,-108.235,Catron,Not in a city,,,Gila Wilderness Ozone Monitoring Site,"26 Jim Bradford Trail, Mimres NM 88049",,,N,0.07
+35,013,0008,0008,0008,2026,Ozone,31.93065887,-106.63110349,Dona Ana,Not in a city,"Las Cruces, NM",,6O La Union,"7048 McNutt, La Union, NM",0.045,0.062,Y,0.07
+35,013,0020,0020,0020,2026,Ozone,32.041212148,-106.409709874,Dona Ana,Not in a city,"Las Cruces, NM",6ZK,6ZK Chaparral,"680 MCCOMBS, CHAPARRAL, NM",0.046,0.059,Y,0.07
+35,013,0021,0021,0021,2026,Ozone,31.796218122,-106.584433773,Dona Ana,Not in a city,"Las Cruces, NM",6ZM,6ZM Desert View,"5935A VALLE VISTA, SUNLAND PARK, NM",0.044,0.059,Y,0.07
+35,013,0022,0022,0022,2026,Ozone,31.787884954,-106.683324495,Dona Ana,Not in a city,"Las Cruces, NM",6ZN,6ZN Santa Teresa,"104-2 SANTA TERESA INTERNATIONAL BLVD,NM",0.043,0.064,Y,0.07
+35,013,0023,0023,0023,2026,Ozone,32.317593456,-106.768337302,Dona Ana,Las Cruces,"Las Cruces, NM",,6ZQ Solano,"750 N.SOLANO DRIVE, LAS CRUCES, NM",0.048,0.064,Y,0.07
+35,015,0010,0010,0010,2026,Ozone,32.178157,-104.443447,Eddy,Not in a city,"Carlsbad-Artesia, NM",,,727 Carlsbad Caverns Highway,,,N,0.07
+35,015,1005,1005,1005,2026,Ozone,32.380117618,-104.262726312,Eddy,Carlsbad,"Carlsbad-Artesia, NM",5ZR,5ZR Carlsbad,"2811 HOLLAND ST,CARLSBAD,NM 88220",0.045,0.068,Y,0.07
+35,025,0008,0008,0008,2026,Ozone,32.726656,-103.122917,Lea,Hobbs,"Hobbs, NM",5ZS,5ZS Hobbs Jefferson,"2320 N. JEFFERSON ST, HOBBS, NM 88240",0.044,0.059,Y,0.07
+35,039,0026,0026,0026,2026,Ozone,36.187742,-106.698369,Rio Arriba,Not in a city,"Espa?ola, NM",,3CRD Coyote Ranger District,"21 New Mexico 96, Coyote, NM, 87012",0.048,0.06,Y,0.07
+35,043,1001,1001,1001,2026,Ozone,35.299484,-106.548914286,Sandoval,Not in a city,"Albuquerque, NM",,2ZJ Bernalillo,"600 Oak Street, Bernalillo, NM 87004",0.045,0.061,Y,0.07
+35,045,0009,0009,0009,2026,Ozone,36.742226943,-107.977566656,San Juan,Bloomfield,"Farmington, NM",1ZB,1ZB Bloomfield,"2200 N 1st Street, Bloomfield, NM 87413",0.045,0.06,Y,0.07
+35,045,0018,0018,0018,2026,Ozone,36.80973516,-107.652191653,San Juan,Not in a city,"Farmington, NM",,1NL Navajo Lake,"423A HWAY 539, NAVAJO DAM, NM 87419",0.046,0.06,Y,0.07
+35,045,0020,0020,0020,2026,Ozone,36.0350000008979,-107.904167,San Juan,Not in a city,"Farmington, NM",,Chaco Culture NHP - Radio Repeater,Chaco Culture National Historical Park - Radio Repeater,0.048,0.06,Y,0.07
+35,045,1005,1005,1005,2026,Ozone,36.79666715,-108.473138382,San Juan,Not in a city,"Farmington, NM",,1H Substation,"Shiprock Electrical Substation, Waterflow, NM, 87421",0.05,0.062,Y,0.07
+35,045,1233,1233,1233,2026,Ozone,36.8071,-108.69523,San Juan,Shiprock,"Farmington, NM",,Dine College GIS Lab,"DINE COLLEGE, GIS LAB",,,N,0.07
+35,049,0021,0021,0021,2026,Ozone,35.6197500008936,-106.07968,Santa Fe,Not in a city,"Santa Fe, NM",,3SFA Santa Fe Airport,"2001 Aviation Drive, Santa Fe, NM 87507",0.049,0.061,Y,0.07
+35,061,0008,0008,0008,2026,Ozone,34.8147,-106.7396,Valencia,Not in a city,"Albuquerque, NM",,2LL Los Lunas,"1000 W. MAIN ST, LOS LUNAS, NM 87031",0.043,0.059,Y,0.07
+37,003,0005,0005,0005,2026,Ozone,35.9138000008967,-81.191,Alexander,Taylorsville,"Hickory-Lenoir-Morganton, NC",,Taylorsville Liledoun,700 Liledoun Road,,,N,0.07
+37,011,0002,0002,0002,2026,Ozone,35.972347,-81.933072,Avery,Not in a city,,LIGO1,Linville Falls,100 Linville Falls Road,,,N,0.07
+37,011,9991,9991,9991,2026,Ozone,36.1058,-82.0454,Avery,Not in a city,,PNF126,Cranberry,"Pisgah National Forest, Newland, NC 28657",,,N,0.07
+37,021,0030,0030,0030,2026,Ozone,35.500102002749,-82.5998603096713,Buncombe,Bent Creek,"Asheville, NC",,Bent Creek,125 Idlewood Drive,,,N,0.07
+37,027,0003,0003,0003,2026,Ozone,35.9359000008969,-81.5306,Caldwell,Lenoir,"Hickory-Lenoir-Morganton, NC",,Lenoir (city),291 NUWAY CIRCLE,,,N,0.07
+37,031,9991,9991,9991,2026,Ozone,34.8848,-76.6203,Carteret,Not in a city,"Morehead City, NC",BFT142,Beaufort,"Open Grounds Farm, Beaufort, NC 28516",0.047,0.054,Y,0.07
+37,033,0001,0001,0001,2026,Ozone,36.307033,-79.467417,Caswell,Not in a city,,,Cherry Grove,"7074 CHERRY GROVE RD, REIDSVILLE",,,N,0.07
+37,051,0008,0008,0008,2026,Ozone,35.158686,-78.728035,Cumberland,Wade,"Fayetteville, NC",Wade,Wade,7112 Covington Lane,,,N,0.07
+37,051,0010,0010,0010,2026,Ozone,35.0023035275774,-78.9916923423935,Cumberland,Fayetteville,"Fayetteville, NC",,Honeycutt School,4665 Lakewood Dr,,,N,0.07
+37,051,0011,0011,0011,2026,Ozone,35.1487,-78.7068,Cumberland,Not in a city,"Fayetteville, NC",,Wade School,5721 Smithfield Road,,,N,0.07
+37,063,0015,0015,0015,2026,Ozone,36.0329550008979,-78.904037,Durham,Durham,"Durham-Chapel Hill, NC",,Durham Armory,801 STADIUM DRIVE,,,N,0.07
+37,065,0099,0099,0099,2026,Ozone,35.988278,-77.5843,Edgecombe,Leggett,"Rocky Mount, NC",,Leggett,7589 NC Hwy 33-NW,,,N,0.07
+37,067,0022,0022,0022,2026,Ozone,36.11094,-80.224501,Forsyth,Winston-Salem,"Winston-Salem, NC",,Hattie Avenue,1300 BLK. HATTIE AVENUE,,,N,0.07
+37,067,0030,0030,0030,2026,Ozone,36.026612,-80.341962,Forsyth,Winston-Salem,"Winston-Salem, NC",,Clemmons Middle,FRATERNITY CHURCH ROAD,,,N,0.07
+37,067,1008,1008,1008,2026,Ozone,36.051805,-80.144933,Forsyth,Winston-Salem,"Winston-Salem, NC",,Union Cross,3656 PIEDMONT MEMORIAL DRIVE,,,N,0.07
+37,075,0001,0001,0001,2026,Ozone,35.2578000008897,-83.7955,Graham,Not in a city,,,Joanna Bald,FOREST ROAD 423 SPUR,,,N,0.07
+37,077,0001,0001,0001,2026,Ozone,36.141111,-78.768056,Granville,Butner,"Oxford, NC",,Butner,800 Central Avenue,,,N,0.07
+37,081,0013,0013,0013,2026,Ozone,36.1090060008986,-79.802314,Guilford,Greensboro,"Greensboro-High Point, NC",,Mendenhall School,205 WILOUGHBY BLVD,,,N,0.07
+37,087,0008,0008,0008,2026,Ozone,35.507224,-82.963625,Haywood,Not in a city,"Asheville, NC",,Waynesville School,2236 ASHEVILLE ROAD,,,N,0.07
+37,087,0035,0035,0035,2026,Ozone,35.379167,-82.7925,Haywood,Not in a city,"Asheville, NC",SHRO1,Frying Pan Mountain,TOWER BLUE RIDGE PKWY MILE MARKER 410,,,N,0.07
+37,087,0036,0036,0036,2026,Ozone,35.587144,-83.074156,Haywood,Waynesville,"Asheville, NC",,Purchase Knob,6905 Purchase Knob Road,,,N,0.07
+37,101,0002,0002,0002,2026,Ozone,35.59095,-78.4622,Johnston,Not in a city,"Raleigh, NC",,West Johnston Co.,1338 JACK ROAD,,,N,0.07
+37,107,0004,0004,0004,2026,Ozone,35.2318,-77.5669,Lenoir,Kinston,"Kinston, NC",,Lenoir Co. Comm. Coll.,HIGHWAY 70 EAST AND HIGHWAY  58 SOUTH,,,N,0.07
+37,109,0004,0004,0004,2026,Ozone,35.438556,-81.27675,Lincoln,Lincolnton,"Charlotte-Concord-Gastonia, NC-SC",,Crouse,1487 RIVERVIEW ROAD,,,N,0.07
+37,113,9991,9991,9991,2026,Ozone,35.0608,-83.4306,Macon,Not in a city,,COW137,Coweeta,"USDA Southern Research Station, Coweeta Hydrologic Laboratory, Otto, NC 28763",0.047,0.054,Y,0.07
+37,117,0001,0001,0001,2026,Ozone,35.81066,-76.9063,Martin,Jamesville,,,Jamesville School,1210 Hayes Street,,,N,0.07
+37,119,0041,0041,0041,2026,Ozone,35.2401000008895,-80.785683,Mecklenburg,Charlotte,"Charlotte-Concord-Gastonia, NC-SC",,Garinger High School,1130 EASTWAY DRIVE,0.045,0.059,Y,0.07
+37,119,0046,0046,0046,2026,Ozone,35.314158,-80.713469,Mecklenburg,Charlotte,"Charlotte-Concord-Gastonia, NC-SC",,University Meadows,1660 Pavilion Boulevard,,,N,0.07
+37,123,9991,9991,9991,2026,Ozone,35.2632,-79.8365,Montgomery,Not in a city,,CND125,Candor,"136 Perry Dr, Candor, NC 27229",0.046,0.054,Y,0.07
+37,129,0002,0002,0002,2026,Ozone,34.364167,-77.838611,New Hanover,Castle Hayne,"Wilmington, NC",,Castle Hayne,6028 HOLLY SHELTER RD,,,N,0.07
+37,145,0003,0003,0003,2026,Ozone,36.306965,-79.09197,Person,Not in a city,"Durham-Chapel Hill, NC",,Bushy Fork,7901 Burlington Rd,,,N,0.07
+37,147,0006,0006,0006,2026,Ozone,35.6412760008938,-77.360126,Pitt,Not in a city,"Greenville, NC",,Pitt Agri. Center,403 Government Circle,,,N,0.07
+37,157,0099,0099,0099,2026,Ozone,36.308889,-79.859167,Rockingham,Not in a city,"Greensboro-High Point, NC",,Bethany sch.,6371 NC 65 @ BETHANY SCHOOL,,,N,0.07
+37,159,0021,0021,0021,2026,Ozone,35.551868,-80.395039,Rowan,Rockwell,"Charlotte-Concord-Gastonia, NC-SC",,Rockwell,301 WEST ST & GOLD HILL AVENUE,0.048,0.057,Y,0.07
+37,173,0002,0002,0002,2026,Ozone,35.434767,-83.442133,Swain,Bryson City (RR name Bryson),,,Bryson City,30 Recreation Park Drive,,,N,0.07
+37,173,0007,0007,0007,2026,Ozone,35.498711,-83.310242,Swain,Not in a city,,,Old High School,1501 Acquoni Rd.,,,N,0.07
+37,179,0003,0003,0003,2026,Ozone,34.974038917,-80.54062183,Union,Monroe,"Charlotte-Concord-Gastonia, NC-SC",,Monroe School,701 CHARLES STREET,,,N,0.07
+37,183,0014,0014,0014,2026,Ozone,35.856111,-78.574167,Wake,Raleigh,"Raleigh, NC",,Millbrook School,3801 SPRING FOREST RD.,0.044,0.055,Y,0.07
+37,199,0004,0004,0004,2026,Ozone,35.765413,-82.264944,Yancey,Not in a city,,,Mt. Mitchell,2388 State Highway 128,,,N,0.07
+39,003,0009,0009,0009,2026,Ozone,40.7709440009332,-84.0539,Allen,Lima,"Lima, OH",,Lima,2650 BIBLE ROAD,,,N,0.07
+39,007,1001,1001,1001,2026,Ozone,41.959695,-80.572808,Ashtabula,Conneaut,"Ashtabula, OH",,Conneaut,770 LAKE RD.,,,N,0.07
+39,017,0018,0018,0018,2026,Ozone,39.529112,-84.394003,Butler,Middletown,"Cincinnati, OH-KY-IN",,Middletown Airport,"1707 Runway Drive, Room #4",,,N,0.07
+39,017,0023,0023,0023,2026,Ozone,39.384671,-84.540537,Butler,Hamilton,"Cincinnati, OH-KY-IN",CRAWFOR,Crawford Woods,2200 HENSLEY AVE.,,,N,0.07
+39,017,9991,9991,9991,2026,Ozone,39.5327,-84.7286,Butler,Not in a city,"Cincinnati, OH-KY-IN",OXF122,Oxford,"Ecology Research Center, Miami University, Oxford, Ohio 45056",0.038,0.057,Y,0.07
+39,023,0001,0001,0001,2026,Ozone,40.00103,-83.80456,Clark,Springfield,"Springfield, OH",616,Springfield Well Fd,5171 URBANA,,,N,0.07
+39,023,0003,0003,0003,2026,Ozone,39.85567,-83.99773,Clark,Enon,"Springfield, OH",611,Mud Run,5400 SPANGLER,,,N,0.07
+39,025,0022,0022,0022,2026,Ozone,39.0828,-84.1441,Clermont,Batavia,"Cincinnati, OH-KY-IN",,Batavia,2400 CLERMONT CENTER DR.,,,N,0.07
+39,027,1002,1002,1002,2026,Ozone,39.4275350009257,-83.788916,Clinton,Not in a city,"Wilmington, OH",,Wilmington,"300 Oak Drive Wilmington, 45177",,,N,0.07
+39,035,0034,0034,0034,2026,Ozone,41.55523,-81.575256,Cuyahoga,Cleveland,"Cleveland-Elyria, OH",,District 6,881 E. 152nd ST.,,,N,0.07
+39,035,0060,0060,0060,2026,Ozone,41.492117,-81.678449,Cuyahoga,Cleveland,"Cleveland-Elyria, OH",,GT Craig NCore PAMS,E. 14TH & ORANGE,0.033,0.055,Y,0.07
+39,035,0064,0064,0064,2026,Ozone,41.361835,-81.86457,Cuyahoga,Berea,"Cleveland-Elyria, OH",,Berea BOE,390 FAIR ST.,,,N,0.07
+39,035,5002,5002,5002,2026,Ozone,41.536942,-81.458871,Cuyahoga,Mayfield,"Cleveland-Elyria, OH",,Mayfield,6116 WILSON MILLS,,,N,0.07
+39,041,0002,0002,0002,2026,Ozone,40.356694,-83.063971,Delaware,Delaware,"Columbus, OH",,Delaware,359 MAIN RD.,,,N,0.07
+39,047,9991,9991,9991,2026,Ozone,39.6359,-83.2605,Fayette,Not in a city,"Washington Court House, OH",DCP114,Deer Creek,"Deer Creek State Park, Mt Sterling, OH 43143",,,N,0.07
+39,049,0029,0029,0029,2026,Ozone,40.0845140009297,-82.815585,Franklin,New Albany,"Columbus, OH",,New Albany,7600 FODOR RD.,,,N,0.07
+39,049,0081,0081,0081,2026,Ozone,40.0877,-82.959773,Franklin,Columbus,"Columbus, OH",,Maple Canyon,5750 MAPLE CANYON,,,N,0.07
+39,055,0004,0004,0004,2026,Ozone,41.515051,-81.249906,Geauga,Not in a city,"Cleveland-Elyria, OH",6R,Notre Dame,13000 AUBURN,,,N,0.07
+39,057,0006,0006,0006,2026,Ozone,39.66575,-83.94268,Greene,Xenia,"Dayton, OH",6X,Xenia,"541 LEDBETTER RD.,",,,N,0.07
+39,061,0006,0006,0006,2026,Ozone,39.2787,-84.36625,Hamilton,Blue Ash,"Cincinnati, OH-KY-IN",,Sycamore,11590 GROOMS RD,,,N,0.07
+39,061,0010,0010,0010,2026,Ozone,39.21487,-84.69086,Hamilton,Cleves,"Cincinnati, OH-KY-IN",,Colerain,6950 RIPPLE RD.,,,N,0.07
+39,061,0040,0040,0040,2026,Ozone,39.12886,-84.50404,Hamilton,Cincinnati,"Cincinnati, OH-KY-IN",,Taft NCore PAMS,250 WM. HOWARD TAFT,0.033,0.06,Y,0.07
+39,081,0017,0017,0017,2026,Ozone,40.3663,-80.6158,Jefferson,Steubenville,"Weirton-Steubenville, WV-OH",,Steubenville,618 LOGAN ST.,,,N,0.07
+39,083,0003,0003,0003,2026,Ozone,40.2788600009307,-82.679563,Knox,Centerburg,"Mount Vernon, OH",,Centerburg WWTP,4625 LOCK RD.,,,N,0.07
+39,085,0003,0003,0003,2026,Ozone,41.673006,-81.422455,Lake,Eastlake,"Cleveland-Elyria, OH",6N,Eastlake,36010 LAKESHORE,,,N,0.07
+39,085,0007,0007,0007,2026,Ozone,41.726811,-81.242156,Lake,Painesville,"Cleveland-Elyria, OH",6M,Painesville,177 MAIN STREET,,,N,0.07
+39,087,0011,0011,0011,2026,Ozone,38.62901,-82.45886,Lawrence,Not in a city,"Huntington-Ashland, WV-KY-OH",,Wilgus,"S.R. 141, WILGUS",,,N,0.07
+39,087,0012,0012,0012,2026,Ozone,38.508075,-82.659241,Lawrence,Ironton,"Huntington-Ashland, WV-KY-OH",,ODOT Ironton,450 Commerce Drive,,,N,0.07
+39,089,0005,0005,0005,2026,Ozone,40.026037,-82.432996,Licking,Heath (Fourmile Lock),"Columbus, OH",,Heath,310 LICKING VIEW DR.,,,N,0.07
+39,089,0008,0008,0008,2026,Ozone,39.954457,-82.75892,Licking,Reynoldsburg,"Columbus, OH",,Reynoldsburg,8955 EAST MAIN ST.,,,N,0.07
+39,093,0018,0018,0018,2026,Ozone,41.420882,-82.095729,Lorain,Sheffield,"Cleveland-Elyria, OH",,Sheffield,4706 DETROIT RD.,,,N,0.07
+39,095,0024,0024,0024,2026,Ozone,41.644067,-83.54616,Lucas,Toledo,"Toledo, OH",348,Erie,348 S. ERIE,,,N,0.07
+39,095,0027,0027,0027,2026,Ozone,41.4942,-83.718949,Lucas,Waterville,"Toledo, OH",,Waterville,200 SOUTH RIVER RD.,,,N,0.07
+39,095,0035,0035,0035,2026,Ozone,41.669001,-83.28717,Lucas,Not in a city,"Toledo, OH",,Cooley,"10739 CORDUROY RD., CURTICE, OHIO",,,N,0.07
+39,097,0007,0007,0007,2026,Ozone,39.78819,-83.47606,Madison,Not in a city,"Columbus, OH",,London,9940 SR 38 SW,,,N,0.07
+39,099,0015,0015,0015,2026,Ozone,41.1061822,-80.64057637,Mahoning,Youngstown,"Youngstown-Warren-Boardman, OH-PA",,Youngstown State,91 Wick Oval Street,,,N,0.07
+39,103,0004,0004,0004,2026,Ozone,41.0604,-81.9239,Medina,Not in a city,"Cleveland-Elyria, OH",,Chippewa,BALLASH ROAD,,,N,0.07
+39,109,0005,0005,0005,2026,Ozone,40.08502,-84.113808,Miami,Casstown,"Dayton, OH",619,Miami East HS,3825 NORTH S. R. 589,,,N,0.07
+39,113,0037,0037,0037,2026,Ozone,39.785644,-84.134412,Montgomery,Dayton,"Dayton, OH",49,Eastwood,1401 Harshman Road,,,N,0.07
+39,121,9991,9991,9991,2026,Ozone,39.9428,-81.3373,Noble,Not in a city,,QAK172,Quaker City,"58163 St. Johns Rd, Quaker City, OH 43773",0.036,0.056,Y,0.07
+39,133,1001,1001,1001,2026,Ozone,41.182466,-81.330486,Portage,Not in a city,"Akron, OH",32,Lake Rockwell,1570 RAVENNA RD.,,,N,0.07
+39,135,1001,1001,1001,2026,Ozone,39.83562,-84.720524,Preble,New Paris,"Dayton, OH",,Preble NCore,6940 OXFORD GETTYSBURG RD.,0.031,0.054,Y,0.07
+39,151,0016,0016,0016,2026,Ozone,40.82812,-81.3785,Stark,Canton,"Canton-Massillon, OH",ZC,Malone Univ,515 25TH. ST.,,,N,0.07
+39,151,0022,0022,0022,2026,Ozone,40.712703,-81.598078,Stark,Brewster,"Canton-Massillon, OH",,Brewster,"45 S. WABASH AVENUE, S.R 93",,,N,0.07
+39,151,4005,4005,4005,2026,Ozone,40.93133,-81.123519,Stark,Alliance,"Canton-Massillon, OH",ZD,Alliance,1175 WEST VINE,,,N,0.07
+39,153,0026,0026,0026,2026,Ozone,41.103028,-81.496253,Summit,Akron,"Akron, OH",,North HS,985 Gorge Blvd.,,,N,0.07
+39,155,0011,0011,0011,2026,Ozone,41.240453,-80.66272,Trumbull,Not in a city,"Youngstown-Warren-Boardman, OH-PA",9T,TCSE,842 YOUNGSTOWN-KINGSVILLE RD.,,,N,0.07
+39,155,0013,0013,0013,2026,Ozone,41.454568,-80.589528,Trumbull,Not in a city,"Youngstown-Warren-Boardman, OH-PA",,Kinsman Maintenance,6380 S.R. 87. KINSMAN,,,N,0.07
+39,165,0007,0007,0007,2026,Ozone,39.42689,-84.20077,Warren,Lebanon,"Cincinnati, OH-KY-IN",,Lebanon,430 S EAST ST.,,,N,0.07
+39,167,0004,0004,0004,2026,Ozone,39.432117,-81.460443,Washington,Marietta,"Marietta, OH",,Marietta WTP,2000 4TH STREET,,,N,0.07
+39,173,0003,0003,0003,2026,Ozone,41.3776850009359,-83.611104,Wood,Bowling Green,"Toledo, OH",,Bowling Green,347 N DUNBRIDGE,,,N,0.07
+40,001,9009,9009,9009,2026,Ozone,35.750735000895,-94.669697,Adair,Cherry Tree,,STIL1,STILWELL,"South Highway 59, RR1, 1795 Dahlonegah Park Road, Stilwell, Oklahoma",,,N,0.07
+40,017,0101,0101,0101,2026,Ozone,35.4792150008921,-97.751503,Canadian,Yukon,"Oklahoma City, OK",,YUKON,12575 NW 10TH (WATER TOWER),0.04,0.059,Y,0.07
+40,019,0297,0297,0297,2026,Ozone,34.244189,-97.462931,Carter,Healdton,"Ardmore, OK",,HEALDTON,"Memorial Dr, Healdton City Lake",,,N,0.07
+40,027,0049,0049,0049,2026,Ozone,35.3201050008904,-97.484099,Cleveland,Moore,"Oklahoma City, OK",,MOORE,S. E. 19TH STREET,0.043,0.062,Y,0.07
+40,031,0651,0651,0651,2026,Ozone,34.63298,-98.42879,Comanche,Lawton,"Lawton, OK",,LAWTON,"2211 NW 25  Lawton, Oklahoma  73502  (LPS: Prof. Dev. Center)",,,N,0.07
+40,037,0144,0144,0144,2026,Ozone,36.1054810008986,-96.361196,Creek,Mannford,"Tulsa, OK",,MANNFORD,MANNFORD WATER PLANT,,,N,0.07
+40,043,0860,0860,0860,2026,Ozone,36.1584140008991,-98.931973,Dewey,Seiling,,,SEILING,SEILING MUNICIPAL AIRPORT,,,N,0.07
+40,067,0671,0671,0671,2026,Ozone,34.226639,-98.03544,Jefferson,Waurika,,,WAURIKA,LAKE WAURIKA CORP. OF ENG. OFFICE,,,N,0.07
+40,069,0324,0324,0324,2026,Ozone,34.2148180630382,-96.6769356224365,Johnston,Tishomingo,,,Tishomingo,"Murry State College, Tishomingo OK 73460",,,N,0.07
+40,075,0711,0711,0711,2026,Ozone,34.745832,-98.967698,Kiowa,Not in a city,,,Great Plains State Park (Kiowa County),"22487 N 2250 Rd, Mountain Park, OK, 73559",,,N,0.07
+40,085,0300,0300,0300,2026,Ozone,33.8808120008736,-97.275896,Love,Not in a city,"Ardmore, OK",BURN,BURNEYVILLE,NOBLE FOUNDATION-RED RIVER RESEARCH FARM,,,N,0.07
+40,087,1074,1074,1074,2026,Ozone,34.984686,-97.522753,McClain,Washington,"Oklahoma City, OK",,Kessler (McClain County),18388 190th Street,,,N,0.07
+40,097,9014,9014,9014,2026,Ozone,36.2284080008998,-95.249943,Mayes,Not in a city,,,CHEROKEE HEIGHTS,CHEROKEE HEIGHTS DRIVE,,,N,0.07
+40,105,0207,0207,0207,2026,Ozone,36.9184103847806,-95.6322855667227,Nowata,South Coffeyville,,,Oklahoma Union (Nowata County),Oklahoma Union School,,,N,0.07
+40,109,0096,0096,0096,2026,Ozone,35.4778010008921,-97.303044,Oklahoma,Choctaw,"Oklahoma City, OK",,CHOCTAW,12880 A NE 10TH,,,N,0.07
+40,109,1037,1037,1037,2026,Ozone,35.6141310008935,-97.475083,Oklahoma,Oklahoma City,"Oklahoma City, OK",,OKC NORTH,2501 E. Memorial Rd.  (OKLAHOMA CHRISTIAN UNIVERSITY),,,N,0.07
+40,113,0226,0226,0226,2026,Ozone,36.35586,-96.01243,Osage,Skiatook,"Tulsa, OK",,Skiatook,1521 S. Lombard,0.041,0.06,Y,0.07
+40,115,9004,9004,9004,2026,Ozone,36.922222,-94.838889,Ottawa,Miami,"Miami, OK",,QUAPAW SHELTER,"QUAPAW TRIBE'S INDUSTRIAL PARK, MIAMI",,,N,0.07
+40,121,0415,0415,0415,2026,Ozone,34.8856080008856,-95.78441,Pittsburg,McAlester,"McAlester, OK",,McALESTER,104 AIRPORT ROAD,,,N,0.07
+40,123,9030,9030,9030,2026,Ozone,34.776389,-96.677778,Pontotoc,Ada,"Ada, OK",,Chickasaw Nation storage lot,Lot is located on E 9th St between N Broadway Ave and Rennie,,,N,0.07
+40,135,9021,9021,9021,2026,Ozone,35.4081400008914,-94.524413,Sequoyah,Roland,"Fort Smith, AR-OK",,,"207 Cherokee Boulevard, Roland, OK  74954",,,N,0.07
+40,143,0174,0174,0174,2026,Ozone,35.9537080008971,-96.004975,Tulsa,Glenpool,"Tulsa, OK",,Glenpool,502 EAST 144TH. PL.,,,N,0.07
+40,143,0178,0178,0178,2026,Ozone,36.1338020008989,-95.764537,Tulsa,Tulsa,"Tulsa, OK",,TULSA EAST,18707 E. 21ST STREET,0.041,0.059,Y,0.07
+40,143,1127,1127,1127,2026,Ozone,36.2049020008996,-95.976537,Tulsa,Tulsa,"Tulsa, OK",,TULSA CENTRAL,3520 1/2 N. PEORIA,,,N,0.07
+40,143,9029,9029,9029,2026,Ozone,35.9013240008965,-96.012749,Tulsa,Glenpool,"Tulsa, OK",,Onestop Fuel,"1800 W 181st St S, Mounds, OK  74047",,,N,0.07
+40,147,0217,0217,0217,2026,Ozone,36.908115,-95.88235,Washington,Copan,"Bartlesville, OK",0217,Copan,7740 N. 400 Rd,,,N,0.07
+42,001,0001,0001,0001,2026,Ozone,39.9200201125851,-77.3096801656909,Adams,Not in a city,"Gettysburg, PA",,Arendtsville,NARSTO SITE - ARENDTSVILLE,0.036,0.055,Y,0.07
+42,001,9991,9991,9991,2026,Ozone,39.9231,-77.3078,Adams,Not in a city,"Gettysburg, PA",ARE128,Arendtsville,"747 Winding Rd, Biglerville, PA 17307",0.037,0.056,Y,0.07
+42,003,0008,0008,0008,2026,Ozone,40.4654203279986,-79.9607574502479,Allegheny,Pittsburgh,"Pittsburgh, PA",,Lawrenceville,"301 39th St, Pittsburgh, PA 15201 (Lawrenceville)",0.028,0.052,Y,0.07
+42,003,0067,0067,0067,2026,Ozone,40.3756436265984,-80.1699434614088,Allegheny,McDonald,"Pittsburgh, PA",,South Fayette,"3640 Old Oakdale Rd, McDonald, PA 15057 (South Fayette)",0.043,0.06,Y,0.07
+42,003,1008,1008,1008,2026,Ozone,40.6174879021179,-79.7276639640966,Allegheny,Harrison Township,"Pittsburgh, PA",,Harrison,"1500 Pacific Ave, Natrona Heights, PA 15065 (Harrison)",0.037,0.058,Y,0.07
+42,005,0001,0001,0001,2026,Ozone,40.8141826239239,-79.5647497763623,Armstrong,Kittanning,"Pittsburgh, PA",512,Kittanning,GLADE DR. & NOLTE RD. KITTANNING,0.035,0.054,Y,0.07
+42,007,0002,0002,0002,2026,Ozone,40.5625201844353,-80.5039484844499,Beaver,Not in a city,"Pittsburgh, PA",,Hookstown,ROUTE 168 & TOMLINSON ROAD,,,N,0.07
+42,007,0005,0005,0005,2026,Ozone,40.684722,-80.359722,Beaver,Not in a city,"Pittsburgh, PA",,Brighton Township,1015 SEBRING ROAD,0.036,0.057,Y,0.07
+42,007,0008,0008,0008,2026,Ozone,40.691857,-80.299211,Beaver,Beaver,"Pittsburgh, PA",,Fort Mcintosh,Old Fort Trail,,,N,0.07
+42,007,0014,0014,0014,2026,Ozone,40.7477958611323,-80.3164417143694,Beaver,Beaver Falls,"Pittsburgh, PA",,Beaver Falls,EIGHT STREET AND RIVER ALLEY,0.034,0.052,Y,0.07
+42,011,0006,0006,0006,2026,Ozone,40.5140800009319,-75.789721,Berks,Not in a city,"Reading, PA",311,Kutztown,Kutztown University Campus,0.032,0.056,Y,0.07
+42,011,0011,0011,0011,2026,Ozone,40.38335,-75.9686,Berks,Not in a city,"Reading, PA",R03,Reading Airport,1059 Arnold Road,0.038,0.057,Y,0.07
+42,013,0801,0801,0801,2026,Ozone,40.535278,-78.370833,Blair,Altoona,"Altoona, PA",,Altoona,2ND AVE & 7TH ST,0.021,0.05,Y,0.07
+42,015,0011,0011,0011,2026,Ozone,41.705226,-76.512726,Bradford,Not in a city,"Sayre, PA",411,Towanda,"RT 4148 Main St, Monroe, PA 18832",0.035,0.051,Y,0.07
+42,017,0012,0012,0012,2026,Ozone,40.107222,-74.882222,Bucks,Bristol,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,Bristol,ROCKVIEW LANE,0.036,0.061,Y,0.07
+42,021,0011,0011,0011,2026,Ozone,40.309722,-78.915,Cambria,Johnstown,"Johnstown, PA",,Johnstown,MILLER AUTO SHOP 1 MESSENGER ST,0.029,0.051,Y,0.07
+42,027,0100,0100,0100,2026,Ozone,40.811389,-77.877028,Centre,State College,"State College, PA",,State College,PENN STATE UNIVERSITY - ARBORETUM SITE,0.032,0.055,Y,0.07
+42,027,9991,9991,9991,2026,Ozone,40.7208,-77.9319,Centre,Not in a city,"State College, PA",PSU106,Penn State,"1366 Tadpole Rd, Pennsylvania Furnace, PA 16865",0.036,0.055,Y,0.07
+42,029,0100,0100,0100,2026,Ozone,39.8344605866755,-75.768242075333,Chester,Not in a city,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",P30,New Garden,NEW GARDEN AIRPORT - TOUGHKENAMON,0.036,0.056,Y,0.07
+42,033,4000,4000,4000,2026,Ozone,41.1175,-78.526194,Clearfield,Not in a city,"DuBois, PA",D09,MOSHANNON STATE FOREST,LOCATED NEAR S.B. ELLIOTT STATE PARK,,,N,0.07
+42,043,0401,0401,0401,2026,Ozone,40.246992,-76.846988,Dauphin,Not in a city,"Harrisburg-Carlisle, PA",,Harrisburg,"651 Gibson Blvd., Harrisburg, PA 17104",0.034,0.053,Y,0.07
+42,043,1100,1100,1100,2026,Ozone,40.272222,-76.681389,Dauphin,Hershey,"Harrisburg-Carlisle, PA",,Hershey,SIPE AVE & MAE STREET,0.032,0.054,Y,0.07
+42,045,0002,0002,0002,2026,Ozone,39.835556,-75.3725,Delaware,Chester,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,Chester,FRONT ST & NORRIS ST,0.03,0.054,Y,0.07
+42,047,9991,9991,9991,2026,Ozone,41.5981190009368,-78.767867,Elk,Not in a city,"St. Marys, PA",KEF112,Kane Exp. Forest,"Kane Experimental Forest, Allegheny National Forest, Wilcox, PA 15870",0.038,0.052,Y,0.07
+42,049,0003,0003,0003,2026,Ozone,42.14175,-80.038611,Erie,Erie,"Erie, PA",,Erie,10TH AND MARNE STREETS,0.034,0.051,Y,0.07
+42,051,0524,0524,0524,2026,Ozone,39.917663,-79.805499,Fayette,Uniontown,"Pittsburgh, PA",,Uniontown,New Salem Rd,,,N,0.07
+42,055,0001,0001,0001,2026,Ozone,39.961111,-77.475556,Franklin,Not in a city,"Chambersburg-Waynesboro, PA",313,Methodist Hill,FOREST ROAD - METHODIST HILL,0.036,0.053,Y,0.07
+42,059,0002,0002,0002,2026,Ozone,39.80933,-80.26567,Greene,Not in a city,,514,Holbrook,4.8 KM SE OF HOLBROOK,0.038,0.054,Y,0.07
+42,063,0004,0004,0004,2026,Ozone,40.56333,-78.919972,Indiana,Not in a city,"Indiana, PA",,Strongstown,PA. DEPT. OF TRANSPORTATION - RT.403 - Strongstown,0.039,0.055,Y,0.07
+42,069,0101,0101,0101,2026,Ozone,41.479116,-75.578186,Lackawanna,Blakely,"Scranton--Wilkes-Barre--Hazleton, PA",S29,Peckville,WILSON FIRE CO. ERIE & PLEASANT,0.034,0.054,Y,0.07
+42,069,2006,2006,2006,2026,Ozone,41.442778,-75.623056,Lackawanna,Scranton,"Scranton--Wilkes-Barre--Hazleton, PA",,Scranton,GEORGE ST TROOP AND CITY OF SCRANTON,,,N,0.07
+42,071,0007,0007,0007,2026,Ozone,40.046667,-76.283333,Lancaster,Lancaster,"Lancaster, PA",,Lancaster,ABRAHAM LINCOLN JR HIGH GROFFTOWN RD,0.034,0.056,Y,0.07
+42,071,0012,0012,0012,2026,Ozone,40.0438330009294,-76.1124,Lancaster,Not in a city,"Lancaster, PA",L12,Lancaster Downwind,3545 W. Newport Road,0.03,0.052,Y,0.07
+42,073,0015,0015,0015,2026,Ozone,40.9958483945708,-80.3464418619031,Lawrence,New Castle,"New Castle, PA",,New Castle,CROTON ST & JEFFERSON ST.,,,N,0.07
+42,075,0101,0101,0101,2026,Ozone,40.338516,-76.394788,Lebanon,Not in a city,"Lebanon, PA",,Lebanon,Birch Rd & Metro Dr,,,N,0.07
+42,077,0004,0004,0004,2026,Ozone,40.611944,-75.4325,Lehigh,Allentown,"Allentown-Bethlehem-Easton, PA-NJ",,Allentown,STATE HOSPITAL REAR 1600 HANOVER AVE,0.036,0.057,Y,0.07
+42,079,1101,1101,1101,2026,Ozone,41.265556,-75.846389,Luzerne,Wilkes-Barre,"Scranton--Wilkes-Barre--Hazleton, PA",,Wilkes-Barre,CHILWICK & WASHINGTON STS,,,N,0.07
+42,081,0100,0100,0100,2026,Ozone,41.2508,-76.9238,Lycoming,Montoursville,"Williamsport, PA",410,MONTOURSVILLE,899 CHERRY STREET,0.034,0.054,Y,0.07
+42,085,0100,0100,0100,2026,Ozone,41.2150135311878,-80.4847786925965,Mercer,Farrell,"Youngstown-Warren-Boardman, OH-PA",,Farrell,PA518 (NEW CASTLE ROAD) & PA418,0.034,0.056,Y,0.07
+42,085,9991,9991,9991,2026,Ozone,41.4271,-80.1451,Mercer,Not in a city,"Youngstown-Warren-Boardman, OH-PA",MKG113,M.K. Goddard,"Maurice K Goddard State Park, Sandy Lake, PA 16145",0.037,0.056,Y,0.07
+42,089,0002,0002,0002,2026,Ozone,41.08306,-75.32328,Monroe,Not in a city,"East Stroudsburg, PA",,SWIFTWATER,"HC 1, BOX 95-B    NEAR RT 611 & BROOKDALE ROAD",0.037,0.054,Y,0.07
+42,091,0013,0013,0013,2026,Ozone,40.112222,-75.309167,Montgomery,Norristown,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,Norristown,STATE ARMORY - 1046 BELVOIR RD,0.036,0.055,Y,0.07
+42,095,0025,0025,0025,2026,Ozone,40.628056,-75.341111,Northampton,Freemansburg,"Allentown-Bethlehem-Easton, PA-NJ",A25,Freemansburg,WASHINGTON & CAMBRIA STS. FREEMANSBURG,0.037,0.056,Y,0.07
+42,101,0004,0004,0004,2026,Ozone,40.008889,-75.09778,Philadelphia,Philadelphia,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",LAB,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.,0.032,0.057,Y,0.07
+42,101,0024,0024,0024,2026,Ozone,40.076389,-75.011944,Philadelphia,Philadelphia,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT,0.032,0.055,Y,0.07
+42,101,0048,0048,0048,2026,Ozone,39.991389,-75.080833,Philadelphia,Philadelphia,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",NEW,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137",0.031,0.06,Y,0.07
+42,111,9991,9991,9991,2026,Ozone,39.9878,-79.2515,Somerset,Not in a city,"Somerset, PA",LRL117,Laurel Hill,"Laurel Hill State Park, Rockwood, PA 15557",0.039,0.056,Y,0.07
+42,117,4000,4000,4000,2026,Ozone,41.644722,-76.939167,Tioga,Not in a city,,,PENN STATE OZONE MONITORING SITE,TIOGA,0.039,0.054,Y,0.07
+42,125,0005,0005,0005,2026,Ozone,40.146667,-79.902222,Washington,Charleroi,"Pittsburgh, PA",,Charleroi,CHARLER01 WASTE TREATMENT PLANT,0.035,0.055,Y,0.07
+42,125,5001,5001,5001,2026,Ozone,40.445278,-80.420833,Washington,Not in a city,"Pittsburgh, PA",,Florence,HILLMAN STATE PARK - KINGS CREEK ROAD,0.038,0.056,Y,0.07
+42,125,5200,5200,5200,2026,Ozone,40.268963,-80.243995,Washington,Not in a city,"Pittsburgh, PA",520,Marcellus,220 Meddings Road,0.036,0.053,Y,0.07
+42,129,0008,0008,0008,2026,Ozone,40.304694,-79.505667,Westmoreland,Greensburg,"Pittsburgh, PA",513,LAT/LON POINT IS TRAILER,DONOHOE ROAD - PENN DOT MAINT DIST BLDG,0.037,0.054,Y,0.07
+42,133,0008,0008,0008,2026,Ozone,39.965278,-76.699444,York,York,"York-Hanover, PA",,York,HILL ST.,0.032,0.055,Y,0.07
+42,133,0011,0011,0011,2026,Ozone,39.8609700009284,-76.462055,York,Not in a city,"York-Hanover, PA",Y11,York DW,2650 Delta Road,0.035,0.053,Y,0.07
+45,003,0003,0003,0003,2026,Ozone,33.3422260008668,-81.788731,Aiken,Jackson,"Augusta-Richmond County, GA-SC",,JACKSON MIDDLE SCHOOL,8217 ATOMIC ROAD (INDIAN DRIVE) [Jackson],,,N,0.07
+45,007,0006,0006,0006,2026,Ozone,34.6359580008827,-82.810667,Anderson,Pendleton,"Greenville-Anderson-Mauldin, SC",,Garrison Arena,1101 W. Queen St. (Garrison Arena),,,N,0.07
+45,015,1002,1002,1002,2026,Ozone,33.1830160008647,-80.030712,Berkeley,Moncks Corner,"Charleston-North Charleston, SC",MO,Moncks Corner National Guard,320 Airport Rd (Moncks Corner),,,N,0.07
+45,019,0046,0046,0046,2026,Ozone,32.9410230008615,-79.657187,Charleston,Not in a city,"Charleston-North Charleston, SC",ROMA1,CAPE ROMAIN,390 BULLS ISLAND ROAD (AWENDAW) [Cape Romain],0.046,0.056,Y,0.07
+45,025,0001,0001,0001,2026,Ozone,34.6153670008825,-80.198787,Chesterfield,Not in a city,,,CHESTERFIELD,RT 2 BOX 100 MCBEE  (SC145) [Chesterfield],0.047,0.056,Y,0.07
+45,031,0003,0003,0003,2026,Ozone,34.2856960008786,-79.744859,Darlington,Not in a city,"Florence, SC",,Pee Dee Experimental Station,2200 POCKET ROAD [Pee Dee],0.057,0.061,Y,0.07
+45,037,0001,0001,0001,2026,Ozone,33.7399630008719,-81.853635,Edgefield,Not in a city,"Augusta-Richmond County, GA-SC",,TRENTON,660 WOODYARD ROAD [Trenton],0.051,0.057,Y,0.07
+45,045,0016,0016,0016,2026,Ozone,34.75184811,-82.25670125,Greenville,Simpsonville,"Greenville-Anderson-Mauldin, SC",,Hillcrest Middle School,510 Garrison Road [Hillcrest],0.046,0.057,Y,0.07
+45,051,0008,0008,0008,2026,Ozone,33.8005,-78.9941,Horry,Conway,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",,Coastal Carolina University,485 Century Circle (Coastal Carolina),0.047,0.055,Y,0.07
+45,079,0007,0007,0007,2026,Ozone,34.093959,-80.962304,Richland,Dentsville (Dents),"Columbia, SC",,PARKLANE,8311 PARKLANE ROAD [Parklane],0.046,0.055,Y,0.07
+45,079,0021,0021,0021,2026,Ozone,33.8146800008728,-80.781135,Richland,Not in a city,"Columbia, SC",,CONGAREE BLUFF,1850 SOUTH CEDAR CREEK ROAD [Congaree Bluff],0.052,0.055,Y,0.07
+45,079,1001,1001,1001,2026,Ozone,34.1312620008767,-80.868318,Richland,Not in a city,"Columbia, SC",,SANDHILL EXPERIMENTAL STATION,900 CLEMSON ROAD [Sandhill],0.045,0.055,Y,0.07
+45,083,0009,0009,0009,2026,Ozone,34.988706,-82.075802,Spartanburg,Not in a city,"Spartanburg, SC",,NORTH SPARTANBURG FIRE STATION #2,1556 JOHN DODD ROAD [North Spartanburg Fire Station #2],0.047,0.06,Y,0.07
+45,091,0008,0008,0008,2026,Ozone,34.977,-81.207,York,Not in a city,"Charlotte-Concord-Gastonia, NC-SC",,YORK (LANDFILL),310 LANGRUM RD (York Landfill),0.048,0.058,Y,0.07
+45,091,8801,8801,8801,2026,Ozone,34.9127000008859,-80.8745,York,Rock Hill,"Charlotte-Concord-Gastonia, NC-SC",,,996 Avenue of the Nations,,,N,0.07
+47,001,0101,0101,0101,2026,Ozone,35.96504,-84.22319,Anderson,Oak Ridge,"Knoxville, TN",,Freels/Oak Ridge,"Freel's Bend Rd, Oak Ridge, TN",,,N,0.07
+47,009,0101,0101,0101,2026,Ozone,35.63348,-83.941606,Blount,Not in a city,"Knoxville, TN",GRSM1,Great Smoky Mountains NP,GREAT SMOKY MOUNTAINS NP LOOK ROCK,0.049,0.058,Y,0.07
+47,009,0102,0102,0102,2026,Ozone,35.603056,-83.783611,Blount,Not in a city,"Knoxville, TN",,Great Smoky Mountains NP - Cade's Cove,GREAT SMOKY MOUNTAINS NP - CADES COVE,0.043,0.054,Y,0.07
+47,025,9991,9991,9991,2026,Ozone,36.4698300009022,-83.826511,Claiborne,Not in a city,,SPD111,Speedwell,"718 Russell Hill Rd, Speedwell, TN 37870",0.048,0.056,Y,0.07
+47,037,0011,0011,0011,2026,Ozone,36.205055289,-86.744719918,Davidson,Nashville,"Nashville-Davidson--Murfreesboro--Franklin, TN",011,East Health Center,1015 TRINITY LANE,,,N,0.07
+47,037,0026,0026,0026,2026,Ozone,36.150799009,-86.623296968,Davidson,Nashville,"Nashville-Davidson--Murfreesboro--Franklin, TN",0026,Percy Priest Dam,3711 BELL ROAD,,,N,0.07
+47,041,9991,9991,9991,2026,Ozone,36.0388,-85.7331,DeKalb,Not in a city,,ESP127,Edgar Evans,"Edgar Evans State Park, Smithville, TN 37166",0.047,0.056,Y,0.07
+47,065,1011,1011,1011,2026,Ozone,35.233476,-85.181581,Hamilton,Soddy-Daisy,"Chattanooga, TN-GA",,Soddy Daisy,SODDY DAISY H.S.  00618 SEQUOYAH RD,,,N,0.07
+47,065,4003,4003,4003,2026,Ozone,35.102638,-85.162194,Hamilton,Chattanooga,"Chattanooga, TN-GA",,Eastside,8301 HICKORY VALLEY RD- EASTSIDE UTILITY FILTER PLANT (RESERVOIR ROAD ),,,N,0.07
+47,089,0002,0002,0002,2026,Ozone,36.105629,-83.602077,Jefferson,New Market,"Morristown, TN",,New Market,"2393 Forrester Road, New Market, TN 37820",,,N,0.07
+47,093,0021,0021,0021,2026,Ozone,36.0855080008984,-83.764806,Knox,Mascot,"Knoxville, TN",,East Knox Elementary School,9315 RUTLEDGE PIKE MASCOT TN 37806,,,N,0.07
+47,093,1020,1020,1020,2026,Ozone,36.0191860008977,-83.87381,Knox,Knoxville,"Knoxville, TN",,Spring Hill Elementary School,4625 MILDRED DRIVE,,,N,0.07
+47,155,0101,0101,0101,2026,Ozone,35.696757589,-83.609611527,Sevier,Not in a city,"Sevierville, TN",,Great Smoky Mountains NP - Cove Mountain,GREAT SMOKY MOUNTAIN NP COVE MOUNTAIN,0.051,0.057,Y,0.07
+47,155,0102,0102,0102,2026,Ozone,35.56287231,-83.497941015,Sevier,Not in a city,"Sevierville, TN",,Great Smoky Mountains NP - Clingman's Dome,"CLINGSMANS DOME, GREAT SMOKY MTNS. NP",,,N,0.07
+47,157,0021,0021,0021,2026,Ozone,35.217501,-90.019707,Shelby,Memphis,"Memphis, TN-MS-AR",,Frayser Ozone Monitor,1330 FRAYSER BLVD,0.036,0.059,Y,0.07
+47,157,0075,0075,0075,2026,Ozone,35.151699,-89.850249,Shelby,Memphis,"Memphis, TN-MS-AR",,Memphis NCORE site,6388 Haley Rd. (Shelby Farms NCORE site),0.044,0.064,Y,0.07
+47,157,1004,1004,1004,2026,Ozone,35.3781531754954,-89.8344699520114,Shelby,Millington,"Memphis, TN-MS-AR",,Edmund Orgill Park Ozone,6855 MUDVILLE RD.,0.04,0.057,Y,0.07
+47,163,2002,2002,2002,2026,Ozone,36.5413650009029,-82.424555,Sullivan,Not in a city,"Kingsport-Bristol-Bristol, TN-VA",,Blountville,"Indian Springs School, 5504 Shawnee Dr, Kingsport, TN 37664",,,N,0.07
+47,163,2003,2003,2003,2026,Ozone,36.58211,-82.485742,Sullivan,Bloomingdale,"Kingsport-Bristol-Bristol, TN-VA",,Kingsport,"3301 Bloomingdale Rd, Kingsport, TN 37660",,,N,0.07
+47,165,0007,0007,0007,2026,Ozone,36.29756,-86.653137,Sumner,Hendersonville,"Nashville-Davidson--Murfreesboro--Franklin, TN",,Hendersonville,"Rockland Recreation Area, 99 Overlook Cir, Hendersonville, TN 37075",,,N,0.07
+47,187,0106,0106,0106,2026,Ozone,35.949765000897,-87.138246,Williamson,Fairview,"Nashville-Davidson--Murfreesboro--Franklin, TN",,Fairview,"Fairview Middle School, 7200 Cumberland Dr, Fairview, TN 37062",,,N,0.07
+47,189,0103,0103,0103,2026,Ozone,36.0608950008982,-86.286291,Wilson,Not in a city,"Nashville-Davidson--Murfreesboro--Franklin, TN",,Cedars of Lebanon,"Cedars of Lebanon State Park, 3747 Cedar Forest Rd, Lebanon, TN 37090",,,N,0.07
+48,027,1045,1045,1045,2026,Ozone,31.1224125,-97.4310554,Bell,Temple,"Killeen-Temple, TX",,Temple Georgia,8406 Georgia Avenue,0.045,0.058,Y,0.07
+48,027,1047,1047,1047,2026,Ozone,31.0879989,-97.6797433,Bell,Killeen,"Killeen-Temple, TX",,Killeen Skylark Field,1605 Stone Tree Drive,0.047,0.063,Y,0.07
+48,029,0032,0032,0032,2026,Ozone,29.515061,-98.6202106,Bexar,Leon Valley,"San Antonio-New Braunfels, TX",,San Antonio Northwest,6655 Bluebird Lane,0.045,0.066,Y,0.07
+48,029,0052,0052,0052,2026,Ozone,29.6320769,-98.5649179,Bexar,San Antonio,"San Antonio-New Braunfels, TX",,Camp Bullis,F Range (1000Yd marker off Wilderness Trail),0.047,0.065,Y,0.07
+48,029,0059,0059,0059,2026,Ozone,29.275371,-98.3117,Bexar,San Antonio,"San Antonio-New Braunfels, TX",,Calaveras Lake,14620 Laguna Rd,0.046,0.062,Y,0.07
+48,039,1004,1004,1004,2026,Ozone,29.5204519,-95.3925031,Brazoria,Manvel,"Houston-The Woodlands-Sugar Land, TX",,Manvel Croix Park,4503 Croix Pkwy,0.043,0.064,Y,0.07
+48,039,1016,1016,1016,2026,Ozone,29.0437607,-95.4729527,Brazoria,Lake Jackson,"Houston-The Woodlands-Sugar Land, TX",,Lake Jackson,109B  Brazoria Hwy 332 West,0.043,0.06,Y,0.07
+48,043,0101,0101,0101,2026,Ozone,29.30265,-103.17781,Brewster,Not in a city,,BIBE1,Big Bend NP,"BIG BEND NATIONAL PARK, TEXAS",0.048,0.06,Y,0.07
+48,061,1023,1023,1023,2026,Ozone,26.2003401,-97.7126928,Cameron,Harlingen,"Brownsville-Harlingen, TX",,Harlingen Teege,1602 W Teege Avenue,0.043,0.052,Y,0.07
+48,085,0005,0005,0005,2026,Ozone,33.1324232,-96.7864036,Collin,Frisco,"Dallas-Fort Worth-Arlington, TX",,Frisco,6590 Hillcrest Road,0.045,0.071,Y,0.07
+48,109,0002,0002,0002,2026,Ozone,31.8913890008468,-104.809722,Culberson,Not in a city,,,Guadalupe Mountains National Park - Maintenance Area,Guadalupe Mountains National Park,,,N,0.07
+48,113,0069,0069,0069,2026,Ozone,32.820061,-96.860117,Dallas,Dallas,"Dallas-Fort Worth-Arlington, TX",,Dallas Hinton,1415 Hinton Street,,,N,0.07
+48,113,0075,0075,0075,2026,Ozone,32.9192065,-96.8085005,Dallas,Dallas,"Dallas-Fort Worth-Arlington, TX",,Dallas North #2,12532 1/2 Nuestra Drive,0.041,0.065,Y,0.07
+48,113,0087,0087,0087,2026,Ozone,32.6764481,-96.8720499,Dallas,Dallas,"Dallas-Fort Worth-Arlington, TX",,Dallas Redbird Airport Executive,3277 W Redbird Lane,0.045,0.065,Y,0.07
+48,121,0034,0034,0034,2026,Ozone,33.2190736,-97.1962956,Denton,Denton,"Dallas-Fort Worth-Arlington, TX",,Denton Airport South,Denton Airport South,0.045,0.069,Y,0.07
+48,121,1032,1032,1032,2026,Ozone,33.4106567,-96.9445994,Denton,Pilot Point,"Dallas-Fort Worth-Arlington, TX",CAMS 1032,Pilot Point,792 E Northside Dr,0.047,0.069,Y,0.07
+48,139,0016,0016,0016,2026,Ozone,32.482083,-97.026899,Ellis,Midlothian,"Dallas-Fort Worth-Arlington, TX",,Midlothian OFW,2725 Old Fort Worth Road,,,N,0.07
+48,139,1044,1044,1044,2026,Ozone,32.1754317,-96.8701937,Ellis,Italy,"Dallas-Fort Worth-Arlington, TX",,Italy,900 FM 667 Ellis County,,,N,0.07
+48,141,0029,0029,0029,2026,Ozone,31.7857628,-106.323602,El Paso,El Paso,"El Paso, TX",,Ivanhoe,10834 Ivanhoe (Ivanhoe Fire Station),0.041,0.055,Y,0.07
+48,141,0037,0037,0037,2026,Ozone,31.768286,-106.501243,El Paso,El Paso,"El Paso, TX",1,El Paso UTEP,250 Rim Rd,,,N,0.07
+48,141,0044,0044,0044,2026,Ozone,31.7656843,-106.455227,El Paso,El Paso,"El Paso, TX",,El Paso Chamizal,800 S San Marcial Street,0.042,0.06,Y,0.07
+48,141,0055,0055,0055,2026,Ozone,31.7467475,-106.402788,El Paso,El Paso,"El Paso, TX",,Ascarate Park SE,650 R E Thomason Loop,0.039,0.061,Y,0.07
+48,141,0057,0057,0057,2026,Ozone,31.6675492,-106.287972,El Paso,Socorro,"El Paso, TX",,Socorro Hueco,320 Old Hueco Tanks Road,0.041,0.062,Y,0.07
+48,141,0058,0058,0058,2026,Ozone,31.893941,-106.425837,El Paso,El Paso,"El Paso, TX",,Skyline Park,5050A Yvette Drive,0.043,0.062,Y,0.07
+48,141,1021,1021,1021,2026,Ozone,31.8624965,-106.547327,El Paso,El Paso,"El Paso, TX",,Ojo De Agua,6767 Ojo De Agua,0.042,0.061,Y,0.07
+48,167,1034,1034,1034,2026,Ozone,29.2544703,-94.8612782,Galveston,Galveston,"Houston-The Woodlands-Sugar Land, TX",,Galveston 99th Street,9511 Avenue V 1/2,0.046,0.069,Y,0.07
+48,183,0001,0001,0001,2026,Ozone,32.3786813,-94.7118029,Gregg,Longview,"Longview, TX",,Longview,Gregg Co Airport near Longview,0.046,0.061,Y,0.07
+48,201,0024,0024,0024,2026,Ozone,29.9010299,-95.3261467,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston Aldine,4510 1/2 Aldine Mail Rd,0.044,0.071,Y,0.07
+48,201,0026,0026,0026,2026,Ozone,29.8027155,-95.1255162,Harris,Channelview,"Houston-The Woodlands-Sugar Land, TX",,Channelview,1405 Sheldon Road,0.042,0.064,Y,0.07
+48,201,0029,0029,0029,2026,Ozone,30.0395216,-95.6739177,Harris,Tomball,"Houston-The Woodlands-Sugar Land, TX",,Northwest Harris County,16822 Kitzman,0.044,0.07,Y,0.07
+48,201,0046,0046,0046,2026,Ozone,29.8285159,-95.2839556,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston North Wayside,7330 1/2 North Wayside,0.036,0.064,Y,0.07
+48,201,0047,0047,0047,2026,Ozone,29.8341672,-95.4891293,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Lang,4401 1/2 Lang Rd,0.04,0.066,Y,0.07
+48,201,0051,0051,0051,2026,Ozone,29.6239612,-95.4743326,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston Croquet,13826 1/2 Croquet,0.044,0.066,Y,0.07
+48,201,0055,0055,0055,2026,Ozone,29.69566,-95.49924,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston Bayland Park,6400 Bissonnet Street,0.044,0.069,Y,0.07
+48,201,0062,0062,0062,2026,Ozone,29.6256669,-95.267058,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston Monroe,9726 1/2 Monroe,0.039,0.058,Y,0.07
+48,201,0066,0066,0066,2026,Ozone,29.7233326,-95.6359413,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston Westhollow,3333 1/2 Hwy 6 South,0.045,0.065,Y,0.07
+48,201,0416,0416,0416,2026,Ozone,29.6862893,-95.2947227,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",C416,Park Place,7421 Park Place Blvd,0.039,0.066,Y,0.07
+48,201,0417,0417,0417,2026,Ozone,29.7728566,-95.3959368,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston Harvard Street,160 Harvard Street,,,N,0.07
+48,201,1015,1015,1015,2026,Ozone,29.7589137,-95.0793246,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",CAMS  1015,Lynchburg Ferry,4364 Independence Parkway South,0.041,0.063,Y,0.07
+48,201,1017,1017,1017,2026,Ozone,29.8271693,-94.9883105,Harris,Baytown,"Houston-The Woodlands-Sugar Land, TX",,Baytown Garth,"4898 Ashbel Cove Drive, Trailer A",0.043,0.064,Y,0.07
+48,201,1034,1034,1034,2026,Ozone,29.7680329,-95.2205736,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Houston East,1262 1/2 Mae Drive,0.038,0.066,Y,0.07
+48,201,1035,1035,1035,2026,Ozone,29.7337367,-95.2576045,Harris,Houston,"Houston-The Woodlands-Sugar Land, TX",,Clinton,9525 1/2 Clinton Dr,0.04,0.066,Y,0.07
+48,201,1039,1039,1039,2026,Ozone,29.6705521,-95.1299327,Harris,Deer Park,"Houston-The Woodlands-Sugar Land, TX",HOUS1,Houston Deer Park #2,4413 Glenwood Avenue,0.044,0.072,Y,0.07
+48,201,1050,1050,1050,2026,Ozone,29.5830675,-95.0155538,Harris,Seabrook,"Houston-The Woodlands-Sugar Land, TX",,Seabrook Friendship Park,4522 Park Rd,0.04,0.063,Y,0.07
+48,203,0002,0002,0002,2026,Ozone,32.6690054,-94.1674681,Harrison,Not in a city,"Marshall, TX",,Karnack,Hwy 134 & Spur 449,0.046,0.055,Y,0.07
+48,215,0043,0043,0043,2026,Ozone,26.2262396,-98.2911468,Hidalgo,Mission,"McAllen-Edinburg-Mission, TX",,Mission,2300 North Glasscock,0.048,0.053,Y,0.07
+48,221,0001,0001,0001,2026,Ozone,32.4423081,-97.8035487,Hood,Granbury,"Dallas-Fort Worth-Arlington, TX",,Granbury,200 N Gordon Street,0.043,0.063,Y,0.07
+48,231,1006,1006,1006,2026,Ozone,33.1530859,-96.1155692,Hunt,Greenville,"Dallas-Fort Worth-Arlington, TX",CAMS 1006,Greenville,824 Sayle Street,0.042,0.059,Y,0.07
+48,245,0009,0009,0009,2026,Ozone,30.0364813,-94.0710743,Jefferson,Beaumont,"Beaumont-Port Arthur, TX",,Beaumont Downtown,1086 Vermont Avenue,0.04,0.057,Y,0.07
+48,245,0011,0011,0011,2026,Ozone,29.8975143,-93.9910868,Jefferson,Port Arthur,"Beaumont-Port Arthur, TX",,Port Arthur West,623 Ellias Street,0.044,0.055,Y,0.07
+48,245,0022,0022,0022,2026,Ozone,29.8639616,-94.3178016,Jefferson,Not in a city,"Beaumont-Port Arthur, TX",,Hamshire,12552 Second St,0.044,0.058,Y,0.07
+48,245,0101,0101,0101,2026,Ozone,29.727931,-93.894081,Jefferson,Port Arthur,"Beaumont-Port Arthur, TX",,SETRPC  40  Sabine Pass,5200 Mechanic,0.05,0.062,Y,0.07
+48,245,0102,0102,0102,2026,Ozone,29.9425,-94.000556,Jefferson,Port Arthur,"Beaumont-Port Arthur, TX",,SETRPC 43 Jefferson Co Airport,Jefferson County Airport,0.042,0.058,Y,0.07
+48,245,1035,1035,1035,2026,Ozone,29.9799751,-94.004778,Jefferson,Nederland,"Beaumont-Port Arthur, TX",,Nederland 17th Street,1516 17th Street,0.021,0.052,Y,0.07
+48,251,0003,0003,0003,2026,Ozone,32.3535918,-97.4367902,Johnson,Cleburne,"Dallas-Fort Worth-Arlington, TX",,Cleburne Airport,1650 Airport Drive,0.04,0.061,Y,0.07
+48,257,0005,0005,0005,2026,Ozone,32.5649668,-96.3176831,Kaufman,Kaufman,"Dallas-Fort Worth-Arlington, TX",,Kaufman,3790 S Houston St,0.046,0.061,Y,0.07
+48,309,1037,1037,1037,2026,Ozone,31.6530838,-97.0706989,McLennan,Waco,"Waco, TX",,Waco Mazanec,4472 Mazanec Rd,0.045,0.062,Y,0.07
+48,339,0078,0078,0078,2026,Ozone,30.350325,-95.4251369,Montgomery,Conroe,"Houston-The Woodlands-Sugar Land, TX",,Conroe Relocated,9472A Hwy 1484,0.043,0.067,Y,0.07
+48,349,1051,1051,1051,2026,Ozone,32.0319461,-96.3991474,Navarro,Corsicana,"Corsicana, TX",,Corsicana Airport,Corsicana Airport,0.045,0.062,Y,0.07
+48,355,0025,0025,0025,2026,Ozone,27.7653346,-97.4342738,Nueces,Corpus Christi,"Corpus Christi, TX",,Corpus Christi West,902 Airport Road,0.047,0.058,Y,0.07
+48,355,0026,0026,0026,2026,Ozone,27.8324346,-97.5554299,Nueces,Corpus Christi,"Corpus Christi, TX",,Corpus Christi Tuloso,9860 La Branch,0.047,0.058,Y,0.07
+48,361,1001,1001,1001,2026,Ozone,30.0852575,-93.7613656,Orange,West Orange,"Beaumont-Port Arthur, TX",,West Orange,2700 Austin Ave,0.043,0.056,Y,0.07
+48,367,0081,0081,0081,2026,Ozone,32.8687607,-97.9059367,Parker,Weatherford,"Dallas-Fort Worth-Arlington, TX",,Parker County,3033 New Authon Rd,0.043,0.066,Y,0.07
+48,373,9991,9991,9991,2026,Ozone,30.7017,-94.6742,Polk,Not in a city,,ALC188,Alabama-Coushatta,"361 Tombigbee Rd, Livingston, TX 77351",0.047,0.057,Y,0.07
+48,381,9991,9991,9991,2026,Ozone,34.8803,-101.6649,Randall,Not in a city,"Amarillo, TX",PAL190,Palo Duro,"Palo Duro Canyon State Park, Canyon, TX 79015",0.045,0.06,Y,0.07
+48,397,0001,0001,0001,2026,Ozone,32.9365273,-96.4592439,Rockwall,Rockwall,"Dallas-Fort Worth-Arlington, TX",,Rockwall Heath,100 E Heath St,0.041,0.055,Y,0.07
+48,423,0007,0007,0007,2026,Ozone,32.3440187,-95.4157519,Smith,Tyler,"Tyler, TX",,Tyler Airport Relocated,14790 County Road 1145,0.047,0.059,Y,0.07
+48,439,0075,0075,0075,2026,Ozone,32.9878868,-97.4771536,Tarrant,Eagle Mountain,"Dallas-Fort Worth-Arlington, TX",,Eagle Mountain Lake,14290 Morris Dido Newark Rd,0.047,0.071,Y,0.07
+48,439,1002,1002,1002,2026,Ozone,32.8058163,-97.3565263,Tarrant,Fort Worth,"Dallas-Fort Worth-Arlington, TX",,Fort Worth Northwest,3317 Ross Ave,0.042,0.07,Y,0.07
+48,439,2003,2003,2003,2026,Ozone,32.9224889,-97.2820963,Tarrant,Fort Worth,"Dallas-Fort Worth-Arlington, TX",,Keller,FAA Site off Alta Vista Road,0.043,0.069,Y,0.07
+48,439,3009,3009,3009,2026,Ozone,32.9842581,-97.0637017,Tarrant,Grapevine,"Dallas-Fort Worth-Arlington, TX",,Grapevine Fairway,4100 Fairway Dr,0.041,0.065,Y,0.07
+48,439,3011,3011,3011,2026,Ozone,32.6563654,-97.0885924,Tarrant,Arlington,"Dallas-Fort Worth-Arlington, TX",,Arlington Municipal Airport,5504 South Collins Street,0.04,0.064,Y,0.07
+48,453,0014,0014,0014,2026,Ozone,30.3549341,-97.7617374,Travis,Austin,"Austin-Round Rock, TX",,Austin North Hills Drive,3824 North Hills Drive,0.045,0.062,Y,0.07
+48,453,0020,0020,0020,2026,Ozone,30.4831664,-97.8723236,Travis,Leander,"Austin-Round Rock, TX",,Austin Audubon Society,12200 Lime Creek Rd,0.043,0.059,Y,0.07
+48,469,0003,0003,0003,2026,Ozone,28.8362116,-97.0055207,Victoria,Victoria,"Victoria, TX",,Victoria,106 Mockingbird Lane,0.048,0.061,Y,0.07
+48,479,0016,0016,0016,2026,Ozone,27.5079517,-99.5240158,Webb,Laredo,"Laredo, TX",,Laredo College,West End Washington Street,0.049,0.064,Y,0.07
+51,003,0001,0001,0001,2026,Ozone,38.0765700009162,-78.50397,Albemarle,Not in a city,"Charlottesville, VA",33-A,Albemarle High School,"Lambs Lane, behind Albemarle High School Athletic Field",0.047,0.055,Y,0.07
+51,013,0020,0020,0020,2026,Ozone,38.857700000922,-77.05922,Arlington,Arlington,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47-T,Aurora Hills Visitors Center,S 18TH AND HAYES ST,0.041,0.06,Y,0.07
+51,033,0001,0001,0001,2026,Ozone,38.2008700009171,-77.37742,Caroline,Not in a city,"Richmond, VA",48-A,"USGS Geomagnetic Center, Corbin","U.S. GEODETIC SURVEY, OFF RT.2, CORBIN",0.043,0.051,Y,0.07
+51,036,0002,0002,0002,2026,Ozone,37.3443800009102,-77.25925,Charles,Not in a city,"Richmond, VA",75-B,Shirley Plantation,"SHIRLEY PLANTATION, ROUTE 5",0.043,0.052,Y,0.07
+51,041,0004,0004,0004,2026,Ozone,37.3574800009103,-77.59355,Chesterfield,Not in a city,"Richmond, VA",71-H,VDOT Chesterfield Residency Shop,"BEACH,INTERSECTION OF CO.ROADS 655 & 654",0.04,0.052,Y,0.07
+51,059,0030,0030,0030,2026,Ozone,38.7733500009214,-77.10468,Fairfax,Groveton,"Washington-Arlington-Alexandria, DC-VA-MD-WV",46-B9,Lee District Park,"STA. 46-B9, LEE PARK, TELEGRAPH ROAD",0.042,0.057,Y,0.07
+51,061,0002,0002,0002,2026,Ozone,38.4736700009192,-77.76772,Fauquier,Not in a city,"Washington-Arlington-Alexandria, DC-VA-MD-WV",37-B,"Chester Phelps Wildlife Management Area, Sumerduck",RT651 C PHELPS WILDLIFE MANAGEMENT AREA,0.044,0.053,Y,0.07
+51,069,0010,0010,0010,2026,Ozone,39.2810200009248,-78.08157,Frederick,Not in a city,"Winchester, VA-WV",28-J,Rest,"RTE 669, BUTLER MANUF. CO NEAR REST VA",0.043,0.053,Y,0.07
+51,071,9992,9992,9992,2026,Ozone,37.3232,-80.4572,Giles,Not in a city,"Blacksburg-Christiansburg-Radford, VA",VPI120,Blue Grass Trail,"1567 Blue Grass Trail, Newport, VA 24128",,,N,0.07
+51,085,0003,0003,0003,2026,Ozone,37.6061300009124,-77.2188,Hanover,Not in a city,"Richmond, VA",73-E,"Turner Property, Old Church",7345 MCCLELLAN RD MECHANICSVILLE VA,0.045,0.054,Y,0.07
+51,087,0014,0014,0014,2026,Ozone,37.556520000912,-77.40027,Henrico,East Highland Park,"Richmond, VA",72-M,MathScience Innovation Center,2401 HARTMAN STREET  MATH & SCIENCE CTR,0.042,0.054,Y,0.07
+51,107,1005,1005,1005,2026,Ozone,39.0247300009231,-77.48925,Loudoun,Not in a city,"Washington-Arlington-Alexandria, DC-VA-MD-WV",38-I,"Broad Run High School, Ashburn","38-I, BROAD RUN HIGH SCHOOL, ASHBURN",0.043,0.057,Y,0.07
+51,113,0003,0003,0003,2026,Ozone,38.5231,-78.43471,Madison,Not in a city,,SHEN1,Shenandoah NP,SHENANDOAH NP BIG MEADOWS,0.049,0.056,Y,0.07
+51,147,9991,9991,9991,2026,Ozone,37.1655,-78.3069,Prince Edward,Not in a city,,PED108,Prince Edward,"Prince Edward-Gallion State Forest, Burkeville, VA 23922",0.047,0.054,Y,0.07
+51,153,0009,0009,0009,2026,Ozone,38.8528700009219,-77.63462,Prince William,Not in a city,"Washington-Arlington-Alexandria, DC-VA-MD-WV",45-L,James S. Long Park,JAMES S. LONG PARK,0.043,0.056,Y,0.07
+51,161,1004,1004,1004,2026,Ozone,37.2834200009096,-79.88452,Roanoke,Vinton,"Roanoke, VA",19-A6,East Vinton Elementary School,HERMAN HORN ELEMENTARY SCHOOL,0.046,0.054,Y,0.07
+51,163,0003,0003,0003,2026,Ozone,37.6266800009126,-79.51257,Rockbridge,Not in a city,,21-C,Natural Bridge Ranger Station,"21-C,GLENWOOD-PEDLAR DISTRICT RANGER STA",0.046,0.053,Y,0.07
+51,165,0003,0003,0003,2026,Ozone,38.4775300009192,-78.81952,Rockingham,Not in a city,"Harrisonburg, VA",26-F,ROCKINGHAM CO. VDOT,"VDOT RESIDENCY SHOP, 3536 NORTH VALLEY PIKE, HARRISONBURG, VA",0.045,0.055,Y,0.07
+51,179,0001,0001,0001,2026,Ozone,38.4812300009193,-77.3704,Stafford,Aquia Harbour,"Washington-Arlington-Alexandria, DC-VA-MD-WV",44-A,Widewater Elementary School,"WIDEWATER ELEM. SCH., DEN RICH ROAD",0.045,0.054,Y,0.07
+51,197,0002,0002,0002,2026,Ozone,36.8911700009061,-81.25423,Wythe,Not in a city,,16-B,Rural Retreat Sewage Treatment Plant,16-B RURAL RETREAT SEWAGE DISPOSAL,0.047,0.055,Y,0.07
+51,650,0008,0008,0008,2026,Ozone,37.103733000908,-76.3870167,Hampton City,Hampton,"Virginia Beach-Norfolk-Newport News, VA-NC",179-K,NASA Langley Research Center,"Adjacent to Building 1196, Wythe Landing Loop, NASA-Langley Research Center",0.043,0.054,Y,0.07
+51,800,0004,0004,0004,2026,Ozone,36.9011800009062,-76.43808,Suffolk City,Suffolk,"Virginia Beach-Norfolk-Newport News, VA-NC",183-E,Tidewater Community College,"TIDEWATER COMM. COLLEGE, FREDERIC CAMPUS",,,N,0.07
+51,800,0005,0005,0005,2026,Ozone,36.665250000904,-76.73078,Suffolk City,Suffolk,"Virginia Beach-Norfolk-Newport News, VA-NC",183-F,"VA Tech Agricultural Research Station, Holland","TIDEWATER RESEARCH STATION, HARE ROAD",0.043,0.051,Y,0.07
+54,003,0003,0003,0003,2026,Ozone,39.448104902,-77.963845203,Berkeley,Martinsburg,"Hagerstown-Martinsburg, MD-WV",,MARTINSBURG BALL FIELD,MARTINSBURG - BALL FIELD,0.038,0.054,Y,0.07
+54,011,0007,0007,0007,2026,Ozone,38.4102420009187,-82.432436,Cabell,Huntington,"Huntington-Ashland, WV-KY-OH",,,1313 4TH STREET HUNTINGTON,,,N,0.07
+54,021,9991,9991,9991,2026,Ozone,38.8795,-80.8477,Gilmer,Not in a city,,CDR119,Cedar Creek,"Cedar Creek State Park, Cedarville, WV 26611",,,N,0.07
+54,025,0003,0003,0003,2026,Ozone,37.9085330009149,-80.632633,Greenbrier,Not in a city,,,SAM BLACK CHURCH - DOH GARAGE - GREENBRIER COUNTY,SAM BLACK CHURCH - DOH GARAGE,,,N,0.07
+54,029,0009,0009,0009,2026,Ozone,40.4273718231455,-80.5923178147893,Hancock,Weirton,"Weirton-Steubenville, WV-OH",,,WEIRTON - SUMMIT CIRCLE,0.035,0.055,Y,0.07
+54,039,0020,0020,0020,2026,Ozone,38.346258,-81.621161,Kanawha,Charleston,"Charleston, WV",,Dixie St.,CHARLESTON - 1436 DIXIE STREET,0.033,0.049,Y,0.07
+54,061,0003,0003,0003,2026,Ozone,39.649444,-79.920278,Monongalia,Morgantown,"Morgantown, WV",,,MORGANTOWN - AIRPORT US 119&AIRPORT BLVD.,0.035,0.055,Y,0.07
+54,069,0010,0010,0010,2026,Ozone,40.1148755622005,-80.7009723435715,Ohio,Wheeling,"Wheeling, WV-OH",,,WHEELING - WARWOOD WATER PLANT,0.032,0.052,Y,0.07
+54,093,9991,9991,9991,2026,Ozone,39.0905,-79.6617,Tucker,Not in a city,,PAR107,Parsons,"USDA Northern Research Station, Monongahela National Forest, Parsons, WV 26287",0.041,0.053,Y,0.07
+54,107,1002,1002,1002,2026,Ozone,39.3235330009251,-81.552367,Wood,Vienna,"Parkersburg-Vienna, WV",,Neale Elementary School,VIENNA - NEALE ELEM SCHOOL,0.035,0.054,Y,0.07
+55,003,0010,0010,0010,2026,Ozone,46.60234,-90.65615,Ashland,Not in a city,,,BAD RIVER TRIBAL SCHOOL - ODANAH,BAD RIVER TRIBAL SCHOOL - ODANAH,0.035,0.051,Y,0.07
+55,009,0026,0026,0026,2026,Ozone,44.53098,-87.90799,Brown,Green Bay,"Green Bay, WI",,GREEN BAY - UW,"UW Green Bay, E Circle Drive",,,N,0.07
+55,021,0015,0015,0015,2026,Ozone,43.31551,-89.10889,Columbia,Not in a city,"Madison, WI",,COLUMBUS,"1045 WENDT RD, COLUMBUS",,,N,0.07
+55,025,0041,0041,0041,2026,Ozone,43.10101,-89.35768,Dane,Madison,"Madison, WI",,MADISON EAST,2302 HOARD ST,,,N,0.07
+55,027,0001,0001,0001,2026,Ozone,43.46611,-88.62111,Dodge,Kekoskee,"Beaver Dam, WI",,HORICON WILDLIFE AREA,"Horicon Wildlife Area, 1210 N Palmatory St",0.033,0.053,Y,0.07
+55,029,0004,0004,0004,2026,Ozone,45.2384000009432,-86.994,Door,Not in a city,,,NEWPORT PARK,475 Newport Park Rd,,,N,0.07
+55,035,0014,0014,0014,2026,Ozone,44.76249,-91.41445,Eau Claire,Eau Claire,"Eau Claire, WI",,EAU CLAIRE - DOT SIGN SHOP,"5509 Highway 53 South, Eau Claire",,,N,0.07
+55,039,0006,0006,0006,2026,Ozone,43.6874,-88.42205,Fond du Lac,Not in a city,"Fond du Lac, WI",,FOND DU LAC,"N3996 KELLY RD, TWN BYRON",,,N,0.07
+55,041,0007,0007,0007,2026,Ozone,45.56498,-88.80859,Forest,Not in a city,,FCPC1,POTAWATOMI,"FIRE TOWER RD, POTAWATOMI SITE",0.038,0.051,Y,0.07
+55,055,0009,0009,0009,2026,Ozone,43.0034,-88.8283,Jefferson,Not in a city,"Watertown-Fort Atkinson, WI",,JEFFERSON - LAATSCH,N4440 Laatsch Lane,,,N,0.07
+55,059,0019,0019,0019,2026,Ozone,42.50472,-87.8093,Kenosha,Pleasant Prairie,"Chicago-Naperville-Elgin, IL-IN-WI",,CHIWAUKEE PRAIRIE STATELINE,"CHIWAUKEE PRAIRIE, 11838 FIRST COURT",0.031,0.062,Y,0.07
+55,059,0025,0025,0025,2026,Ozone,42.5956,-87.88576,Kenosha,Kenosha,"Chicago-Naperville-Elgin, IL-IN-WI",,KENOSHA - WATER TOWER,4504 64th Ave.,0.033,0.061,Y,0.07
+55,061,0002,0002,0002,2026,Ozone,44.44312,-87.50525,Kewaunee,Kewaunee,"Green Bay, WI",,KEWAUNEE,1630 Milwaukee St,,,N,0.07
+55,063,0012,0012,0012,2026,Ozone,43.7775,-91.2269,La Crosse,La Crosse,"La Crosse-Onalaska, WI-MN",,LACROSSE - DOT BUILDING,3550 MORMON COULEE RD,,,N,0.07
+55,071,0007,0007,0007,2026,Ozone,44.13862,-87.61612,Manitowoc,Manitowoc,"Manitowoc, WI",,MANITOWOC - WDLND DUNES,2193 E Goodwin Rd,,,N,0.07
+55,073,0012,0012,0012,2026,Ozone,44.70735,-89.77192,Marathon,Not in a city,"Wausau, WI",,LAKE DUBAY,"LAKE DUBAY, 1804 Bergen Rd",,,N,0.07
+55,079,0010,0010,0010,2026,Ozone,43.01724,-87.93369,Milwaukee,Milwaukee,"Milwaukee-Waukesha-West Allis, WI",,MILWAUKEE - SIXTEENTH ST. HEALTH CENTER,"HEALTH CENTER, 1337 SO 16TH ST",,,N,0.07
+55,079,0068,0068,0068,2026,Ozone,43.09456,-87.90144,Milwaukee,Milwaukee,"Milwaukee-Waukesha-West Allis, WI",,MILWAUKEE - UWM UPARK,4372 North Humboldt Blvd,,,N,0.07
+55,079,0085,0085,0085,2026,Ozone,43.1818000009414,-87.901,Milwaukee,Bayside,"Milwaukee-Waukesha-West Allis, WI",,BAYSIDE,601 E. ELLSWORTH LANE,,,N,0.07
+55,087,0009,0009,0009,2026,Ozone,44.30738,-88.39509,Outagamie,Appleton,"Appleton, WI",,APPLETON - AAL,4579 N. Meade Street,,,N,0.07
+55,089,0008,0008,0008,2026,Ozone,43.34317,-87.92087,Ozaukee,Not in a city,"Milwaukee-Waukesha-West Allis, WI",,GRAFTON,1866 N Port Washington Rd,,,N,0.07
+55,089,0009,0009,0009,2026,Ozone,43.4983,-87.8102,Ozaukee,Not in a city,"Milwaukee-Waukesha-West Allis, WI",,HARRINGTON BEACH PARK,485 County Hwy D,,,N,0.07
+55,101,0020,0020,0020,2026,Ozone,42.77711,-87.79689,Racine,Not in a city,"Racine, WI",,RACINE - PAYNE AND DOLAN,4500 Charles St.,,,N,0.07
+55,105,0030,0030,0030,2026,Ozone,42.51831,-89.06347,Rock,Beloit,"Janesville-Beloit, WI",,BELOIT - CONVERSE,1501 Ritsher St.,,,N,0.07
+55,111,0007,0007,0007,2026,Ozone,43.4351,-89.67979,Sauk,Not in a city,"Baraboo, WI",,DEVILS LAKE PARK,"DEVILS LAKE STATE PARK, E12886 TOWER RD",,,N,0.07
+55,117,0006,0006,0006,2026,Ozone,43.66737,-87.71631,Sheboygan,Not in a city,"Sheboygan, WI",,SHEBOYGAN - KOHLER ANDRAE,"KOHLER ANDRE PARK, 1520 Beach Park Rd.",,,N,0.07
+55,117,0009,0009,0009,2026,Ozone,43.8155955,-87.7922345,Sheboygan,Sheboygan,"Sheboygan, WI",,SHEBOYGAN - HAVEN,N7563 Hwy 42,,,N,0.07
+55,119,9991,9991,9991,2026,Ozone,45.2066,-90.5969,Taylor,Not in a city,,PRK134,Perkinstown,"W 10746 County Highway M, Medford, WI 54451",0.038,0.054,Y,0.07
+55,125,0001,0001,0001,2026,Ozone,46.0519000009426,-89.654,Vilas,Not in a city,,,TROUT LAKE,"TROUT LAKE NURSERY, 10810 COUNTY HWY M",,,N,0.07
+55,127,0006,0006,0006,2026,Ozone,42.66218,-88.48703,Walworth,Elkhorn,"Whitewater-Elkhorn, WI",,Elkhorn,3692 County Road NN,,,N,0.07
+55,133,0027,0027,0027,2026,Ozone,43.0200753785299,-88.2150699551098,Waukesha,Waukesha,"Milwaukee-Waukesha-West Allis, WI",,WAUKESHA - CLEVELAND AVE,1310 CLEVELAND AVE,,,N,0.07
