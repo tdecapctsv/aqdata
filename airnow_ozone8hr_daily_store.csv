@@ -10770,3 +10770,605 @@ VALID_DATE,AQS_ID,SITE_NAME,PARAMETER,UNITS,VALUE,AVG_PERIOD,LATITUDE,LONGITUDE,
 03/03/26,550590019,Chiwaukee,OZONE-8HR,PPB,34,8,42.504700,-87.811100,Wisconsin Dept. of Natural Resources
 03/03/26,550590025,Kenosha-Water Tower,OZONE-8HR,PPB,33,8,42.596000,-87.886000,Wisconsin Dept. of Natural Resources
 03/03/26,551199991,Perkinstown,OZONE-8HR,PPB,46,8,45.206600,-90.596900,EPA Office of Atmospheric Protection
+03/03/26,291831002,West Alton,OZONE-8HR,PPB,11,8,38.872500,-90.226389,Missouri Department of Natural Resources
+03/04/26,010030010,FAIRHOPE,OZONE-8HR,PPB,34,8,30.488900,-87.870600,Alabama Department of Environmental Management
+03/04/26,010499991,Sand Mountain,OZONE-8HR,PPB,40,8,34.289001,-85.970065,EPA Office of Atmospheric Protection
+03/04/26,010550010,GADSDEN,OZONE-8HR,PPB,42,8,33.991341,-85.992653,Alabama Department of Environmental Management
+03/04/26,010730023,NO. BHAM,OZONE-8HR,PPB,42,8,33.553100,-86.815000,Jefferson County Department of Health
+03/04/26,010731005,MCADORY,OZONE-8HR,PPB,37,8,33.331100,-87.003600,Jefferson County Department of Health
+03/04/26,010731010,LEEDS,OZONE-8HR,PPB,37,8,33.545300,-86.549200,Jefferson County Department of Health
+03/04/26,010732003,WYLAM,OZONE-8HR,PPB,39,8,33.499700,-86.924200,Jefferson County Department of Health
+03/04/26,010736002,TARRANT,OZONE-8HR,PPB,39,8,33.578300,-86.773900,Jefferson County Department of Health
+03/04/26,010890014,Huntsville Old Airport,OZONE-8HR,PPB,31,8,34.691700,-86.591698,Huntsville Natural Resources and Environmental Management
+03/04/26,010890022,Huntsville Capshaw,OZONE-8HR,PPB,42,8,34.772700,-86.756100,Huntsville Natural Resources and Environmental Management
+03/04/26,010970003,Chickasaw,OZONE-8HR,PPB,35,8,30.769700,-88.087500,Alabama Department of Environmental Management
+03/04/26,010972005,BAYROAD,OZONE-8HR,PPB,34,8,30.474400,-88.141100,Alabama Department of Environmental Management
+03/04/26,011011002,MONTG,OZONE-8HR,PPB,35,8,32.412811,-86.263394,Alabama Department of Environmental Management
+03/04/26,011030011,DECATUR,OZONE-8HR,PPB,43,8,34.528600,-86.970600,Alabama Department of Environmental Management
+03/04/26,011130003,PC South Girard School,OZONE-8HR,PPB,42,8,32.437028,-84.999653,Alabama Department of Environmental Management
+03/04/26,011170004,HELENA,OZONE-8HR,PPB,41,8,33.316900,-86.825000,Alabama Department of Environmental Management
+03/04/26,011190003,Ward,OZONE-8HR,PPB,37,8,32.362530,-88.277920,Alabama Department of Environmental Management
+03/04/26,011250011,Duncanville Middle School,OZONE-8HR,PPB,47,8,33.095379,-87.481507,Alabama Department of Environmental Management
+03/04/26,050199991,Caddo Valley,OZONE-8HR,PPB,28,8,34.179500,-93.098800,EPA Office of Atmospheric Protection
+03/04/26,050350005,MARION,OZONE-8HR,PPB,31,8,35.197156,-90.193178,Arkansas Department of Environmental Quality
+03/04/26,051010002,DEER,OZONE-8HR,PPB,26,8,35.832650,-93.208081,Arkansas Department of Environmental Quality
+03/04/26,051190007,PARR,OZONE-8HR,PPB,17,8,34.756058,-92.281034,Arkansas Department of Environmental Quality
+03/04/26,051191002,NLRAP,OZONE-8HR,PPB,24,8,34.835603,-92.260456,Arkansas Department of Environmental Quality
+03/04/26,051430005,SPRNGDLE,OZONE-8HR,PPB,14,8,36.179705,-94.116630,Arkansas Department of Environmental Quality
+03/04/26,051430006,Fayetteville,OZONE-8HR,PPB,6,8,36.011670,-94.167491,Arkansas Department of Environmental Quality
+03/04/26,100010002,KILLENS,OZONE-8HR,PPB,18,8,38.986672,-75.556800,Delaware Dept. of Natural Resources and Environment
+03/04/26,100031007,LUMS 2,OZONE-8HR,PPB,7,8,39.551300,-75.732000,Delaware Dept. of Natural Resources and Environment
+03/04/26,100031010,BCSP,OZONE-8HR,PPB,10,8,39.817222,-75.563889,Delaware Dept. of Natural Resources and Environment
+03/04/26,100031013,BELLFNT2,OZONE-8HR,PPB,4,8,39.773889,-75.496389,Delaware Dept. of Natural Resources and Environment
+03/04/26,100032004,MLK,OZONE-8HR,PPB,4,8,39.739444,-75.558056,Delaware Dept. of Natural Resources and Environment
+03/04/26,100051002,SEAFORD,OZONE-8HR,PPB,23,8,38.653900,-75.610600,Delaware Dept. of Natural Resources and Environment
+03/04/26,100051003,LEWES,OZONE-8HR,PPB,20,8,38.779100,-75.163230,Delaware Dept. of Natural Resources and Environment
+03/04/26,110010041,RIVER_Terrace,OZONE-8HR,PPB,4,8,38.895683,-76.958089,District of Columbia - Department of Energy and Environment
+03/04/26,110010043,McMillan Reservoir,OZONE-8HR,PPB,6,8,38.921848,-77.013176,District of Columbia - Department of Energy and Environment
+03/04/26,110010050,TakomaRec,OZONE-8HR,PPB,5,8,38.970101,-77.016715,District of Columbia - Department of Energy and Environment
+03/04/26,120030002,Osceola National Forest,OZONE-8HR,PPB,36,8,30.197200,-82.445000,Florida Dept. of Environmental Protection
+03/04/26,120050006,St. Andrews Park,OZONE-8HR,PPB,30,8,30.128901,-85.738098,Florida Dept. of Environmental Protection
+03/04/26,120090007,Melbourne,OZONE-8HR,PPB,30,8,28.054200,-80.628300,Florida Dept. of Environmental Protection
+03/04/26,120094001,Cocoa Beach,OZONE-8HR,PPB,32,8,28.310800,-80.615600,Florida Dept. of Environmental Protection
+03/04/26,120110033,V_VIEW,OZONE-8HR,PPB,28,8,26.073200,-80.338600,Broward County Natural Resources Division
+03/04/26,120110034,NCORE,OZONE-8HR,PPB,26,8,26.054047,-80.257608,Broward County Natural Resources Division
+03/04/26,120112003,POMPANO_BEACH,OZONE-8HR,PPB,28,8,26.290600,-80.096900,Broward County Natural Resources Division
+03/04/26,120118002,DANIA_BEACH,OZONE-8HR,PPB,27,8,26.086400,-80.111400,Broward County Natural Resources Division
+03/04/26,120210004,Laurel Oaks Elementary,OZONE-8HR,PPB,33,8,26.299200,-81.720000,Florida Dept. of Environmental Protection
+03/04/26,120230002,Lake City,OZONE-8HR,PPB,36,8,30.178300,-82.619200,Florida Dept. of Environmental Protection
+03/04/26,120310077,Sheffield Elementary School,OZONE-8HR,PPB,32,8,30.475800,-81.586900,City of Jacksonville - Environmental Quality Division
+03/04/26,120310100,Mayo Clinic,OZONE-8HR,PPB,32,8,30.260300,-81.453300,City of Jacksonville - Environmental Quality Division
+03/04/26,120310106,Cisco Drive,OZONE-8HR,PPB,31,8,30.378167,-81.840790,City of Jacksonville - Environmental Quality Division
+03/04/26,120330004,Ellyson Industrial Park,OZONE-8HR,PPB,32,8,30.525000,-87.204399,Florida Dept. of Environmental Protection
+03/04/26,120330018,Pensacola NAS,OZONE-8HR,PPB,33,8,30.368100,-87.270800,Florida Dept. of Environmental Protection
+03/04/26,120350004,Flagler County,OZONE-8HR,PPB,32,8,29.489082,-81.276833,Florida Dept. of Environmental Protection
+03/04/26,120550003,Archbold Biomedical Research Center,OZONE-8HR,PPB,31,8,27.188900,-81.340300,Florida Dept. of Environmental Protection
+03/04/26,120570081,SIMMONS PARK,OZONE-8HR,PPB,33,8,27.740300,-82.465600,Hillsborough County - Tampa
+03/04/26,120571035,DAVIS ISLAND,OZONE-8HR,PPB,36,8,27.928300,-82.454700,Hillsborough County - Tampa
+03/04/26,120571065,GANDY,OZONE-8HR,PPB,37,8,27.892800,-82.538300,Hillsborough County - Tampa
+03/04/26,120573002,SYDNEY,OZONE-8HR,PPB,35,8,27.965900,-82.230617,Hillsborough County - Tampa
+03/04/26,120590004,Bonifay,OZONE-8HR,PPB,37,8,30.847500,-85.604400,Florida Dept. of Environmental Protection
+03/04/26,120619991,Indian River Lagoon,OZONE-8HR,PPB,32,8,27.849200,-80.455400,EPA Office of Atmospheric Protection
+03/04/26,120690002,Clermont,OZONE-8HR,PPB,35,8,28.525000,-81.723100,Florida Dept. of Environmental Protection
+03/04/26,120710005,Winkler Pump Station,OZONE-8HR,PPB,36,8,26.602800,-81.878900,Florida Dept. of Environmental Protection
+03/04/26,120712002,Rotary Park,OZONE-8HR,PPB,35,8,26.547500,-81.979700,Florida Dept. of Environmental Protection
+03/04/26,120730012,Tallahassee Community College,OZONE-8HR,PPB,37,8,30.439700,-84.348300,Florida Dept. of Environmental Protection
+03/04/26,120779991,Sumatra,OZONE-8HR,PPB,35,8,30.110300,-84.990300,EPA Office of Atmospheric Protection
+03/04/26,120813002,Port Manatee,OZONE-8HR,PPB,29,8,27.633100,-82.545800,Florida Dept. of Environmental Protection
+03/04/26,120814012,G. T. Bray Park,OZONE-8HR,PPB,34,8,27.480800,-82.618600,Florida Dept. of Environmental Protection
+03/04/26,120814013,5511 39TH STREET EAST,OZONE-8HR,PPB,30,8,27.449400,-82.521896,Florida Dept. of Environmental Protection
+03/04/26,120830003,YMCA - Marion County,OZONE-8HR,PPB,36,8,29.170799,-82.100800,Florida Dept. of Environmental Protection
+03/04/26,120830004,County Sheriff Impound,OZONE-8HR,PPB,32,8,29.192800,-82.173300,Florida Dept. of Environmental Protection
+03/04/26,120850007,Stuart,OZONE-8HR,PPB,26,8,27.172459,-80.240692,Florida Dept. of Environmental Protection
+03/04/26,120860027,Rosenstiel,OZONE-8HR,PPB,28,8,25.732500,-80.162201,Florida Dept. of Environmental Protection
+03/04/26,120972002,Osceola Co. Fire Station - Four Corners,OZONE-8HR,PPB,28,8,28.347800,-81.636700,Florida Dept. of Environmental Protection
+03/04/26,121010005,San Antonio,OZONE-8HR,PPB,37,8,28.332200,-82.305600,Florida Dept. of Environmental Protection
+03/04/26,121012001,Holiday,OZONE-8HR,PPB,36,8,28.195300,-82.757800,Florida Dept. of Environmental Protection
+03/04/26,121030004,St. Petersburg College,OZONE-8HR,PPB,40,8,27.971100,-82.736100,Florida Dept. of Environmental Protection
+03/04/26,121030018,Azalea,OZONE-8HR,PPB,37,8,27.785800,-82.740000,Florida Dept. of Environmental Protection
+03/04/26,121035002,John A. Chesnut Sr. Park,OZONE-8HR,PPB,38,8,28.090300,-82.700800,Florida Dept. of Environmental Protection
+03/04/26,121110013,Savannahs,OZONE-8HR,PPB,27,8,27.389080,-80.311035,Florida Dept. of Environmental Protection
+03/04/26,121130015,Woodlawn,OZONE-8HR,PPB,33,8,30.394200,-87.008100,Florida Dept. of Environmental Protection
+03/04/26,121151005,Lido Park; McKinley Dr.,OZONE-8HR,PPB,36,8,27.307200,-82.570300,Florida Dept. of Environmental Protection
+03/04/26,121152002,Jackson Road,OZONE-8HR,PPB,34,8,27.089200,-82.362500,Florida Dept. of Environmental Protection
+03/04/26,121171002,Seminole Community College (AG COMP),OZONE-8HR,PPB,31,8,28.745600,-81.310000,Florida Dept. of Environmental Protection
+03/04/26,121275002,Blind Services; 1185-A Dunn Ave,OZONE-8HR,PPB,32,8,29.206900,-81.053100,Florida Dept. of Environmental Protection
+03/04/26,121290001,St. Marks Wildlife Refuge,OZONE-8HR,PPB,28,8,30.084200,-84.161700,Florida Dept. of Environmental Protection
+03/04/26,130210012,Macon Forestry,OZONE-8HR,PPB,33,8,32.803100,-83.544700,Georgia Department of Natural Resources
+03/04/26,130510021,Savannah East President,OZONE-8HR,PPB,32,8,32.068300,-81.048900,Georgia Department of Natural Resources
+03/04/26,130590002,Athens,OZONE-8HR,PPB,39,8,33.925000,-83.357500,Georgia Department of Natural Resources
+03/04/26,130670003,Kennesaw,OZONE-8HR,PPB,36,8,34.014400,-84.607500,Georgia Department of Natural Resources
+03/04/26,130850001,Dawsonville,OZONE-8HR,PPB,44,8,34.377800,-84.056100,Georgia Department of Natural Resources
+03/04/26,130890002,South DeKalb,OZONE-8HR,PPB,37,8,33.690600,-84.273100,Georgia Department of Natural Resources
+03/04/26,130970004,Douglasville,OZONE-8HR,PPB,36,8,33.743300,-84.778900,Georgia Department of Natural Resources
+03/04/26,131210055,United Ave,OZONE-8HR,PPB,39,8,33.720600,-84.357800,Georgia Department of Natural Resources
+03/04/26,131270006,Brunswick,OZONE-8HR,PPB,32,8,31.169400,-81.496400,Georgia Department of Natural Resources
+03/04/26,131350002,Gwinnett Tech,OZONE-8HR,PPB,41,8,33.963600,-84.066400,Georgia Department of Natural Resources
+03/04/26,131510002,McDonough,OZONE-8HR,PPB,36,8,33.434700,-84.161700,Georgia Department of Natural Resources
+03/04/26,132130003,Fort Mountain,OZONE-8HR,PPB,44,8,34.785000,-84.626900,Georgia Department of Natural Resources
+03/04/26,132150008,Columbus Airport,OZONE-8HR,PPB,39,8,32.521400,-84.943600,Georgia Department of Natural Resources
+03/04/26,132319991,Georgia Station,OZONE-8HR,PPB,42,8,33.178700,-84.405200,EPA Office of Atmospheric Protection
+03/04/26,132450091,Augusta,OZONE-8HR,PPB,39,8,33.433300,-82.021900,Georgia Department of Natural Resources
+03/04/26,132470001,Conyers,OZONE-8HR,PPB,39,8,33.585600,-84.066700,Georgia Department of Natural Resources
+03/04/26,170010007,QUINCY,OZONE-8HR,PPB,9,8,39.917500,-91.335800,Illinois EPA
+03/04/26,170190007,THOMAS,OZONE-8HR,PPB,5,8,40.244953,-88.188179,Illinois EPA
+03/04/26,170199991,Bondville,OZONE-8HR,PPB,6,8,40.051900,-88.372400,EPA Office of Atmospheric Protection
+03/04/26,170230001,West Union,OZONE-8HR,PPB,20,8,39.210857,-87.668297,Indiana Dept. of Environmental Management
+03/04/26,170310001,ALSIP,OZONE-8HR,PPB,9,8,41.670800,-87.732500,Illinois EPA
+03/04/26,170310032,CHI_SWFP,OZONE-8HR,PPB,29,8,41.755798,-87.545303,Illinois EPA
+03/04/26,170310076,CHI_COM,OZONE-8HR,PPB,11,8,41.754700,-87.713600,Illinois EPA
+03/04/26,170311003,CHI_TAFT,OZONE-8HR,PPB,21,8,41.984402,-87.791901,Illinois EPA
+03/04/26,170313103,SCHILPRK,OZONE-8HR,PPB,15,8,41.965000,-87.876100,Illinois EPA
+03/04/26,170314002,CICERO,OZONE-8HR,PPB,13,8,41.855301,-87.752502,Illinois EPA
+03/04/26,170314007,DESPLNS,OZONE-8HR,PPB,28,8,42.060300,-87.863100,Illinois EPA
+03/04/26,170314201,NORTHBRK,OZONE-8HR,PPB,34,8,42.140600,-87.799400,Illinois EPA
+03/04/26,170317002,EVANSTON,OZONE-8HR,PPB,34,8,42.062200,-87.673600,Illinois EPA
+03/04/26,170436001,LISLE,OZONE-8HR,PPB,16,8,41.813100,-88.072800,Illinois EPA
+03/04/26,170491001,EFFINGHM,OZONE-8HR,PPB,22,8,39.066700,-88.548302,Illinois EPA
+03/04/26,170650002,KNIGHT_P,OZONE-8HR,PPB,24,8,38.088902,-88.625000,Illinois EPA
+03/04/26,170830117,JERSEYVL,OZONE-8HR,PPB,6,8,39.101439,-90.344494,Illinois EPA
+03/04/26,170859991,Stockton,OZONE-8HR,PPB,32,8,42.286900,-89.999700,EPA Office of Atmospheric Protection
+03/04/26,170971007,ZION,OZONE-8HR,PPB,37,8,42.466900,-87.810300,Illinois EPA
+03/04/26,171110001,CARY,OZONE-8HR,PPB,38,8,42.221100,-88.241100,Illinois EPA
+03/04/26,171132003,NORMAL,OZONE-8HR,PPB,6,8,40.516900,-88.997500,Illinois EPA
+03/04/26,171150013,DECATUR,OZONE-8HR,PPB,4,8,39.866900,-88.925600,Illinois EPA
+03/04/26,171170002,NILWOOD,OZONE-8HR,PPB,7,8,39.396100,-89.809400,Illinois EPA
+03/04/26,171193007,Wood_River,OZONE-8HR,PPB,4,8,38.860600,-90.105800,Illinois EPA
+03/04/26,171430024,PEORIA_F,OZONE-8HR,PPB,7,8,40.686900,-89.607200,Illinois EPA
+03/04/26,171431001,PEORIA_H,OZONE-8HR,PPB,9,8,40.745000,-89.586100,Illinois EPA
+03/04/26,171570001,HOUSTON,OZONE-8HR,PPB,20,8,38.176100,-89.788300,Illinois EPA
+03/04/26,171613002,ROCK_IS,OZONE-8HR,PPB,16,8,41.514400,-90.517200,Illinois EPA
+03/04/26,171630010,East St. Louis,OZONE-8HR,PPB,0,8,38.611893,-90.160614,Illinois EPA
+03/04/26,171670014,SPFD_IB,OZONE-8HR,PPB,4,8,39.831524,-89.640923,Illinois EPA
+03/04/26,171971011,BRAIDWD,OZONE-8HR,PPB,12,8,41.222200,-88.190600,Illinois EPA
+03/04/26,172012001,ROCK_LP,OZONE-8HR,PPB,32,8,42.335000,-89.038100,Illinois EPA
+03/04/26,180030002,Leo HS,OZONE-8HR,PPB,16,8,41.221418,-85.016821,Indiana Dept. of Environmental Management
+03/04/26,180050007,Hope,OZONE-8HR,PPB,22,8,39.294322,-85.766845,Indiana Dept. of Environmental Management
+03/04/26,180110001,Whitestown,OZONE-8HR,PPB,9,8,39.997773,-86.395394,Indiana Dept. of Environmental Management
+03/04/26,180130001,Helmsburg,OZONE-8HR,PPB,22,8,39.263914,-86.292261,Indiana Dept. of Environmental Management
+03/04/26,180150002,Flora,OZONE-8HR,PPB,7,8,40.540455,-86.553035,Indiana Dept. of Environmental Management
+03/04/26,180190008,Charlestown State Park,OZONE-8HR,PPB,21,8,38.393823,-85.664118,Indiana Dept. of Environmental Management
+03/04/26,180350010,Albany,OZONE-8HR,PPB,9,8,40.300385,-85.245862,Indiana Dept. of Environmental Management
+03/04/26,180390007,Bristol,OZONE-8HR,PPB,18,8,41.716959,-85.824696,Indiana Dept. of Environmental Management
+03/04/26,180550001,Plummer,OZONE-8HR,PPB,30,8,38.985556,-86.990000,Indiana Dept. of Environmental Management
+03/04/26,180570006,Noblesville-191st St.,OZONE-8HR,PPB,10,8,40.068297,-85.992451,Indiana Dept. of Environmental Management
+03/04/26,180630004,Avon,OZONE-8HR,PPB,4,8,39.758889,-86.398611,Indiana Dept. of Environmental Management
+03/04/26,180670004,Kokomo - E. Vaile Ave.,OZONE-8HR,PPB,7,8,40.481347,-86.109688,Indiana Dept. of Environmental Management
+03/04/26,180839991,Vincennes,OZONE-8HR,PPB,28,8,38.740800,-87.485300,EPA Office of Atmospheric Protection
+03/04/26,180890022,Gary-IITRI,OZONE-8HR,PPB,17,8,41.606563,-87.305015,Indiana Dept. of Environmental Management
+03/04/26,180892008,Hammond-141st St,OZONE-8HR,PPB,14,8,41.639444,-87.493611,Indiana Dept. of Environmental Management
+03/04/26,180910005,Michigan City-4th St,OZONE-8HR,PPB,16,8,41.717762,-86.907786,Indiana Dept. of Environmental Management
+03/04/26,180910010,LaPorte-E. Lincolnway,OZONE-8HR,PPB,17,8,41.629167,-86.684444,Indiana Dept. of Environmental Management
+03/04/26,180950011,Anderson-Eastside Elem. Sch,OZONE-8HR,PPB,13,8,40.125690,-85.652127,Indiana Dept. of Environmental Management
+03/04/26,180970050,Indpls-Ft. Harrison,OZONE-8HR,PPB,12,8,39.858889,-86.021389,Indiana Dept. of Environmental Management
+03/04/26,180970057,Indpls-Harding St,OZONE-8HR,PPB,9,8,39.749027,-86.186269,Indiana Dept. of Environmental Management
+03/04/26,180970078,Indpls-Washington Park,OZONE-8HR,PPB,8,8,39.810833,-86.114444,Indiana Dept. of Environmental Management
+03/04/26,181230009,Leopold,OZONE-8HR,PPB,32,8,38.115152,-86.603250,Indiana Dept. of Environmental Management
+03/04/26,181270024,Ogden Dunes,OZONE-8HR,PPB,13,8,41.617814,-87.199533,Indiana Dept. of Environmental Management
+03/04/26,181290003,St. Philips,OZONE-8HR,PPB,29,8,38.006414,-87.718414,Indiana Dept. of Environmental Management
+03/04/26,181410010,Potato Creek State Park,OZONE-8HR,PPB,18,8,41.551667,-86.370556,Indiana Dept. of Environmental Management
+03/04/26,181410015,South Bend-Shields Dr,OZONE-8HR,PPB,16,8,41.696667,-86.214722,Indiana Dept. of Environmental Management
+03/04/26,181410016,Granger-Beckley St.,OZONE-8HR,PPB,19,8,41.754722,-86.110000,Indiana Dept. of Environmental Management
+03/04/26,181450001,Fairland,OZONE-8HR,PPB,20,8,39.613367,-85.870669,Indiana Dept. of Environmental Management
+03/04/26,181630013,Inglefield,OZONE-8HR,PPB,30,8,38.113889,-87.536667,Indiana Dept. of Environmental Management
+03/04/26,181630021,Evansville-Buena Vista,OZONE-8HR,PPB,25,8,38.013250,-87.577923,Indiana Dept. of Environmental Management
+03/04/26,181670018,Terre Haute-Lafayette Ave,OZONE-8HR,PPB,11,8,39.485987,-87.401312,Indiana Dept. of Environmental Management
+03/04/26,181699991,Salamonie Reservoir,OZONE-8HR,PPB,10,8,40.816000,-85.661100,EPA Office of Atmospheric Protection
+03/04/26,181730008,Boonville,OZONE-8HR,PPB,25,8,38.052416,-87.281502,Indiana Dept. of Environmental Management
+03/04/26,190170011,"Waverly, Airport",OZONE-8HR,PPB,35,8,42.743099,-92.513100,Iowa DNR
+03/04/26,190450021,"Clinton, Rainbow Park",OZONE-8HR,PPB,26,8,41.875000,-90.177498,Iowa DNR
+03/04/26,190850007,"Pisgah, Forestry Office",OZONE-8HR,PPB,23,8,41.832199,-95.928101,Iowa DNR
+03/04/26,191130033,COGGON,OZONE-8HR,PPB,29,8,42.280600,-91.526900,Linn Co. Public Health
+03/04/26,191130040,PUBLIC HEALTH,OZONE-8HR,PPB,29,8,41.976700,-91.687800,Linn Co. Public Health
+03/04/26,191370002,Viking Lake State Park,OZONE-8HR,PPB,25,8,40.970001,-95.044998,Iowa DNR
+03/04/26,191471002,"Emmetsburg, ILCC",OZONE-8HR,PPB,30,8,43.123299,-94.693298,Iowa DNR
+03/04/26,191530030,CARPENTER,OZONE-8HR,PPB,26,8,41.603100,-93.643303,Polk Co. Air Quality Division
+03/04/26,191531579,SHELDAHL,OZONE-8HR,PPB,27,8,41.849433,-93.697616,Polk Co. Air Quality Division
+03/04/26,191630014,Scott County Park,OZONE-8HR,PPB,24,8,41.699200,-90.521896,Iowa DNR
+03/04/26,191630015,"Davenport, 10th & Vine",OZONE-8HR,PPB,18,8,41.529999,-90.587502,Iowa DNR
+03/04/26,191770006,Lake Sugema,OZONE-8HR,PPB,13,8,40.693298,-92.006104,Iowa DNR
+03/04/26,200910010,Heritage Park,OZONE-8HR,PPB,7,8,38.838600,-94.746400,Kansas Dept. of Health and Environment
+03/04/26,201030003,Leavenworth-U.S. Penitentiary,OZONE-8HR,PPB,10,8,39.327500,-94.951300,Kansas Dept. of Health and Environment
+03/04/26,201330003,Chanute,OZONE-8HR,PPB,13,8,37.676960,-95.475940,Kansas Dept. of Health and Environment
+03/04/26,201730010,WHlthDpt,OZONE-8HR,PPB,15,8,37.701100,-97.313900,Kansas Dept. of Health and Environment
+03/04/26,201730018,Sedgwick,OZONE-8HR,PPB,19,8,37.897499,-97.492073,Kansas Dept. of Health and Environment
+03/04/26,201770013,KNI-Topeka,OZONE-8HR,PPB,7,8,39.024200,-95.711400,Kansas Dept. of Health and Environment
+03/04/26,201910002,PECK,OZONE-8HR,PPB,13,8,37.476900,-97.366400,Kansas Dept. of Health and Environment
+03/04/26,201950001,Cedar Bluff,OZONE-8HR,PPB,28,8,38.770300,-99.763600,Kansas Dept. of Health and Environment
+03/04/26,202090021,WY/KC,OZONE-8HR,PPB,8,8,39.117500,-94.635600,Kansas Dept. of Health and Environment
+03/04/26,210130002,MIDAIR,OZONE-8HR,PPB,42,8,36.608100,-83.736900,Kentucky DEP
+03/04/26,210190017,FIVCO,OZONE-8HR,PPB,21,8,38.459200,-82.633900,Kentucky DEP
+03/04/26,210290006,SHEPVILL,OZONE-8HR,PPB,37,8,37.985600,-85.713100,Kentucky DEP
+03/04/26,210373002,NKU,OZONE-8HR,PPB,19,8,39.021700,-84.474400,Kentucky DEP
+03/04/26,210430500,GRAYSON,OZONE-8HR,PPB,30,8,38.238300,-82.988300,Kentucky DEP
+03/04/26,210610501,Mammoth Cave NP,OZONE-8HR,PPB,42,8,37.131400,-86.148100,National Park Service
+03/04/26,210670012,NEWTWN,OZONE-8HR,PPB,32,8,38.065000,-84.500000,Kentucky DEP
+03/04/26,210890007,WORTH2002,OZONE-8HR,PPB,16,8,38.548300,-82.731700,Kentucky DEP
+03/04/26,210910012,LEWISPOR,OZONE-8HR,PPB,30,8,37.938900,-86.896900,Kentucky DEP
+03/04/26,211110067,Cannons Lane,OZONE-8HR,PPB,23,8,38.228600,-85.654400,Louisville Metro Air Pollution Control District
+03/04/26,211110080,Carrithers Middle School,OZONE-8HR,PPB,34,8,38.182500,-85.574400,Louisville Metro Air Pollution Control District
+03/04/26,211111041,Algonquin Parkway,OZONE-8HR,PPB,10,8,38.231580,-85.826750,Louisville Metro Air Pollution Control District
+03/04/26,211130001,NICHVILL,OZONE-8HR,PPB,32,8,37.893300,-84.589200,Kentucky DEP
+03/04/26,211390003,SMITHLD,OZONE-8HR,PPB,33,8,37.155600,-88.393100,Kentucky DEP
+03/04/26,211759991,Crockett,OZONE-8HR,PPB,39,8,37.921400,-83.066200,EPA Office of Atmospheric Protection
+03/04/26,211850004,BUCKNER,OZONE-8HR,PPB,27,8,38.398600,-85.443300,Kentucky DEP
+03/04/26,211930003,HAZ2,OZONE-8HR,PPB,37,8,37.283100,-83.220300,Kentucky DEP
+03/04/26,211950002,PIKE2001,OZONE-8HR,PPB,33,8,37.482800,-82.535300,Kentucky DEP
+03/04/26,211990003,SOMERST,OZONE-8HR,PPB,39,8,37.097801,-84.611702,Kentucky DEP
+03/04/26,212130004,FRANKLN,OZONE-8HR,PPB,39,8,36.708600,-86.566400,Kentucky DEP
+03/04/26,212270009,Smiths Grove,OZONE-8HR,PPB,38,8,37.049260,-86.214870,Kentucky DEP
+03/04/26,212299991,Mackville,OZONE-8HR,PPB,44,8,37.704600,-85.048500,EPA Office of Atmospheric Protection
+03/04/26,220050004,Dutchtown,OZONE-8HR,PPB,26,8,30.229400,-90.965600,Louisiana Department of Environmental Quality
+03/04/26,220150008,Shreveport Airport,OZONE-8HR,PPB,27,8,32.536400,-93.749200,Louisiana Department of Environmental Quality
+03/04/26,220170001,Dixie,OZONE-8HR,PPB,28,8,32.683300,-93.861700,Louisiana Department of Environmental Quality
+03/04/26,220190002,Carlyss,OZONE-8HR,PPB,28,8,30.143300,-93.371900,Louisiana Department of Environmental Quality
+03/04/26,220190009,Vinton,OZONE-8HR,PPB,28,8,30.227800,-93.579700,Louisiana Department of Environmental Quality
+03/04/26,220330003,LSU,OZONE-8HR,PPB,26,8,30.419700,-91.181900,Louisiana Department of Environmental Quality
+03/04/26,220330009,Capitol,OZONE-8HR,PPB,22,8,30.462200,-91.176900,Louisiana Department of Environmental Quality
+03/04/26,220330013,Pride,OZONE-8HR,PPB,30,8,30.700800,-91.056100,Louisiana Department of Environmental Quality
+03/04/26,220470009,Bayou Plaquemine,OZONE-8HR,PPB,29,8,30.221100,-91.315300,Louisiana Department of Environmental Quality
+03/04/26,220470012,Carville,OZONE-8HR,PPB,27,8,30.197500,-91.128300,Louisiana Department of Environmental Quality
+03/04/26,220511001,Kenner,OZONE-8HR,PPB,37,8,30.041100,-90.272800,Louisiana Department of Environmental Quality
+03/04/26,220550007,Lafayette,OZONE-8HR,PPB,29,8,30.225800,-92.042801,Louisiana Department of Environmental Quality
+03/04/26,220570004,Thibodaux,OZONE-8HR,PPB,26,8,29.763900,-90.765300,Louisiana Department of Environmental Quality
+03/04/26,220630002,French Settlement,OZONE-8HR,PPB,30,8,30.315000,-90.811400,Louisiana Department of Environmental Quality
+03/04/26,220730004,Monroe,OZONE-8HR,PPB,33,8,32.509701,-92.046097,Louisiana Department of Environmental Quality
+03/04/26,220770001,New Roads,OZONE-8HR,PPB,27,8,30.681700,-91.366100,Louisiana Department of Environmental Quality
+03/04/26,220950002,Garyville,OZONE-8HR,PPB,30,8,30.049400,-90.636700,Louisiana Department of Environmental Quality
+03/04/26,220990001,St. Martinville,OZONE-8HR,PPB,28,8,30.008887,-91.869595,Louisiana Department of Environmental Quality
+03/04/26,221030002,Madisonville,OZONE-8HR,PPB,39,8,30.429300,-90.199700,Louisiana Department of Environmental Quality
+03/04/26,221210001,Port Allen,OZONE-8HR,PPB,23,8,30.501900,-91.211100,Louisiana Department of Environmental Quality
+03/04/26,240051007,Padonia,OZONE-8HR,PPB,9,8,39.462002,-76.631599,Maryland Department of the Environment
+03/04/26,240053001,Essex,OZONE-8HR,PPB,9,8,39.310833,-76.474444,Maryland Department of the Environment
+03/04/26,240090011,Calvert,OZONE-8HR,PPB,20,8,38.536722,-76.617194,Maryland Department of the Environment
+03/04/26,240130001,South Carroll,OZONE-8HR,PPB,10,8,39.444199,-77.041702,Maryland Department of the Environment
+03/04/26,240150003,Fair Hill,OZONE-8HR,PPB,11,8,39.701099,-75.860001,Maryland Department of the Environment
+03/04/26,240170010,Southern Maryland,OZONE-8HR,PPB,21,8,38.504200,-76.811897,Maryland Department of the Environment
+03/04/26,240190004,Horn Point,OZONE-8HR,PPB,16,8,38.587600,-76.140800,Maryland Department of the Environment
+03/04/26,240199991,Blackwater NWR,OZONE-8HR,PPB,19,8,38.445000,-76.111400,EPA Office of Atmospheric Protection
+03/04/26,240210037,Frederick Airport,OZONE-8HR,PPB,8,8,39.422760,-77.375190,Maryland Department of the Environment
+03/04/26,240230002,Piney Run,OZONE-8HR,PPB,36,8,39.705799,-79.011902,Maryland Department of the Environment
+03/04/26,240251001,Edgewood,OZONE-8HR,PPB,6,8,39.410000,-76.296700,Maryland Department of the Environment
+03/04/26,240259001,Aldino,OZONE-8HR,PPB,9,8,39.563301,-76.203903,Maryland Department of the Environment
+03/04/26,240290002,Millington,OZONE-8HR,PPB,14,8,39.305199,-75.797203,Maryland Department of the Environment
+03/04/26,240313001,Rockville,OZONE-8HR,PPB,9,8,39.114399,-77.106903,Maryland Department of the Environment
+03/04/26,240330030,HU-Beltsville,OZONE-8HR,PPB,3,8,39.055302,-76.878304,Maryland Department of the Environment
+03/04/26,240338003,PG Equestrian Center,OZONE-8HR,PPB,12,8,38.812069,-76.744186,Maryland Department of the Environment
+03/04/26,240339991,Beltsville,OZONE-8HR,PPB,7,8,39.028400,-76.817200,EPA Office of Atmospheric Protection
+03/04/26,240430009,Hagerstown,OZONE-8HR,PPB,2,8,39.565601,-77.721901,Maryland Department of the Environment
+03/04/26,260050003,Holland,OZONE-8HR,PPB,43,8,42.767799,-86.148598,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,260210014,Coloma,OZONE-8HR,PPB,33,8,42.197800,-86.309700,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,260650018,Lansing,OZONE-8HR,PPB,34,8,42.761380,-84.562867,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,260810020,Grand Rapids,OZONE-8HR,PPB,40,8,42.984699,-85.671097,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,260990009,New Haven,OZONE-8HR,PPB,25,8,42.731400,-82.793600,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,260991003,Warren,OZONE-8HR,PPB,24,8,42.546700,-83.006100,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261130001,Houghton Lake,OZONE-8HR,PPB,47,8,44.310600,-84.891899,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261210039,Muskegon,OZONE-8HR,PPB,44,8,43.278100,-86.311100,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261250001,Oak Park,OZONE-8HR,PPB,23,8,42.463100,-83.183296,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261470005,Port Huron,OZONE-8HR,PPB,26,8,42.953300,-82.456400,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261579991,Unionville,OZONE-8HR,PPB,45,8,43.610000,-83.360000,EPA Office of Atmospheric Protection
+03/04/26,261610008,Ypsilanti,OZONE-8HR,PPB,24,8,42.240000,-83.599700,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261619991,Ann Arbor,OZONE-8HR,PPB,26,8,42.416400,-83.901900,EPA Office of Atmospheric Protection
+03/04/26,261630001,Allen Park,OZONE-8HR,PPB,26,8,42.228300,-83.209200,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261630019,Detroit-E7 Mile,OZONE-8HR,PPB,25,8,42.430801,-83.000801,"Michigan Department of Environment, Great Lakes, and Energy"
+03/04/26,261659991,Hoxeyville,OZONE-8HR,PPB,48,8,44.180901,-85.738998,EPA Office of Atmospheric Protection
+03/04/26,270031001,East Bethel,OZONE-8HR,PPB,32,8,45.400799,-93.201103,Minnesota Pollution Control Agency
+03/04/26,270031002,Blaine,OZONE-8HR,PPB,35,8,45.142500,-93.213900,Minnesota Pollution Control Agency
+03/04/26,270052013,Detroit Lakes,OZONE-8HR,PPB,32,8,46.851100,-95.846700,Minnesota Pollution Control Agency
+03/04/26,270177417,Fond du Lac,OZONE-8HR,PPB,40,8,46.713694,-92.511722,Minnesota Pollution Control Agency
+03/04/26,270353204,Brainerd,OZONE-8HR,PPB,34,8,46.394400,-94.143300,Minnesota Pollution Control Agency
+03/04/26,270495302,Stanton,OZONE-8HR,PPB,40,8,44.471901,-93.013298,Minnesota Pollution Control Agency
+03/04/26,270530962,Minneapolis - Near Road,OZONE-8HR,PPB,40,8,44.965300,-93.255100,Minnesota Pollution Control Agency
+03/04/26,270750005,Ely,OZONE-8HR,PPB,34,8,47.946400,-91.495300,Minnesota Pollution Control Agency
+03/04/26,270834210,Marshall,OZONE-8HR,PPB,35,8,44.457200,-95.835000,Minnesota Pollution Control Agency
+03/04/26,270953051,Mille Lacs,OZONE-8HR,PPB,34,8,46.205600,-93.758900,Minnesota Pollution Control Agency
+03/04/26,271095008,Rochester,OZONE-8HR,PPB,44,8,43.994700,-92.449700,Minnesota Pollution Control Agency
+03/04/26,271370034,Voyageurs NP,OZONE-8HR,PPB,32,8,48.412800,-92.829200,National Park Service
+03/04/26,271377550,Duluth-WDSE,OZONE-8HR,PPB,35,8,46.818300,-92.089200,Minnesota Pollution Control Agency
+03/04/26,271390505,Shakopee,OZONE-8HR,PPB,43,8,44.789398,-93.512497,Minnesota Pollution Control Agency
+03/04/26,271453052,St. Cloud,OZONE-8HR,PPB,30,8,45.550000,-94.133300,Minnesota Pollution Control Agency
+03/04/26,271636016,Marine on St. Croix,OZONE-8HR,PPB,36,8,45.168000,-92.765100,Minnesota Pollution Control Agency
+03/04/26,271713201,St. Michael,OZONE-8HR,PPB,43,8,45.210800,-93.668600,Minnesota Pollution Control Agency
+03/04/26,280110002,CLEVELAND,OZONE-8HR,PPB,33,8,33.750833,-90.734167,Mississippi DEQ
+03/04/26,280330002,HERNANDO,OZONE-8HR,PPB,32,8,34.820633,-89.987782,Mississippi DEQ
+03/04/26,280450003,WAVELAND,OZONE-8HR,PPB,37,8,30.300917,-89.395954,Mississippi DEQ
+03/04/26,280470008,GPORT YC,OZONE-8HR,PPB,36,8,30.390123,-89.049746,Mississippi DEQ
+03/04/26,280490020,Jackson NCORE,OZONE-8HR,PPB,34,8,32.329042,-90.182659,Mississippi DEQ
+03/04/26,280490021,Hinds CC,OZONE-8HR,PPB,33,8,32.346734,-90.225762,Mississippi DEQ
+03/04/26,280590006,PASCAGOULA,OZONE-8HR,PPB,33,8,30.378054,-88.533876,Mississippi DEQ
+03/04/26,280810005,TUPELOAP,OZONE-8HR,PPB,36,8,34.264849,-88.766842,Mississippi DEQ
+03/04/26,281619991,Coffeeville,OZONE-8HR,PPB,34,8,34.002600,-89.799000,EPA Office of Atmospheric Protection
+03/04/26,290030001,Savannah,OZONE-8HR,PPB,15,8,39.954400,-94.849000,Missouri Department of Natural Resources
+03/04/26,290190011,Finger Lakes SP,OZONE-8HR,PPB,7,8,39.078030,-92.316322,Missouri Department of Natural Resources
+03/04/26,290270002,New Bloomfield,OZONE-8HR,PPB,8,8,38.706080,-92.093080,Missouri Department of Natural Resources
+03/04/26,290370003,RG_South,OZONE-8HR,PPB,8,8,38.759610,-94.579830,Missouri Department of Natural Resources
+03/04/26,290390001,El Do Springs,OZONE-8HR,PPB,7,8,37.700970,-94.034740,Missouri Department of Natural Resources
+03/04/26,290470003,Watkins Mill State Park,OZONE-8HR,PPB,10,8,39.407419,-94.265142,Missouri Department of Natural Resources
+03/04/26,290470005,Liberty,OZONE-8HR,PPB,11,8,39.303056,-94.376389,Missouri Department of Natural Resources
+03/04/26,290470006,Rocky Creek,OZONE-8HR,PPB,11,8,39.331880,-94.580600,Missouri Department of Natural Resources
+03/04/26,290490001,Trimble,OZONE-8HR,PPB,13,8,39.530600,-94.556000,Missouri Department of Natural Resources
+03/04/26,290770036,Hillcrest HS,OZONE-8HR,PPB,11,8,37.256069,-93.299692,Missouri Department of Natural Resources
+03/04/26,290970004,Alba,OZONE-8HR,PPB,10,8,37.238500,-94.424680,Missouri Department of Natural Resources
+03/04/26,291130004,Foley West,OZONE-8HR,PPB,8,8,39.045857,-90.849189,Missouri Department of Natural Resources
+03/04/26,291570001,Farrar,OZONE-8HR,PPB,35,8,37.702640,-89.698640,Missouri Department of Natural Resources
+03/04/26,291831002,West Alton,OZONE-8HR,PPB,5,8,38.872500,-90.226389,Missouri Department of Natural Resources
+03/04/26,291831004,Orchard Farm,OZONE-8HR,PPB,7,8,38.899400,-90.449170,Missouri Department of Natural Resources
+03/04/26,291890005,Pacific,OZONE-8HR,PPB,4,8,38.490200,-90.705200,Missouri Department of Natural Resources
+03/04/26,291890014,Maryland Heights,OZONE-8HR,PPB,2,8,38.710900,-90.475900,Missouri Department of Natural Resources
+03/04/26,295100085,Blair Street,OZONE-8HR,PPB,2,8,38.656449,-90.198548,Missouri Department of Natural Resources
+03/04/26,310550019,NCORE,OZONE-8HR,PPB,17,8,41.247400,-95.973100,Douglas County Health Department (Omaha)
+03/04/26,311090016,Davey,OZONE-8HR,PPB,18,8,40.984969,-96.671425,Lincoln-Lancaster County Health Department
+03/04/26,350010023,Del Norte,OZONE-8HR,PPB,53,8,35.135300,-106.584702,Albuquerque Environmental Health Department
+03/04/26,350010029,South Valley,OZONE-8HR,PPB,40,8,35.018600,-106.651901,Albuquerque Environmental Health Department
+03/04/26,350011012,Tramway,OZONE-8HR,PPB,54,8,35.185000,-106.507700,Albuquerque Environmental Health Department
+03/04/26,350130008,La Union,OZONE-8HR,PPB,43,8,31.930600,-106.630600,New Mexico Air Quality Bureau
+03/04/26,350130020,Chaparral,OZONE-8HR,PPB,44,8,32.041100,-106.409200,New Mexico Air Quality Bureau
+03/04/26,350130021,Desert View,OZONE-8HR,PPB,42,8,31.796100,-106.583900,New Mexico Air Quality Bureau
+03/04/26,350130022,Santa Teresa,OZONE-8HR,PPB,41,8,31.787800,-106.682800,New Mexico Air Quality Bureau
+03/04/26,350130023,Solano Drive,OZONE-8HR,PPB,46,8,32.316900,-106.766900,New Mexico Air Quality Bureau
+03/04/26,350151005,Carlsbad,OZONE-8HR,PPB,48,8,32.380000,-104.262200,New Mexico Air Quality Bureau
+03/04/26,350250008,Hobbs Jefferson,OZONE-8HR,PPB,41,8,32.726700,-103.123300,New Mexico Air Quality Bureau
+03/04/26,350390026,Coyote Ranger District,OZONE-8HR,PPB,54,8,36.187733,-106.698378,New Mexico Air Quality Bureau
+03/04/26,350431001,Bernalillo,OZONE-8HR,PPB,51,8,35.299400,-106.548300,New Mexico Air Quality Bureau
+03/04/26,350450009,Bloomfield,OZONE-8HR,PPB,48,8,36.742200,-107.976900,New Mexico Air Quality Bureau
+03/04/26,350450018,Navajo Lake,OZONE-8HR,PPB,52,8,36.809700,-107.651700,New Mexico Air Quality Bureau
+03/04/26,350450020,Chaco Culture National Historical Park,OZONE-8HR,PPB,54,8,36.035000,-107.904167,National Park Service
+03/04/26,350451005,Substation,OZONE-8HR,PPB,51,8,36.796900,-108.472500,New Mexico Air Quality Bureau
+03/04/26,350490021,Santa Fe Airport,OZONE-8HR,PPB,50,8,35.619800,-106.079700,New Mexico Air Quality Bureau
+03/04/26,370030005,Taylorsville Liledoun,OZONE-8HR,PPB,45,8,35.913800,-81.191000,North Carolina DEQ - Division of Air Quality
+03/04/26,370110002,Linville Falls,OZONE-8HR,PPB,44,8,35.972347,-81.933072,North Carolina DEQ - Division of Air Quality
+03/04/26,370210030,BNTCR,OZONE-8HR,PPB,44,8,35.500000,-82.600000,North Carolina DEQ - Division of Air Quality
+03/04/26,370270003,LENOIR,OZONE-8HR,PPB,43,8,35.935900,-81.530600,North Carolina DEQ - Division of Air Quality
+03/04/26,370319991,Beaufort,OZONE-8HR,PPB,39,8,34.884800,-76.620300,EPA Office of Atmospheric Protection
+03/04/26,370330001,CHERRYGR,OZONE-8HR,PPB,49,8,36.307033,-79.467417,North Carolina DEQ - Division of Air Quality
+03/04/26,370510010,Honeycutt,OZONE-8HR,PPB,42,8,35.002197,-78.991941,North Carolina DEQ - Division of Air Quality
+03/04/26,370630015,Durham Armory,OZONE-8HR,PPB,40,8,36.032955,-78.904037,North Carolina DEQ - Division of Air Quality
+03/04/26,370630099,Burdens Creek,OZONE-8HR,PPB,43,8,35.889402,-78.874700,EPA Office of State Air Partnerships
+03/04/26,370650099,LEGGETT,OZONE-8HR,PPB,43,8,35.988278,-77.584300,North Carolina DEQ - Division of Air Quality
+03/04/26,370670022,Hattie Avenue,OZONE-8HR,PPB,41,8,36.110927,-80.224435,Forsyth County Office of Environmental Assistance and Protection
+03/04/26,370670030,Clemmons Middle,OZONE-8HR,PPB,47,8,36.025979,-80.342254,Forsyth County Office of Environmental Assistance and Protection
+03/04/26,370671008,Union Cross,OZONE-8HR,PPB,48,8,36.050811,-80.143867,Forsyth County Office of Environmental Assistance and Protection
+03/04/26,370750001,JOANBOLD,OZONE-8HR,PPB,42,8,35.257800,-83.795500,North Carolina DEQ - Division of Air Quality
+03/04/26,370770001,BUTNER,OZONE-8HR,PPB,41,8,36.141111,-78.768056,North Carolina DEQ - Division of Air Quality
+03/04/26,370810013,MENDNHAL,OZONE-8HR,PPB,46,8,36.109006,-79.802314,North Carolina DEQ - Division of Air Quality
+03/04/26,370870008,WNVLELSC,OZONE-8HR,PPB,44,8,35.507224,-82.963625,North Carolina DEQ - Division of Air Quality
+03/04/26,370870035,FRYPAN,OZONE-8HR,PPB,49,8,35.379167,-82.792500,North Carolina DEQ - Division of Air Quality
+03/04/26,370870036,PURCHASE,OZONE-8HR,PPB,43,8,35.587144,-83.074156,North Carolina DEQ - Division of Air Quality
+03/04/26,371010002,JOHNSTON,OZONE-8HR,PPB,40,8,35.590950,-78.462200,North Carolina DEQ - Division of Air Quality
+03/04/26,371070004,LENOIRCOLL,OZONE-8HR,PPB,41,8,35.231459,-77.568792,North Carolina DEQ - Division of Air Quality
+03/04/26,371090004,CROUSE,OZONE-8HR,PPB,44,8,35.438556,-81.276750,North Carolina DEQ - Division of Air Quality
+03/04/26,371139991,Coweeta,OZONE-8HR,PPB,39,8,35.060800,-83.430600,EPA Office of Atmospheric Protection
+03/04/26,371170001,JAMESVIL,OZONE-8HR,PPB,42,8,35.810660,-76.906249,North Carolina DEQ - Division of Air Quality
+03/04/26,371190041,Garinger,OZONE-8HR,PPB,42,8,35.241100,-80.783100,Mecklenburg County Air Quality
+03/04/26,371190046,University Meadows,OZONE-8HR,PPB,43,8,35.314158,-80.713469,Mecklenburg County Air Quality
+03/04/26,371239991,Candor,OZONE-8HR,PPB,41,8,35.260000,-79.840000,EPA Office of Atmospheric Protection
+03/04/26,371290002,CASTLE H,OZONE-8HR,PPB,41,8,34.364167,-77.838611,North Carolina DEQ - Division of Air Quality
+03/04/26,371450003,BUSHYFRK,OZONE-8HR,PPB,44,8,36.306965,-79.091970,North Carolina DEQ - Division of Air Quality
+03/04/26,371470006,PITTAGCT,OZONE-8HR,PPB,42,8,35.641276,-77.360126,North Carolina DEQ - Division of Air Quality
+03/04/26,371570099,BETHANY,OZONE-8HR,PPB,44,8,36.308889,-79.859167,North Carolina DEQ - Division of Air Quality
+03/04/26,371590021,ROCKWELL,OZONE-8HR,PPB,47,8,35.551868,-80.395039,North Carolina DEQ - Division of Air Quality
+03/04/26,371730002,BRYSON,OZONE-8HR,PPB,39,8,35.434767,-83.442133,North Carolina DEQ - Division of Air Quality
+03/04/26,371830014,Millbrook NCore,OZONE-8HR,PPB,41,8,35.856111,-78.574167,North Carolina DEQ - Division of Air Quality
+03/04/26,390030009,Lima,OZONE-8HR,PPB,16,8,40.771000,-84.053900,Ohio EPA-DAPC
+03/04/26,390071001,Conneaut,OZONE-8HR,PPB,28,8,41.959695,-80.572808,Ohio EPA-DAPC
+03/04/26,390170018,Middletown Airport,OZONE-8HR,PPB,16,8,39.529481,-84.393364,Ohio EPA-DAPC
+03/04/26,390170023,Crawford Woods,OZONE-8HR,PPB,16,8,39.384671,-84.540537,Ohio EPA-DAPC
+03/04/26,390179991,Oxford,OZONE-8HR,PPB,23,8,39.532700,-84.728600,EPA Office of Atmospheric Protection
+03/04/26,390230001,Springfield Well Fd,OZONE-8HR,PPB,23,8,40.001030,-83.804560,Ohio EPA-DAPC
+03/04/26,390230003,Mud Run,OZONE-8HR,PPB,22,8,39.855670,-83.997730,Ohio EPA-DAPC
+03/04/26,390271002,Wilmington,OZONE-8HR,PPB,19,8,39.430038,-83.788502,Ohio EPA-DAPC
+03/04/26,390350034,District 6,OZONE-8HR,PPB,21,8,41.555230,-81.575256,Ohio EPA-DAPC
+03/04/26,390350060,GT Craig NCore PAMS,OZONE-8HR,PPB,18,8,41.492191,-81.678552,Ohio EPA-DAPC
+03/04/26,390350064,Berea BOE,OZONE-8HR,PPB,19,8,41.361890,-81.864608,Ohio EPA-DAPC
+03/04/26,390410002,Delaware,OZONE-8HR,PPB,14,8,40.356694,-83.063971,Ohio EPA-DAPC
+03/04/26,390490029,New Albany,OZONE-8HR,PPB,24,8,40.084500,-82.815520,Ohio EPA-DAPC
+03/04/26,390490081,Maple Canyon,OZONE-8HR,PPB,17,8,40.087807,-82.959585,Ohio EPA-DAPC
+03/04/26,390550004,Notre Dame,OZONE-8HR,PPB,30,8,41.515051,-81.249906,Ohio EPA-DAPC
+03/04/26,390570006,Xenia,OZONE-8HR,PPB,26,8,39.665750,-83.942850,Ohio EPA-DAPC
+03/04/26,390610006,Sycamore,OZONE-8HR,PPB,19,8,39.278700,-84.366120,Ohio EPA-DAPC
+03/04/26,390610010,Colerain,OZONE-8HR,PPB,10,8,39.214940,-84.690860,Ohio EPA-DAPC
+03/04/26,390610040,Taft NCore PAMS,OZONE-8HR,PPB,15,8,39.128860,-84.504040,Ohio EPA-DAPC
+03/04/26,390810017,Steubenville,OZONE-8HR,PPB,7,8,40.366452,-80.615691,Ohio EPA-DAPC
+03/04/26,390830003,Centerburg WWTP,OZONE-8HR,PPB,19,8,40.278860,-82.679560,Ohio EPA-DAPC
+03/04/26,390850003,Eastlake,OZONE-8HR,PPB,28,8,41.673006,-81.422455,Ohio EPA-DAPC
+03/04/26,390850007,Painesville,OZONE-8HR,PPB,25,8,41.726811,-81.242156,Ohio EPA-DAPC
+03/04/26,390870011,Wilgus,OZONE-8HR,PPB,19,8,38.629010,-82.458860,Ohio EPA-DAPC
+03/04/26,390870012,ODOT Ironton,OZONE-8HR,PPB,19,8,38.508114,-82.659301,Ohio EPA-DAPC
+03/04/26,390890005,Heath,OZONE-8HR,PPB,14,8,40.026037,-82.433000,Ohio EPA-DAPC
+03/04/26,390890008,Reynoldsburg,OZONE-8HR,PPB,23,8,39.954475,-82.758875,Ohio EPA-DAPC
+03/04/26,390930018,Sheffield,OZONE-8HR,PPB,21,8,41.420882,-82.095729,Ohio EPA-DAPC
+03/04/26,390950024,Erie,OZONE-8HR,PPB,28,8,41.644067,-83.546250,Ohio EPA-DAPC
+03/04/26,390950027,Waterville,OZONE-8HR,PPB,26,8,41.494174,-83.718944,Ohio EPA-DAPC
+03/04/26,390950035,Cooley,OZONE-8HR,PPB,33,8,41.669001,-83.287170,Ohio EPA-DAPC
+03/04/26,390970007,London,OZONE-8HR,PPB,23,8,39.788190,-83.476060,Ohio EPA-DAPC
+03/04/26,391030004,Chippewa,OZONE-8HR,PPB,21,8,41.060400,-81.923900,Ohio EPA-DAPC
+03/04/26,391090005,Miami East HS,OZONE-8HR,PPB,21,8,40.084550,-84.114120,Ohio EPA-DAPC
+03/04/26,391130037,Eastwood,OZONE-8HR,PPB,24,8,39.785630,-84.134370,Ohio EPA-DAPC
+03/04/26,391219991,Quaker City,OZONE-8HR,PPB,25,8,39.942800,-81.337300,EPA Office of Atmospheric Protection
+03/04/26,391331001,Lake Rockwell,OZONE-8HR,PPB,26,8,41.182466,-81.330486,Ohio EPA-DAPC
+03/04/26,391351001,Preble NCore,OZONE-8HR,PPB,20,8,39.835620,-84.720490,Ohio EPA-DAPC
+03/04/26,391510016,Malone Univ,OZONE-8HR,PPB,14,8,40.828052,-81.378333,Ohio EPA-DAPC
+03/04/26,391510022,Brewster,OZONE-8HR,PPB,18,8,40.712778,-81.598333,Ohio EPA-DAPC
+03/04/26,391514005,Alliance,OZONE-8HR,PPB,15,8,40.931398,-81.123519,Ohio EPA-DAPC
+03/04/26,391550011,TCSE,OZONE-8HR,PPB,24,8,41.240537,-80.662759,Ohio EPA-DAPC
+03/04/26,391550013,Kinsman Maintenance,OZONE-8HR,PPB,30,8,41.454650,-80.588410,Ohio EPA-DAPC
+03/04/26,391650007,Lebanon,OZONE-8HR,PPB,24,8,39.426890,-84.200770,Ohio EPA-DAPC
+03/04/26,391670004,Marietta WTP,OZONE-8HR,PPB,28,8,39.432093,-81.460402,Ohio EPA-DAPC
+03/04/26,391730003,Bowling Green,OZONE-8HR,PPB,23,8,41.377685,-83.611104,Ohio EPA-DAPC
+03/04/26,400019009,STILWELL CASTNET & NCORE,OZONE-8HR,PPB,16,8,35.750599,-94.669701,Cherokee Nation
+03/04/26,400170101,Yukon,OZONE-8HR,PPB,8,8,35.479400,-97.750800,Oklahoma Department of Environmental Quality
+03/04/26,400270049,Moore,OZONE-8HR,PPB,7,8,35.320000,-97.488300,Oklahoma Department of Environmental Quality
+03/04/26,400310651,Lawton North,OZONE-8HR,PPB,8,8,34.632999,-98.428802,Oklahoma Department of Environmental Quality
+03/04/26,400370144,Mannford,OZONE-8HR,PPB,8,8,36.105300,-96.360800,Oklahoma Department of Environmental Quality
+03/04/26,400430860,Seiling,OZONE-8HR,PPB,14,8,36.158900,-98.935300,Oklahoma Department of Environmental Quality
+03/04/26,400850300,Burneyville,OZONE-8HR,PPB,19,8,33.882500,-97.275803,Oklahoma Department of Environmental Quality
+03/04/26,400979014,PRYOR,OZONE-8HR,PPB,8,8,36.228298,-95.250000,Cherokee Nation
+03/04/26,401090096,Choctaw,OZONE-8HR,PPB,8,8,35.477800,-97.302200,Oklahoma Department of Environmental Quality
+03/04/26,401130226,Skiatook,OZONE-8HR,PPB,12,8,36.355860,-96.012430,Oklahoma Department of Environmental Quality
+03/04/26,401210415,McAlester,OZONE-8HR,PPB,18,8,34.906082,-95.794128,Oklahoma Department of Environmental Quality
+03/04/26,401359021,ROLAND,OZONE-8HR,PPB,14,8,35.408138,-94.524414,Cherokee Nation
+03/04/26,401430178,Lynn Lane,OZONE-8HR,PPB,10,8,36.133600,-95.763600,Oklahoma Department of Environmental Quality
+03/04/26,401431127,Tulsa,OZONE-8HR,PPB,11,8,36.206699,-95.976402,Oklahoma Department of Environmental Quality
+03/04/26,420010001,Arendtsville,OZONE-8HR,PPB,13,8,39.923300,-77.308100,Pennsylvania Dept. of Environmental Protection
+03/04/26,420019991,Arendtsville,OZONE-8HR,PPB,14,8,39.923100,-77.307800,EPA Office of Atmospheric Protection
+03/04/26,420030008,Lawrenceville,OZONE-8HR,PPB,6,8,40.465600,-79.961100,Allegheny County
+03/04/26,420030067,South Fayette,OZONE-8HR,PPB,19,8,40.381901,-80.185600,Allegheny County
+03/04/26,420031008,Harrison Township,OZONE-8HR,PPB,11,8,40.613864,-79.729569,Allegheny County
+03/04/26,420050001,Kittanning,OZONE-8HR,PPB,12,8,40.814200,-79.565000,Pennsylvania Dept. of Environmental Protection
+03/04/26,420070005,Brighton Township,OZONE-8HR,PPB,9,8,40.684700,-80.359700,Pennsylvania Dept. of Environmental Protection
+03/04/26,420070014,Beaver Falls,OZONE-8HR,PPB,7,8,40.747799,-80.316704,Pennsylvania Dept. of Environmental Protection
+03/04/26,420110006,Kutztown,OZONE-8HR,PPB,19,8,40.514080,-75.789703,Pennsylvania Dept. of Environmental Protection
+03/04/26,420110011,Reading Airport,OZONE-8HR,PPB,17,8,40.383300,-75.968600,Pennsylvania Dept. of Environmental Protection
+03/04/26,420130801,Altoona,OZONE-8HR,PPB,10,8,40.515000,-78.388900,Pennsylvania Dept. of Environmental Protection
+03/04/26,420150011,Towanda,OZONE-8HR,PPB,25,8,41.705226,-76.512726,Pennsylvania Dept. of Environmental Protection
+03/04/26,420170012,Bristol,OZONE-8HR,PPB,10,8,40.107201,-74.882202,Pennsylvania Dept. of Environmental Protection
+03/04/26,420210011,Johnstown,OZONE-8HR,PPB,5,8,40.309700,-78.915800,Pennsylvania Dept. of Environmental Protection
+03/04/26,420270100,State College,OZONE-8HR,PPB,18,8,40.811400,-77.876900,Pennsylvania Dept. of Environmental Protection
+03/04/26,420279991,Penn State,OZONE-8HR,PPB,12,8,40.720800,-77.931900,EPA Office of Atmospheric Protection
+03/04/26,420290100,New Garden,OZONE-8HR,PPB,11,8,39.834400,-75.767800,Pennsylvania Dept. of Environmental Protection
+03/04/26,420430401,Harrisburg,OZONE-8HR,PPB,4,8,40.246992,-76.846988,Pennsylvania Dept. of Environmental Protection
+03/04/26,420450002,Chester,OZONE-8HR,PPB,3,8,39.835600,-75.372500,Pennsylvania Dept. of Environmental Protection
+03/04/26,420479991,Kane Exp. Forest,OZONE-8HR,PPB,34,8,41.598000,-78.767400,EPA Office of Atmospheric Protection
+03/04/26,420490003,Erie,OZONE-8HR,PPB,27,8,42.142800,-80.037200,Pennsylvania Dept. of Environmental Protection
+03/04/26,420550001,Methodist Hill,OZONE-8HR,PPB,23,8,39.961100,-77.475600,Pennsylvania Dept. of Environmental Protection
+03/04/26,420590002,Holbrook,OZONE-8HR,PPB,31,8,39.820000,-80.289700,Pennsylvania Dept. of Environmental Protection
+03/04/26,420630004,Strongstown,OZONE-8HR,PPB,18,8,40.563300,-78.920000,Pennsylvania Dept. of Environmental Protection
+03/04/26,420692006,Scranton,OZONE-8HR,PPB,29,8,41.442800,-75.623100,Pennsylvania Dept. of Environmental Protection
+03/04/26,420710007,Lancaster,OZONE-8HR,PPB,6,8,40.046700,-76.283300,Pennsylvania Dept. of Environmental Protection
+03/04/26,420710012,Lancaster DW,OZONE-8HR,PPB,7,8,40.043900,-76.112500,Pennsylvania Dept. of Environmental Protection
+03/04/26,420770004,Allentown,OZONE-8HR,PPB,14,8,40.611900,-75.432500,Pennsylvania Dept. of Environmental Protection
+03/04/26,420810100,Montoursville,OZONE-8HR,PPB,27,8,41.250800,-76.923900,Pennsylvania Dept. of Environmental Protection
+03/04/26,420850100,Farrell,OZONE-8HR,PPB,23,8,41.215000,-80.485000,Pennsylvania Dept. of Environmental Protection
+03/04/26,420859991,M.K. Goddard,OZONE-8HR,PPB,30,8,41.427100,-80.145100,EPA Office of Atmospheric Protection
+03/04/26,420890002,Swiftwater,OZONE-8HR,PPB,29,8,41.083099,-75.328300,Pennsylvania Dept. of Environmental Protection
+03/04/26,420910013,Norristown,OZONE-8HR,PPB,11,8,40.112200,-75.309200,Pennsylvania Dept. of Environmental Protection
+03/04/26,420950025,Freemansburg,OZONE-8HR,PPB,18,8,40.628100,-75.341100,Pennsylvania Dept. of Environmental Protection
+03/04/26,421010024,NEA,OZONE-8HR,PPB,12,8,40.076700,-75.010800,Philadelphia Air Management Services
+03/04/26,421119991,Laurel Hill,OZONE-8HR,PPB,29,8,39.987800,-79.251400,EPA Office of Atmospheric Protection
+03/04/26,421250005,Charleroi,OZONE-8HR,PPB,9,8,40.146900,-79.903300,Pennsylvania Dept. of Environmental Protection
+03/04/26,421255001,Florence,OZONE-8HR,PPB,11,8,40.444700,-80.420000,Pennsylvania Dept. of Environmental Protection
+03/04/26,421255200,Houston,OZONE-8HR,PPB,10,8,40.269000,-80.244000,Pennsylvania Dept. of Environmental Protection
+03/04/26,421290008,Greensburg,OZONE-8HR,PPB,13,8,40.305300,-79.506100,Pennsylvania Dept. of Environmental Protection
+03/04/26,421330008,York,OZONE-8HR,PPB,4,8,39.965300,-76.699400,Pennsylvania Dept. of Environmental Protection
+03/04/26,421330011,York DW,OZONE-8HR,PPB,8,8,39.860800,-76.461900,Pennsylvania Dept. of Environmental Protection
+03/04/26,450030003,Jackson,OZONE-8HR,PPB,44,8,33.342201,-81.788597,South Carolina DES
+03/04/26,450190046,Cape Romain,OZONE-8HR,PPB,33,8,32.941002,-79.656998,South Carolina DES
+03/04/26,450250001,Chesterfield,OZONE-8HR,PPB,47,8,34.615299,-80.198898,South Carolina DES
+03/04/26,450310003,Pee Dee,OZONE-8HR,PPB,42,8,34.285599,-79.744698,South Carolina DES
+03/04/26,450370001,Trenton,OZONE-8HR,PPB,44,8,33.739700,-81.853600,South Carolina DES
+03/04/26,450450016,Hillcrest,OZONE-8HR,PPB,44,8,34.751801,-82.256699,South Carolina DES
+03/04/26,450510008,Coastal Carolina,OZONE-8HR,PPB,39,8,33.800500,-78.994100,South Carolina DES
+03/04/26,450790007,Parklane,OZONE-8HR,PPB,44,8,34.093899,-80.962196,South Carolina DES
+03/04/26,450790021,Congaree Bluff,OZONE-8HR,PPB,43,8,33.814701,-80.781097,South Carolina DES
+03/04/26,450791001,Sandhill,OZONE-8HR,PPB,44,8,34.131100,-80.868301,South Carolina DES
+03/04/26,450830009,North Spartanburg FS,OZONE-8HR,PPB,46,8,34.988602,-82.075600,South Carolina DES
+03/04/26,450910008,York Landfill,OZONE-8HR,PPB,42,8,34.977000,-81.207000,South Carolina DES
+03/04/26,470010101,Freels,OZONE-8HR,PPB,43,8,35.965000,-84.223099,Tennessee Air Pollution Control Div.
+03/04/26,470090101,Look Rock - GSMNP,OZONE-8HR,PPB,44,8,35.633460,-83.941580,National Park Service
+03/04/26,470090102,Cades Cove - GSMNP,OZONE-8HR,PPB,42,8,35.603100,-83.783600,National Park Service
+03/04/26,470259991,Speedwell,OZONE-8HR,PPB,42,8,36.470000,-83.830000,EPA Office of Atmospheric Protection
+03/04/26,470370011,EAST HEALTH CENTER,OZONE-8HR,PPB,35,8,36.204700,-86.744400,Davidson County PCD
+03/04/26,470370026,PERCY PRIEST DAM,OZONE-8HR,PPB,41,8,36.150600,-86.621100,Davidson County PCD
+03/04/26,470419991,Edgar Evins,OZONE-8HR,PPB,41,8,36.038800,-85.733100,EPA Office of Atmospheric Protection
+03/04/26,470651011,Soddy Daisy,OZONE-8HR,PPB,43,8,35.233655,-85.181864,Chattanooga-Hamilton County Air Pollution Control Bureau
+03/04/26,470654003,Eastside,OZONE-8HR,PPB,39,8,35.102773,-85.162399,Chattanooga-Hamilton County Air Pollution Control Bureau
+03/04/26,470890002,NMARKET,OZONE-8HR,PPB,41,8,36.114400,-83.601400,Tennessee Air Pollution Control Div.
+03/04/26,470930021,EASTKNOX,OZONE-8HR,PPB,38,8,36.085000,-83.764400,Knox County Dept. of Air Quality Management
+03/04/26,470931020,SPRINGHILL,OZONE-8HR,PPB,38,8,36.018300,-83.876100,Knox County Dept. of Air Quality Management
+03/04/26,471050109,LOUDONMS,OZONE-8HR,PPB,40,8,35.719700,-84.341700,Tennessee Air Pollution Control Div.
+03/04/26,471550101,Cove Mountain - GSMNP,OZONE-8HR,PPB,43,8,35.696700,-83.608900,National Park Service
+03/04/26,471570021,FRAYSER,OZONE-8HR,PPB,30,8,35.217500,-90.019400,Shelby County Health Department
+03/04/26,471570075,SHELBY FARMS,OZONE-8HR,PPB,32,8,35.151588,-89.850220,Shelby County Health Department
+03/04/26,471571004,ORGILL,OZONE-8HR,PPB,31,8,35.377200,-89.831900,Shelby County Health Department
+03/04/26,471632002,BVILLE,OZONE-8HR,PPB,41,8,36.540800,-82.425800,Tennessee Air Pollution Control Div.
+03/04/26,471632003,KSPORT,OZONE-8HR,PPB,41,8,36.581900,-82.485800,Tennessee Air Pollution Control Div.
+03/04/26,471650007,HVILLE,OZONE-8HR,PPB,38,8,36.297500,-86.652500,Tennessee Air Pollution Control Div.
+03/04/26,471870106,FVIEW,OZONE-8HR,PPB,38,8,35.951400,-87.137500,Tennessee Air Pollution Control Div.
+03/04/26,471890103,CEDARS,OZONE-8HR,PPB,41,8,36.060300,-86.286100,Tennessee Air Pollution Control Div.
+03/04/26,480271045,Temple Georgia C1045,OZONE-8HR,PPB,25,8,31.122527,-97.431158,Texas Commission on Environmental Quality
+03/04/26,480271047,Killeen C1047,OZONE-8HR,PPB,27,8,31.088002,-97.679734,Texas Commission on Environmental Quality
+03/04/26,480290032,San Antonio Northwest C23,OZONE-8HR,PPB,24,8,29.514999,-98.620003,Texas Commission on Environmental Quality
+03/04/26,480290052,Camp Bullis C58,OZONE-8HR,PPB,26,8,29.632200,-98.565002,Texas Commission on Environmental Quality
+03/04/26,480290059,Calaveras Lake C59,OZONE-8HR,PPB,22,8,29.275299,-98.311699,Texas Commission on Environmental Quality
+03/04/26,480391004,Manvel Croix Park C84,OZONE-8HR,PPB,23,8,29.520300,-95.392500,Texas Commission on Environmental Quality
+03/04/26,480391016,Lake Jackson C1016,OZONE-8HR,PPB,23,8,29.043600,-95.473600,Texas Commission on Environmental Quality
+03/04/26,480430101,Big Bend  NP,OZONE-8HR,PPB,39,8,29.302500,-103.178101,National Park Service
+03/04/26,480551604,Lockhart C1604,OZONE-8HR,PPB,16,8,29.864581,-97.664869,Capital Area Council of Governments
+03/04/26,480611023,Harlingen Teege C1023,OZONE-8HR,PPB,24,8,26.200278,-97.712501,Texas Commission on Environmental Quality
+03/04/26,480850005,Frisco C31,OZONE-8HR,PPB,28,8,33.132500,-96.786100,Texas Commission on Environmental Quality
+03/04/26,481130075,Dallas North C63,OZONE-8HR,PPB,24,8,32.919206,-96.808498,Texas Commission on Environmental Quality
+03/04/26,481130087,Dallas Redbird Airport C402,OZONE-8HR,PPB,28,8,32.676700,-96.871700,Texas Commission on Environmental Quality
+03/04/26,481210034,Denton Airport South C56,OZONE-8HR,PPB,23,8,33.194400,-97.193300,Texas Commission on Environmental Quality
+03/04/26,481211032,Pilot Point C1032,OZONE-8HR,PPB,25,8,33.410700,-96.943700,Texas Commission on Environmental Quality
+03/04/26,481391044,Italy C1044,OZONE-8HR,PPB,26,8,32.177200,-96.871100,Texas Commission on Environmental Quality
+03/04/26,481410029,Ivanhoe C414,OZONE-8HR,PPB,38,8,31.786400,-106.324200,Texas Commission on Environmental Quality
+03/04/26,481410044,Chamizal C41,OZONE-8HR,PPB,36,8,31.765600,-106.455000,Texas Commission on Environmental Quality
+03/04/26,481410055,Ascarate Park Southeast C37,OZONE-8HR,PPB,32,8,31.746700,-106.402802,Texas Commission on Environmental Quality
+03/04/26,481410057,Socorro Hueco C49,OZONE-8HR,PPB,38,8,31.667520,-106.287740,Texas Commission on Environmental Quality
+03/04/26,481410058,Skyline Park C72,OZONE-8HR,PPB,41,8,31.893889,-106.425556,Texas Commission on Environmental Quality
+03/04/26,481411021,Ojo De Agua C1021,OZONE-8HR,PPB,37,8,31.862441,-106.547562,Texas Commission on Environmental Quality
+03/04/26,481671034,Galveston Airport C1034,OZONE-8HR,PPB,24,8,29.263100,-94.856400,Texas Commission on Environmental Quality
+03/04/26,481830001,Longview C19/C127,OZONE-8HR,PPB,30,8,32.378682,-94.711811,Texas Commission on Environmental Quality
+03/04/26,482010024,Houston Aldine C8,OZONE-8HR,PPB,26,8,29.901100,-95.326100,Texas Commission on Environmental Quality
+03/04/26,482010026,Channelview C15,OZONE-8HR,PPB,20,8,29.802500,-95.125600,Texas Commission on Environmental Quality
+03/04/26,482010029,Northwest Harris Co. C26/C110/C154,OZONE-8HR,PPB,27,8,30.039400,-95.673900,Texas Commission on Environmental Quality
+03/04/26,482010046,Houston North Wayside C405,OZONE-8HR,PPB,20,8,29.828100,-95.284200,Texas Commission on Environmental Quality
+03/04/26,482010047,Lang C408,OZONE-8HR,PPB,22,8,29.834200,-95.489200,Texas Commission on Environmental Quality
+03/04/26,482010051,Houston Croquet C409,OZONE-8HR,PPB,24,8,29.623900,-95.474200,Texas Commission on Environmental Quality
+03/04/26,482010062,Houston Monroe C406,OZONE-8HR,PPB,21,8,29.625600,-95.267200,Texas Commission on Environmental Quality
+03/04/26,482010066,Houston Westhollow C410,OZONE-8HR,PPB,24,8,29.723300,-95.635800,Texas Commission on Environmental Quality
+03/04/26,482010416,Houston Park Place C416,OZONE-8HR,PPB,23,8,29.686390,-95.294724,Texas Commission on Environmental Quality
+03/04/26,482011015,Lynchburg Ferry C1015,OZONE-8HR,PPB,21,8,29.764400,-95.078100,Texas Commission on Environmental Quality
+03/04/26,482011017,Baytown Garth C1017,OZONE-8HR,PPB,25,8,29.823319,-94.983786,Texas Commission on Environmental Quality
+03/04/26,482011034,Houston East C1,OZONE-8HR,PPB,22,8,29.768100,-95.220600,Texas Commission on Environmental Quality
+03/04/26,482011035,Clinton C403,OZONE-8HR,PPB,18,8,29.733900,-95.257500,Texas Commission on Environmental Quality
+03/04/26,482011039,Houston Deer Park C35,OZONE-8HR,PPB,25,8,29.670025,-95.128508,Texas Commission on Environmental Quality
+03/04/26,482011050,Seabrook Friendship Park C45,OZONE-8HR,PPB,16,8,29.583100,-95.015600,Texas Commission on Environmental Quality
+03/04/26,482030002,Karnack C85,OZONE-8HR,PPB,29,8,32.670600,-94.168100,Texas Commission on Environmental Quality
+03/04/26,482090614,Dripping Springs C614,OZONE-8HR,PPB,22,8,30.214636,-98.083311,Capital Area Council of Governments
+03/04/26,482091675,San Marcos Staples Rd C1675,OZONE-8HR,PPB,22,8,29.862294,-97.928894,Capital Area Council of Governments
+03/04/26,482150043,Mission C43,OZONE-8HR,PPB,21,8,26.226226,-98.291070,Texas Commission on Environmental Quality
+03/04/26,482210001,Granbury C73,OZONE-8HR,PPB,24,8,32.441900,-97.803300,Texas Commission on Environmental Quality
+03/04/26,482311006,Greenville C1006/198,OZONE-8HR,PPB,30,8,33.153077,-96.115561,Texas Commission on Environmental Quality
+03/04/26,482450009,Beaumont C2/C112,OZONE-8HR,PPB,24,8,30.039400,-94.074700,Texas Commission on Environmental Quality
+03/04/26,482450011,Port Arthur West C28/C128/C228,OZONE-8HR,PPB,23,8,29.894200,-93.987500,Texas Commission on Environmental Quality
+03/04/26,482450022,Hamshire C64,OZONE-8HR,PPB,21,8,29.863952,-94.317800,Texas Commission on Environmental Quality
+03/04/26,482450101,SETRPC 40 Sabine Pass C640,OZONE-8HR,PPB,28,8,29.718100,-93.896900,Texas Commission on Environmental Quality
+03/04/26,482450102,SETRPC 43 Jefferson Co Airport C643,OZONE-8HR,PPB,21,8,29.942500,-94.000600,Texas Commission on Environmental Quality
+03/04/26,482451035,Nederland C1035,OZONE-8HR,PPB,22,8,29.978600,-94.011100,Texas Commission on Environmental Quality
+03/04/26,482510003,Cleburne Airport C77,OZONE-8HR,PPB,23,8,32.353593,-97.436748,Texas Commission on Environmental Quality
+03/04/26,482570005,Kaufman C71,OZONE-8HR,PPB,28,8,32.565000,-96.317500,Texas Commission on Environmental Quality
+03/04/26,483091037,Waco C1037,OZONE-8HR,PPB,25,8,31.653100,-97.070600,Texas Commission on Environmental Quality
+03/04/26,483390078,Conroe Relocated C78,OZONE-8HR,PPB,31,8,30.350300,-95.425000,Texas Commission on Environmental Quality
+03/04/26,483491051,Corsicana C1051,OZONE-8HR,PPB,28,8,32.031900,-96.399200,Texas Commission on Environmental Quality
+03/04/26,483550025,Corpus Christi West C4,OZONE-8HR,PPB,22,8,27.765335,-97.434247,Texas Commission on Environmental Quality
+03/04/26,483550026,Corpus Christi Tuloso C21,OZONE-8HR,PPB,22,8,27.833300,-97.555800,Texas Commission on Environmental Quality
+03/04/26,483611001,West Orange C9/C141,OZONE-8HR,PPB,23,8,30.084400,-93.761700,Texas Commission on Environmental Quality
+03/04/26,483670081,Parker County C76,OZONE-8HR,PPB,18,8,32.868600,-97.905800,Texas Commission on Environmental Quality
+03/04/26,483739991,Alabama-Coushatta,OZONE-8HR,PPB,26,8,30.668100,-94.673900,EPA Office of Atmospheric Protection
+03/04/26,483819991,Palo Duro,OZONE-8HR,PPB,46,8,34.880300,-101.664900,EPA Office of Atmospheric Protection
+03/04/26,483970001,Rockwall Heath C69,OZONE-8HR,PPB,29,8,32.936100,-96.459200,Texas Commission on Environmental Quality
+03/04/26,484230007,Tyler Airport Relocated C82,OZONE-8HR,PPB,29,8,32.344008,-95.415751,Texas Commission on Environmental Quality
+03/04/26,484390075,Eagle Mountain Lake C75,OZONE-8HR,PPB,24,8,32.988100,-97.476400,Texas Commission on Environmental Quality
+03/04/26,484391002,Ft. Worth Northwest C13,OZONE-8HR,PPB,22,8,32.805818,-97.356567,Texas Commission on Environmental Quality
+03/04/26,484392003,Keller C17,OZONE-8HR,PPB,27,8,32.922498,-97.282088,Texas Commission on Environmental Quality
+03/04/26,484393009,Grapevine Fairway C70,OZONE-8HR,PPB,30,8,32.984260,-97.063705,Texas Commission on Environmental Quality
+03/04/26,484393011,Arlington Municipal Airport C61,OZONE-8HR,PPB,29,8,32.655800,-97.088600,Texas Commission on Environmental Quality
+03/04/26,484530014,Austin North Hills Drive C3,OZONE-8HR,PPB,23,8,30.354200,-97.760002,Texas Commission on Environmental Quality
+03/04/26,484530020,Audubon C38,OZONE-8HR,PPB,26,8,30.483168,-97.872300,Texas Commission on Environmental Quality
+03/04/26,484690003,Victoria C87,OZONE-8HR,PPB,21,8,28.835800,-97.005600,Texas Commission on Environmental Quality
+03/04/26,484790016,Laredo C44,OZONE-8HR,PPB,24,8,27.517403,-99.515244,Texas Commission on Environmental Quality
+03/04/26,510030001,Albemarle HS,OZONE-8HR,PPB,18,8,38.076570,-78.503970,Virginia Dept. of Environmental Quality
+03/04/26,510130020,AURORA HILLS,OZONE-8HR,PPB,3,8,38.857700,-77.059220,Virginia Dept. of Environmental Quality
+03/04/26,510330001,CORBIN,OZONE-8HR,PPB,16,8,38.200870,-77.377420,Virginia Dept. of Environmental Quality
+03/04/26,510360002,SHIRLEY PLANTATION,OZONE-8HR,PPB,37,8,37.344380,-77.259250,Virginia Dept. of Environmental Quality
+03/04/26,510410004,BEACH ROAD,OZONE-8HR,PPB,37,8,37.357480,-77.593550,Virginia Dept. of Environmental Quality
+03/04/26,510590030,FRANCONIA,OZONE-8HR,PPB,6,8,38.773350,-77.104680,Virginia Dept. of Environmental Quality
+03/04/26,510610002,SUMERDUCK,OZONE-8HR,PPB,12,8,38.473670,-77.767720,Virginia Dept. of Environmental Quality
+03/04/26,510690010,REST - LESTER BUILDING SYSTEMS,OZONE-8HR,PPB,6,8,39.281020,-78.081570,Virginia Dept. of Environmental Quality
+03/04/26,510850003,HANOVER,OZONE-8HR,PPB,38,8,37.606130,-77.218800,Virginia Dept. of Environmental Quality
+03/04/26,510870014,MATH & SCIENCE CTR,OZONE-8HR,PPB,36,8,37.556520,-77.400270,Virginia Dept. of Environmental Quality
+03/04/26,511071005,ASHBURN,OZONE-8HR,PPB,6,8,39.024730,-77.489250,Virginia Dept. of Environmental Quality
+03/04/26,511479991,Prince Edward,OZONE-8HR,PPB,38,8,37.170000,-78.310000,EPA Office of Atmospheric Protection
+03/04/26,511530009,JAMES S. LONG PARK,OZONE-8HR,PPB,9,8,38.852870,-77.634620,Virginia Dept. of Environmental Quality
+03/04/26,511611004,VINTON - Herman Horn ES,OZONE-8HR,PPB,31,8,37.283420,-79.884520,Virginia Dept. of Environmental Quality
+03/04/26,511630003,NATBRIDGE,OZONE-8HR,PPB,20,8,37.626680,-79.512600,Virginia Dept. of Environmental Quality
+03/04/26,511650003,Rockingham,OZONE-8HR,PPB,13,8,38.477530,-78.819520,Virginia Dept. of Environmental Quality
+03/04/26,511790001,WIDEWATER,OZONE-8HR,PPB,14,8,38.481230,-77.370400,Virginia Dept. of Environmental Quality
+03/04/26,511970002,RURAL RETREAT,OZONE-8HR,PPB,36,8,36.891170,-81.254230,Virginia Dept. of Environmental Quality
+03/04/26,516500008,HAMPTON - NASA,OZONE-8HR,PPB,39,8,37.103730,-76.387020,Virginia Dept. of Environmental Quality
+03/04/26,518000005,HOLLAND,OZONE-8HR,PPB,40,8,36.665250,-76.730780,Virginia Dept. of Environmental Quality
+03/04/26,540030003,MARTINSBURG,OZONE-8HR,PPB,6,8,39.465599,-77.958298,West Virginia Division of Air Quality
+03/04/26,540219991,Cedar Creek,OZONE-8HR,PPB,22,8,38.879500,-80.847700,EPA Office of Atmospheric Protection
+03/04/26,540250003,GREENBRIER COUNTY,OZONE-8HR,PPB,23,8,37.908100,-80.632797,West Virginia Division of Air Quality
+03/04/26,540290009,WEIRTON,OZONE-8HR,PPB,7,8,40.427350,-80.592530,West Virginia Division of Air Quality
+03/04/26,540610003,MORGANTOWN,OZONE-8HR,PPB,26,8,39.648899,-79.921097,West Virginia Division of Air Quality
+03/04/26,540690010,WHEELING,OZONE-8HR,PPB,5,8,40.114700,-80.700798,West Virginia Division of Air Quality
+03/04/26,540939991,Parsons,OZONE-8HR,PPB,18,8,39.090500,-79.661700,EPA Office of Atmospheric Protection
+03/04/26,541071002,VIENNA,OZONE-8HR,PPB,23,8,39.325001,-81.552200,West Virginia Division of Air Quality
+03/04/26,550030010,Bad River Tribal School,OZONE-8HR,PPB,43,8,46.614400,-90.698600,Wisconsin Dept. of Natural Resources
+03/04/26,550270001,Horicon Wildlife Area,OZONE-8HR,PPB,45,8,43.466110,-88.621109,Wisconsin Dept. of Natural Resources
+03/04/26,550410007,Potawatomi,OZONE-8HR,PPB,53,8,45.563900,-88.810000,Wisconsin Dept. of Natural Resources
+03/04/26,550590019,Chiwaukee,OZONE-8HR,PPB,39,8,42.504700,-87.811100,Wisconsin Dept. of Natural Resources
+03/04/26,550590025,Kenosha-Water Tower,OZONE-8HR,PPB,38,8,42.596000,-87.886000,Wisconsin Dept. of Natural Resources
+03/04/26,551199991,Perkinstown,OZONE-8HR,PPB,49,8,45.206600,-90.596900,EPA Office of Atmospheric Protection
