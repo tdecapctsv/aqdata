@@ -1,0 +1,745 @@
+area_name,pollutant,status,revoked_naaqs,orig_dv,orig_yrs,cur_dv,cur_dv24,cur_qa_yrs,cur_vio_tx,cur_dvasof,dv_units,class,areapop,ncntytotal,region,states,pollorder,composid,exportdt
+"Ada County; Boise, ID",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,240254,1,10,ID,B,PM-10.1990.Boise,2/28/2026
+"Adams, Denver, and Boulder Counties; Denver Metropolitan area, CO",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,2770524,7,8,CO,B,PM-10.1990.Denver,2/28/2026
+"Ajo (Pima County), AZ",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,8823,1,9,AZ,A,SO2.1978.Ajo,2/28/2026
+"Albany-Schenectady-Troy, NY",1-Hour Ozone (1979),NAA,Revoked,0.128,,0.078,,2022-2024,Yes,5/28/2025,ppm,Marginal,937407,6,2,NY,G,Ozone_1-hr.1990.Albany,2/28/2026
+"Albany-Schenectady-Troy, NY",8-Hour Ozone (1997),NAA,Revoked,0.087,,0.062,,2022-2024,Yes,5/28/2025,ppm,Marginal,970156,7,2,NY,G,Ozone_8-hr.1997.Albany,2/28/2026
+"Albuquerque, NM",Carbon Monoxide (1971),Maint,,,,1.7,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,662564,1,6,NM,C,CO.1990.Albuquerque,2/28/2026
+"Allegan County, MI",1-Hour Ozone (1979),Maint,Revoked,,,0.093,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,111408,1,5,MI,K,Ozone_1-hr.1990.Allegan_Co,2/28/2026
+"Allegan County, MI",8-Hour Ozone (1997),Maint,Revoked,0.097,,0.074,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,111408,1,5,MI,I,Ozone_8-hr.1997.Allegan_Co,2/28/2026
+"Allegan County, MI",8-Hour Ozone (2015),NAA,,0.075,2014-2016,0.074,,2022-2024,No,5/28/2025,ppm,Serious,46615,1,5,MI,D,Ozone_8-hr.2015.Allegan_Co,2/28/2026
+"Allegheny County Air Basin: Hazelwood monitor, PA",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,387190,1,3,PA,A,SO2.1978.Hazelwood,2/28/2026
+"Allegheny County, PA",PM-2.5 (2012),NAA,,13.0,,10.6,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,1223348,1,3,PA,B,PM-2.5.2012.Allegheny_Co,2/28/2026
+"Allegheny County; Liberty, Lincoln, Port Vue, Glassport, Clairton, PA",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,18700,1,3,PA,B,PM-10.1990.Liberty-Clairton,2/28/2026
+"Allegheny, PA",Sulfur Dioxide (2010),Maint,,146,,62,,2022-2024,Yes,5/6/2025,ppb,,126934,1,3,PA,A,SO2.2010.Liberty-Clairton,2/28/2026
+"Allentown, PA",PM-2.5 (2006),Maint,,36,,,23,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,647232,2,3,PA,B,PM-2.5.2006.Allentown,2/28/2026
+"Allentown-Bethlehem-Easton, PA",8-Hour Ozone (1997),Maint,Revoked,0.091,,0.065,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,712481,3,3,PA,I,Ozone_8-hr.1997.Allentown,2/28/2026
+"Allentown-Bethlehem-Easton, PA",8-Hour Ozone (2008),NAA,,0.076,2008-2010,0.065,,2022-2024,Yes,5/28/2025,ppm,Marginal,712481,3,3,PA,F,Ozone_8-hr.2008.Allentown,2/28/2026
+"Allentown-Bethlehem-Easton, PA-NJ",1-Hour Ozone (1979),NAA,Revoked,0.137,,0.077,,2022-2024,Yes,5/28/2025,ppm,Marginal,821173,4,3-2,PA-NJ,G,Ozone_1-hr.1990.Allentown,2/28/2026
+"Alton Township, IL",Sulfur Dioxide (2010),Maint,,,2009-2011,,,2022-2024,,5/6/2025,ppb,,0,1,5,IL,A,SO2.2010.Alton,2/28/2026
+"Altoona, PA",1-Hour Ozone (1979),NAA,Revoked,0.129,,0.077,,2022-2024,Yes,5/28/2025,ppm,Marginal,127089,1,3,PA,G,Ozone_1-hr.1990.Altoona,2/28/2026
+"Altoona, PA",8-Hour Ozone (1997),Maint,Revoked,0.085,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Former Subpart 1,127089,1,3,PA,I,Ozone_8-hr.1997.Altoona,2/28/2026
+"Amador County, CA",8-Hour Ozone (2015),NAA,,0.073,2014-2016,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,38091,1,9,CA,F,Ozone_8-hr.2015.Amador_Co,2/28/2026
+"Amador and Calaveras Cos. (Central Mountain Cos.), CA",8-Hour Ozone (1997),NAA,Revoked,0.091,,0.066,,2022-2024,Yes,5/28/2025,ppm,Moderate,83669,2,9,CA,E,Ozone_8-hr.1997.Amador_and_Calaveras_Cos,2/28/2026
+"Anchorage, AK",Carbon Monoxide (1971),Maint,,,,2.7,,2023-2024,Yes,5/6/2025,ppm,Serious,286227,1,10,AK,A,CO.1990.Anchorage,2/28/2026
+"Anchorage; Eagle River, AK",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,219193,1,10,AK,B,PM-10.1990.Anchorage,2/28/2026
+"Anne Arundel County and Baltimore County, MD",Sulfur Dioxide (2010),NAA,,,2009-2011,4,,2022-2024,,5/6/2025,ppb,,990333,2,3,MD,A,SO2.2010.Baltimore,2/28/2026
+"Archuleta County; Pagosa Springs, CO",PM-10 (1987),Maint,,,,,1.7,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,2261,1,8,CO,B,PM-10.1990.Pagosa_Springs,2/28/2026
+"Arecibo, PR",Lead (2008),NAA,,0.25,2007-2009,0.35,,2022-2024,No,5/6/2025,&micro;g/m<sup>3</sup>,,32185,1,2,PR,A,Lead.2008.Arecibo,2/28/2026
+"Armstrong County: Madison, Mahoning, Boggs, Washington, Pine, PA",Sulfur Dioxide (1971),NAA,,,,,,,,6/8/2020,ppb,Primary,4516,1,3,PA,A,SO2.1978.Armstrong_Co,2/28/2026
+"Aroostock County; City of Presque Isle, ME",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,972,1,1,ME,B,PM-10.1990.Presque_Isle,2/28/2026
+"Atlanta, GA",1-Hour Ozone (1979),Maint,Revoked,0.162,,0.100,,2022-2024,Yes,5/28/2025,ppm,Severe-15,4552902,13,4,GA,C,Ozone_1-hr.1990.Atlanta,2/28/2026
+"Atlanta, GA",8-Hour Ozone (1997),Maint,Revoked,0.091,,0.072,,2022-2024,Yes,5/28/2025,ppm,Moderate,5260436,20,4,GA,E,Ozone_8-hr.1997.Atlanta,2/28/2026
+"Atlanta, GA",8-Hour Ozone (2008),Maint,,0.080,2008-2010,0.072,,2022-2024,Yes,5/28/2025,ppm,Moderate,4753017,15,4,GA,E,Ozone_8-hr.2008.Atlanta,2/28/2026
+"Atlanta, GA",8-Hour Ozone (2015),Maint,,0.075,2014-2016,0.072,,2022-2024,No,5/28/2025,ppm,Marginal,3669376,7,4,GA,F,Ozone_8-hr.2015.Atlanta,2/28/2026
+"Atlanta, GA",PM-2.5 (1997),Maint,,18.0,,9.4,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,5265299,22,4,GA,B,PM-2.5.1997.Atlanta,2/28/2026
+"Atlantic City, NJ",1-Hour Ozone (1979),NAA,Revoked,0.145,,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,371814,2,2,NJ,E,Ozone_1-hr.1990.Atlantic_City,2/28/2026
+"Atlantic City, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,44944,1,2,NJ,D,CO.1990.Atlantic_City,2/28/2026
+"Bakersfield, CA",Carbon Monoxide (1971),Maint,,,,0.9,,2023-2024,Yes,5/6/2025,ppm,Not Classified,468092,1,9,CA,D,CO.1990.Bakersfield,2/28/2026
+"Baltimore, MD",1-Hour Ozone (1979),NAA,Revoked,0.194,,0.090,,2022-2024,Yes,5/28/2025,ppm,Severe-15,2662691,6,3,MD,C,Ozone_1-hr.1990.Baltimore,2/28/2026
+"Baltimore, MD",8-Hour Ozone (1997),NAA,Revoked,0.103,,0.071,,2022-2024,Yes,5/28/2025,ppm,Serious,2662691,6,3,MD,D,Ozone_8-hr.1997.Baltimore,2/28/2026
+"Baltimore, MD",8-Hour Ozone (2008),NAA,,0.089,,0.071,,2022-2024,Yes,5/28/2025,ppm,Moderate,2662691,6,3,MD,E,Ozone_8-hr.2008.Baltimore,2/28/2026
+"Baltimore, MD",8-Hour Ozone (2015),NAA,,0.073,2014-2016,0.071,,2022-2024,No,5/28/2025,ppm,Serious,2662691,6,3,MD,D,Ozone_8-hr.2015.Baltimore,2/28/2026
+"Baltimore, MD",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,15455,1,3,MD,C,CO.1990.Baltimore,2/28/2026
+"Baltimore, MD",PM-2.5 (1997),Maint,,16.7,,8.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,2662691,6,3,MD,B,PM-2.5.1997.Baltimore,2/28/2026
+"Baton Rouge, LA",1-Hour Ozone (1979),NAA,Revoked,0.164,,0.100,,2022-2024,Yes,5/28/2025,ppm,Severe-15,732587,5,6,LA,C,Ozone_1-hr.1990.Baton_Rouge,2/28/2026
+"Baton Rouge, LA",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.074,,2022-2024,Yes,5/28/2025,ppm,Moderate,732587,5,6,LA,E,Ozone_8-hr.1997.Baton_Rouge,2/28/2026
+"Baton Rouge, LA",8-Hour Ozone (2008),Maint,,0.078,,0.074,,2022-2024,Yes,5/28/2025,ppm,Marginal,732587,5,6,LA,F,Ozone_8-hr.2008.Baton_Rouge,2/28/2026
+"Beaumont-Port Arthur, TX",1-Hour Ozone (1979),NAA,Revoked,0.158,,0.091,,2022-2024,Yes,5/28/2025,ppm,Serious,388745,3,6,TX,D,Ozone_1-hr.1990.Beaumont,2/28/2026
+"Beaumont-Port Arthur, TX",8-Hour Ozone (1997),Maint,Revoked,0.091,,0.066,,2022-2024,Yes,5/28/2025,ppm,Moderate,388745,3,6,TX,E,Ozone_8-hr.1997.Beaumont,2/28/2026
+"Beauregard Parish, LA",1-Hour Ozone (1979),Maint,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,35654,1,6,LA,K,Ozone_1-hr.1990.Beauregard_Par,2/28/2026
+"Beaver, PA",Sulfur Dioxide (2010),Maint,,158,,6,,2022-2024,Yes,5/6/2025,ppb,,14780,1,3,PA,A,SO2.2010.Lower_Beaver_Valley,2/28/2026
+"Belding, MI",Lead (2008),Maint,,0.28,2007-2009,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,1890,1,5,MI,A,Lead.2008.Belding,2/28/2026
+"Bellefontaine, OH",Lead (2008),Maint,,0.26,,,,2022-2024,No Data,5/6/2025,&micro;g/m<sup>3</sup>,,6220,1,5,OH,A,Lead.2008.Bellefontaine,2/28/2026
+"Benton County; (part) TVA Johnsonville, TN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",16489,1,4,TN,A,SO2.1978.Benton_Co,2/28/2026
+"Benton Harbor, MI",8-Hour Ozone (1997),Maint,Revoked,0.091,,0.072,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,156813,1,5,MI,I,Ozone_8-hr.1997.Benton_Harbor,2/28/2026
+"Benzie County, MI",8-Hour Ozone (1997),Maint,Revoked,0.088,,0.068,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,17525,1,5,MI,I,Ozone_8-hr.1997.Benzie_Co,2/28/2026
+"Berrien County, MI",8-Hour Ozone (2015),NAA,,0.074,2014-2016,0.072,,2022-2024,No,5/28/2025,ppm,Serious,156813,1,5,MI,D,Ozone_8-hr.2015.Benton_Harbor,2/28/2026
+"Billings, MT",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,104360,1,8,MT,D,CO.1990.Billings,2/28/2026
+"Billings, MT",Sulfur Dioxide (2010),Maint,,79,,22,,2022-2024,Yes,5/6/2025,ppb,,2621,1,8,MT,A,SO2.2010.Billings,2/28/2026
+"Birmingham, AL",1-Hour Ozone (1979),Maint,Revoked,0.133,,0.085,,2022-2024,Yes,5/28/2025,ppm,Marginal,853551,2,4,AL,G,Ozone_1-hr.1990.Birmingham,2/28/2026
+"Birmingham, AL",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.069,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,853551,2,4,AL,I,Ozone_8-hr.1997.Birmingham,2/28/2026
+"Birmingham, AL",PM-2.5 (1997),Maint,,18.0,,9.5,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,857680,3,4,AL,C,PM-2.5.1997.Birmingham,2/28/2026
+"Birmingham, AL",PM-2.5 (2006),Maint,,39,,,21,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,857680,3,4,AL,C,PM-2.5.2006.Birmingham,2/28/2026
+"Boise-Northern Ada County, ID",Carbon Monoxide (1971),Maint,,,,1.1,,2023-2024,Yes,5/6/2025,ppm,Not Classified,257440,1,10,ID,D,CO.1990.Boise,2/28/2026
+"Bonner County; The Sandpoint Area, ID",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,40876,1,10,ID,B,PM-10.1990.Sandpoint,2/28/2026
+"Boston, MA",Carbon Monoxide (1971),Maint,,,,1.0,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1135003,3,1,MA,C,CO.1990.Boston,2/28/2026
+"Boston-Lawrence-Worcester (E. Mass), MA",8-Hour Ozone (1997),NAA,Revoked,0.095,,0.067,,2022-2024,Yes,5/28/2025,ppm,Moderate,5723468,10,1,MA,E,Ozone_8-hr.1997.Boston_MA,2/28/2026
+"Boston-Lawrence-Worcester (E. Mass), MA-NH",1-Hour Ozone (1979),NAA,Revoked,0.165,,0.085,,2022-2024,Yes,5/28/2025,ppm,Serious,6090368,12,1-1,MA-NH,D,Ozone_1-hr.1990.Boston,2/28/2026
+"Boston-Manchester-Portsmouth (SE), NH",8-Hour Ozone (1997),Maint,Revoked,0.095,,0.064,,2022-2024,Yes,5/28/2025,ppm,Moderate,740556,4,1,NH,E,Ozone_8-hr.1997.Boston_NH,2/28/2026
+"Boyd County (part), KY",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,49543,1,4,KY,A,SO2.1978.Boyd_Co,2/28/2026
+"Bristol, TN",Lead (2008),Maint,,0.26,,0.26,,2022-2024,No,5/6/2025,&micro;g/m<sup>3</sup>,,1611,1,4,TN,A,Lead.2008.Bristol,2/28/2026
+"Brooke; Follansbee area, WV",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,2674,1,3,WV,B,PM-10.1990.Follansbee,2/28/2026
+"Brown County: Green Bay, WI",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,248004,1,5,WI,A,SO2.1978.Green_Bay,2/28/2026
+"Buffalo-Niagara Falls, NY",1-Hour Ozone (1979),NAA,Revoked,0.131,,0.075,,2022-2024,Yes,5/28/2025,ppm,Marginal,1135509,2,2,NY,G,Ozone_1-hr.1990.Buffalo,2/28/2026
+"Buffalo-Niagara Falls, NY",8-Hour Ozone (1997),NAA,Revoked,0.099,,0.067,,2022-2024,Yes,5/28/2025,ppm,Moderate,1135509,2,2,NY,E,Ozone_8-hr.1997.Buffalo,2/28/2026
+"Burlington, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,10993,1,2,NJ,D,CO.1990.Burlington,2/28/2026
+"Butte County, CA",8-Hour Ozone (2015),NAA,,0.075,2014-2016,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,220000,1,9,CA,F,Ozone_8-hr.2015.Chico,2/28/2026
+"Calaveras County, CA",8-Hour Ozone (2008),NAA,,0.077,2008-2010,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,45578,1,9,CA,F,Ozone_8-hr.2008.Calaveras_Co,2/28/2026
+"Calaveras County, CA",8-Hour Ozone (2015),NAA,,0.076,2014-2016,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,45578,1,9,CA,F,Ozone_8-hr.2015.Calaveras_Co,2/28/2026
+"Cambria-Westmoreland Area, PA",Sulfur Dioxide (2010),NAA,,,,,,,,5/6/2025,ppb,,5401,2,3,PA,A,SO2.2010.Cambria-Westmoreland,2/28/2026
+"Campbell-Clermont Counties, KY-OH",Sulfur Dioxide (2010),Maint,,89,,7,,2022-2024,Yes,5/6/2025,ppb,,31920,2,4-5,KY-OH,A,SO2.2010.Cincinnati,2/28/2026
+"Canton, OH",1-Hour Ozone (1979),Maint,Revoked,0.135,,0.082,,2022-2024,Yes,5/28/2025,ppm,Marginal,375586,1,5,OH,G,Ozone_1-hr.1990.Canton,2/28/2026
+"Canton-Massillon, OH",8-Hour Ozone (1997),Maint,Revoked,0.090,,0.067,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,375586,1,5,OH,I,Ozone_8-hr.1997.Canton,2/28/2026
+"Canton-Massillon, OH",PM-2.5 (1997),Maint,,17.3,,8.8,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,375586,1,5,OH,C,PM-2.5.1997.Canton,2/28/2026
+"Canton-Massillon, OH",PM-2.5 (2006),Maint,,36,2006-2008,,23,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,375586,1,5,OH,C,PM-2.5.2006.Canton,2/28/2026
+"Canton-Stark County, OH",Lead (2008),NAA,,0.40,2007-2009,0.15,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,6188,1,5,OH,A,Lead.2008.Canton,2/28/2026
+"Cass County, MI",8-Hour Ozone (1997),Maint,Revoked,0.093,,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,52293,1,5,MI,G,Ozone_8-hr.1997.Cass_Co,2/28/2026
+"Central New Hampshire, NH",Sulfur Dioxide (2010),Maint,,221,,25,,2022-2024,Yes,5/6/2025,ppb,,124453,3,1,NH,A,SO2.2010.Concord,2/28/2026
+"Central Steptoe Valley, NV",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,2165,1,9,NV,A,SO2.1978.Central_Steptoe_Valley,2/28/2026
+"Charleston, WV",1-Hour Ozone (1979),Maint,Revoked,0.138,,0.072,,2022-2024,Yes,5/28/2025,ppm,Moderate,248549,2,3,WV,E,Ozone_1-hr.1990.Charleston,2/28/2026
+"Charleston, WV",8-Hour Ozone (1997),Maint,Revoked,0.086,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Former Subpart 1,248549,2,3,WV,I,Ozone_8-hr.1997.Charleston,2/28/2026
+"Charleston, WV",PM-2.5 (1997),Maint,,17.1,,7.7,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,248549,2,3,WV,C,PM-2.5.1997.Charleston,2/28/2026
+"Charleston, WV",PM-2.5 (2006),Maint,,36,,,18,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,248549,2,3,WV,C,PM-2.5.2006.Charleston,2/28/2026
+"Charlotte, NC",Carbon Monoxide (1971),Maint,,,,1.6,,2023-2024,Yes,5/6/2025,ppm,Not Classified,919628,1,4,NC,D,CO.1990.Charlotte,2/28/2026
+"Charlotte-Gastonia, NC",1-Hour Ozone (1979),Maint,Revoked,0.158,,0.091,,2022-2024,Yes,5/28/2025,ppm,Moderate,1125714,2,4,NC,E,Ozone_1-hr.1990.Charlotte,2/28/2026
+"Charlotte-Gastonia-Rock Hill, NC-SC",8-Hour Ozone (1997),Maint,Revoked,0.100,,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,1968712,8,4-4,NC-SC,E,Ozone_8-hr.1997.Charlotte,2/28/2026
+"Charlotte-Rock Hill, NC-SC",8-Hour Ozone (2008),Maint,,0.079,2008-2010,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,1901424,8,4-4,NC-SC,F,Ozone_8-hr.2008.Charlotte,2/28/2026
+"Chattanooga, TN-GA-AL",PM-2.5 (1997),Maint,,16.1,,9.0,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,470921,4,4-4-4,AL-TN-GA,B,PM-2.5.1997.Chattanooga,2/28/2026
+"Cherokee County, SC",1-Hour Ozone (1979),Maint,Revoked,0.132,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Marginal,55342,1,4,SC,G,Ozone_1-hr.1990.Cherokee_Co,2/28/2026
+"Cheshire County, NH",1-Hour Ozone (1979),NAA,Revoked,,,0.073,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,77117,1,1,NH,K,Ozone_1-hr.1990.Cheshire_Co,2/28/2026
+"Chicago, IL",Lead (2008),Maint,,0.24,2007-2009,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,35696,1,5,IL,A,Lead.2008.Chicago,2/28/2026
+"Chicago, IL-IN-WI",8-Hour Ozone (2015),NAA,,0.077,2014-2016,0.078,,2022-2024,No,5/28/2025,ppm,Serious,9074644,11,5,IL-IN-WI,D,Ozone_8-hr.2015.Chicago,2/28/2026
+"Chicago-Gary-Lake County, IL-IN",1-Hour Ozone (1979),NAA,Revoked,0.190,,0.097,,2022-2024,Yes,5/28/2025,ppm,Severe-17,9022088,10,5 -5,IL-IN,B,Ozone_1-hr.1990.Chicago,2/28/2026
+"Chicago-Gary-Lake County, IL-IN",8-Hour Ozone (1997),Maint,Revoked,0.101,,0.076,,2022-2024,Yes,5/28/2025,ppm,Moderate,9049894,10,5-5,IL-IN,E,Ozone_8-hr.1997.Chicago,2/28/2026
+"Chicago-Gary-Lake County, IL-IN",PM-2.5 (1997),Maint,,17.7,,11.0,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,9049894,10,5-5,IL-IN,C,PM-2.5.1997.Chicago,2/28/2026
+"Chicago-Naperville, IL-IN-WI",8-Hour Ozone (2008),Maint,,0.077,2008-2010,0.078,,2022-2024,No,5/28/2025,ppm,Serious,9179738,11,5-5-5,IL-IN-WI,D,Ozone_8-hr.2008.Chicago,2/28/2026
+"Chico (Butte County), CA",8-Hour Ozone (2008),NAA,,0.079,,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,220000,1,9,CA,F,Ozone_8-hr.2008.Chico,2/28/2026
+"Chico, CA",1-Hour Ozone (1979),NAA,Revoked,0.100,,0.076,,2022-2024,Yes,5/28/2025,ppm,Section 185A,220000,1,9,CA,J,Ozone_1-hr.1990.Chico,2/28/2026
+"Chico, CA",8-Hour Ozone (1997),NAA,Revoked,0.089,,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,220000,1,9,CA,G,Ozone_8-hr.1997.Chico,2/28/2026
+"Chico, CA",Carbon Monoxide (1971),Maint,,,,1.4,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,86963,1,9,CA,C,CO.1990.Chico,2/28/2026
+"Chico, CA",PM-2.5 (2006),Maint,,69,,,25,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,217626,1,9,CA,B,PM-2.5.2006.Chico,2/28/2026
+"Cincinnati, OH-KY",8-Hour Ozone (2015),Maint,,0.072,2014-2016,0.072,,2022-2024,No,5/28/2025,ppm,Marginal,1928528,7,5-4,OH-KY,F,Ozone_8-hr.2015.Cincinnati,2/28/2026
+"Cincinnati, OH-KY",8-Hour Ozone (2015),Maint,,0.072,2014-2016,0.072,,2022-2024,No,5/28/2025,ppm,Moderate,1928528,7,5-4,OH-KY,E,Ozone_8-hr.2015.Cincinnati,2/28/2026
+"Cincinnati, OH-KY-IN",8-Hour Ozone (2008),Maint,,0.079,,0.072,,2022-2024,Yes,5/28/2025,ppm,Marginal,1988951,9,5-4-5,OH-KY-IN,F,Ozone_8-hr.2008.Cincinnati,2/28/2026
+"Cincinnati-Hamilton, OH-KY",1-Hour Ozone (1979),Maint,Revoked,0.157,,0.088,,2022-2024,Yes,5/28/2025,ppm,Moderate,1949427,7,5-4,OH-KY,E,Ozone_1-hr.1990.Cincinnati,2/28/2026
+"Cincinnati-Hamilton, OH-KY-IN",8-Hour Ozone (1997),Maint,Revoked,0.096,,0.072,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,2004983,9,5-4-5,OH-KY-IN,I,Ozone_8-hr.1997.Cincinnati,2/28/2026
+"Cincinnati-Hamilton, OH-KY-IN",PM-2.5 (1997),Maint,,17.8,,10.3,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,1962943,8,5-4-5,OH-KY-IN,C,PM-2.5.1997.Cincinnati,2/28/2026
+"Clark County; Las Vegas planning area, NV",PM-10 (1987),Maint,,,,,3.7,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,1951248,1,9,NV,A,PM-10.1990.Las_Vegas,2/28/2026
+"Clarksville-Hopkinsville, TN-KY",8-Hour Ozone (1997),Maint,Revoked,0.085,,0.065,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,246286,2,4-4,TN-KY,I,Ozone_8-hr.1997.Clarksville,2/28/2026
+"Clearfield and Indiana Counties, PA",8-Hour Ozone (1997),Maint,Revoked,0.090,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Former Subpart 1,170522,2,3,PA,I,Ozone_8-hr.1997.Clearfield_and_Indiana_Cos,2/28/2026
+"Cleveland, OH",8-Hour Ozone (2015),NAA,,0.075,2014-2016,0.073,,2022-2024,No,5/28/2025,ppm,Serious,2780440,7,5,OH,D,Ozone_8-hr.2015.Cleveland,2/28/2026
+"Cleveland, OH",Carbon Monoxide (1971),Maint,,,,5.1,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1280122,1,5,OH,C,CO.1990.Cleveland,2/28/2026
+"Cleveland, OH",Lead (2008),Maint,,0.17,,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,7816,1,5,OH,A,Lead.2008.Cleveland,2/28/2026
+"Cleveland, OH",PM-2.5 (2012),Maint,,12.4,,11.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,1581478,2,5,OH,B,PM-2.5.2012.Cleveland,2/28/2026
+"Cleveland-Akron-Lorain, OH",1-Hour Ozone (1979),Maint,Revoked,0.157,,0.089,,2022-2024,Yes,5/28/2025,ppm,Moderate,2881937,8,5,OH,E,Ozone_1-hr.1990.Cleveland,2/28/2026
+"Cleveland-Akron-Lorain, OH",8-Hour Ozone (1997),Maint,Revoked,0.103,,0.073,,2022-2024,Yes,5/28/2025,ppm,Moderate,2881937,8,5,OH,E,Ozone_8-hr.1997.Cleveland,2/28/2026
+"Cleveland-Akron-Lorain, OH",8-Hour Ozone (2008),Maint,,0.077,,0.073,,2022-2024,Yes,5/28/2025,ppm,Marginal,2881937,8,5,OH,F,Ozone_8-hr.2008.Cleveland,2/28/2026
+"Cleveland-Akron-Lorain, OH",PM-2.5 (1997),Maint,,18.3,,11.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,2709565,7,5,OH,C,PM-2.5.1997.Cleveland,2/28/2026
+"Cleveland-Akron-Lorain, OH",PM-2.5 (2006),Maint,,38,,,28,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,2687051,6,5,OH,C,PM-2.5.2006.Cleveland,2/28/2026
+"Clinton County, OH",1-Hour Ozone (1979),Maint,Revoked,0.121,,0.084,,2022-2024,Yes,5/28/2025,ppm,Section 185A,42040,1,5,OH,J,Ozone_1-hr.1990.Clinton_Co,2/28/2026
+"Cochise County; Paul Spur/Douglas planning area, AZ",PM-10 (1987),NAA,,,,,1.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,17495,1,9,AZ,B,PM-10.1990.Douglas,2/28/2026
+"Colbert County (part); TVA Colbert Plant, AL",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Secondary,54429,1,4,AL,A,SO2.1978.Colbert_Co,2/28/2026
+"Collin County, TX",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,782353,1,6,TX,A,Lead.1992.Collin_Co,2/28/2026
+"Colorado Springs, CO",Carbon Monoxide (1971),Maint,,,,1.1,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,555742,2,8,CO,C,CO.1990.Colorado_Springs,2/28/2026
+"Columbiana County, OH",1-Hour Ozone (1979),Maint,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,107841,1,5,OH,K,Ozone_1-hr.1990.Columbiana_Co,2/28/2026
+"Columbus, OH",1-Hour Ozone (1979),Maint,Revoked,0.131,,0.078,,2022-2024,Yes,5/28/2025,ppm,Marginal,1504120,3,5,OH,G,Ozone_1-hr.1990.Columbus,2/28/2026
+"Columbus, OH",8-Hour Ozone (1997),Maint,Revoked,0.095,,0.069,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,1754632,6,5,OH,I,Ozone_8-hr.1997.Columbus,2/28/2026
+"Columbus, OH",8-Hour Ozone (2008),Maint,,0.077,,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,1754632,6,5,OH,F,Ozone_8-hr.2008.Columbus,2/28/2026
+"Columbus, OH",8-Hour Ozone (2015),Maint,,0.071,2014-2016,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,1650276,4,5,OH,F,Ozone_8-hr.2015.Columbus,2/28/2026
+"Columbus, OH",PM-2.5 (1997),Maint,,16.7,,8.7,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,1651811,5,5,OH,C,PM-2.5.1997.Columbus,2/28/2026
+"Cook County; Lyons Township, IL",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,111688,1,5,IL,B,PM-10.1990.Lyons,2/28/2026
+"Cook County; Southeast Chicago, IL",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,3117,1,5,IL,B,PM-10.1990.Chicago,2/28/2026
+"Coshocton County; Franklin Township, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,1229,1,5,OH,A,SO2.1978.Coshocton_Co,2/28/2026
+"Coso Junction, CA",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,7333,1,9,CA,B,PM-10.1990.Coso_Junction,2/28/2026
+"Crawford County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,88765,1,3,PA,K,Ozone_1-hr.1990.Crawford_Co,2/28/2026
+"Cuyahoga County, OH",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,1280122,1,5,OH,B,PM-10.1990.Cleveland,2/28/2026
+"Cuyahoga County, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,996159,1,5,OH,A,SO2.1978.Cleveland,2/28/2026
+"Dakota County, MN",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,318833,1,5,MN,A,Lead.1992.Minneapolis,2/28/2026
+"Dallas-Fort Worth, TX",1-Hour Ozone (1979),NAA,Revoked,0.140,,0.106,,2022-2024,Yes,5/28/2025,ppm,Serious,5622128,4,6,TX,D,Ozone_1-hr.1990.Dallas,2/28/2026
+"Dallas-Fort Worth, TX",8-Hour Ozone (1997),NAA,Revoked,0.100,,0.083,,2022-2024,Yes,5/28/2025,ppm,Serious,6221286,9,6,TX,D,Ozone_8-hr.1997.Dallas,2/28/2026
+"Dallas-Fort Worth, TX",8-Hour Ozone (2008),NAA,,0.086,,0.083,,2022-2024,No,5/28/2025,ppm,Severe 15,6280413,10,6,TX,C,Ozone_8-hr.2008.Dallas,2/28/2026
+"Dallas-Fort Worth, TX",8-Hour Ozone (2015),NAA,,0.08,2014-2016,0.083,,2022-2024,No,5/28/2025,ppm,Serious,6202076,9,6,TX,D,Ozone_8-hr.2015.Dallas,2/28/2026
+"Dane County: Madison sub-city area, WI",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,488074,1,5,WI,A,SO2.1978.Madison,2/28/2026
+"Dayton-Springfield, OH",1-Hour Ozone (1979),Maint,Revoked,0.143,,0.082,,2022-2024,Yes,5/28/2025,ppm,Moderate,937565,4,5,OH,E,Ozone_1-hr.1990.Dayton,2/28/2026
+"Dayton-Springfield, OH",8-Hour Ozone (1997),Maint,Revoked,0.090,,0.069,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,937565,4,5,OH,I,Ozone_8-hr.1997.Dayton,2/28/2026
+"Dayton-Springfield, OH",PM-2.5 (1997),Maint,,15.2,,8.4,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,835059,3,5,OH,C,PM-2.5.1997.Dayton,2/28/2026
+"Delaware County, PA",PM-2.5 (2012),Maint,,12.3,,8.1,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,558979,1,3,PA,B,PM-2.5.2012.Delaware_Co,2/28/2026
+"Delta, OH",Lead (2008),Maint,,0.69,,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,3243,1,5,OH,A,Lead.2008.Delta,2/28/2026
+"Denver Metro/North Front Range, CO",8-Hour Ozone (2015),NAA,,0.08,2014-2016,0.081,,2022-2024,No,5/28/2025,ppm,Serious,3331223,9,8,CO,D,Ozone_8-hr.2015.Denver,2/28/2026
+"Denver-Boulder, CO",1-Hour Ozone (1979),Maint,Revoked,0.122,,0.099,,2022-2024,Yes,5/28/2025,ppm,Section 185A,2770524,7,8,CO,J,Ozone_1-hr.1990.Denver,2/28/2026
+"Denver-Boulder, CO",Carbon Monoxide (1971),Maint,,,,2.1,,2023-2024,Yes,5/6/2025,ppm,Serious,2610637,7,8,CO,A,CO.1990.Denver,2/28/2026
+"Denver-Boulder-Greeley-Ft. Collins-Loveland, CO",8-Hour Ozone (1997),NAA,Revoked,0.087,2001-2003,0.081,,2022-2024,Yes,5/28/2025,ppm,Marginal,3330139,9,8,CO,G,Ozone_8-hr.1997.Denver,2/28/2026
+"Denver-Boulder-Greeley-Ft. Collins-Loveland, CO",8-Hour Ozone (2008),NAA,,0.078,,0.081,,2022-2024,No,5/28/2025,ppm,Severe 15,3330139,9,8,CO,C,Ozone_8-hr.2008.Denver,2/28/2026
+"Detroit, MI",8-Hour Ozone (2015),Maint,,0.073,2014-2016,0.071,,2022-2024,No,5/28/2025,ppm,Moderate,4704743,7,5,MI,E,Ozone_8-hr.2015.Detroit,2/28/2026
+"Detroit, MI",Carbon Monoxide (1971),Maint,,,,1.9,,2023-2024,Yes,5/6/2025,ppm,Not Classified,1382239,3,5,MI,D,CO.1990.Detroit,2/28/2026
+"Detroit, MI",Sulfur Dioxide (2010),NAA,,90,,38,,2022-2024,Yes,5/6/2025,ppb,,254079,1,5,MI,A,SO2.2010.Detroit,2/28/2026
+"Detroit-Ann Arbor, MI",1-Hour Ozone (1979),Maint,Revoked,0.144,,0.090,,2022-2024,Yes,5/28/2025,ppm,Moderate,4704743,7,5,MI,E,Ozone_1-hr.1990.Detroit,2/28/2026
+"Detroit-Ann Arbor, MI",8-Hour Ozone (1997),Maint,Revoked,0.097,,0.071,,2022-2024,Yes,5/28/2025,ppm,Marginal,4804635,8,5,MI,G,Ozone_8-hr.1997.Detroit,2/28/2026
+"Detroit-Ann Arbor, MI",PM-2.5 (1997),Maint,,19.5,,12.3,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,4704743,7,5,MI,C,PM-2.5.1997.Detroit,2/28/2026
+"Detroit-Ann Arbor, MI",PM-2.5 (2006),Maint,,37,,,28,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,4704743,7,5,MI,C,PM-2.5.2006.Detroit,2/28/2026
+"Dona Ana County (part); Sunland Park, NM",1-Hour Ozone (1979),NAA,Revoked,0.127,,0.093,,2022-2024,Yes,5/28/2025,ppm,Marginal,12345,1,6,NM,G,Ozone_1-hr.1990.Sunland_Park,2/28/2026
+"Dona Ana County; Anthony, NM",PM-10 (1987),NAA,,,,,9.1,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,3096,1,6,NM,B,PM-10.1990.Anthony,2/28/2026
+"Door County, WI",1-Hour Ozone (1979),Maint,Revoked,0.126,,0.090,,2022-2024,Yes,5/28/2025,ppm,Rural Transport (Marginal),27785,1,5,WI,H,Ozone_1-hr.1990.Door_Co,2/28/2026
+"Door County, WI",8-Hour Ozone (1997),Maint,Revoked,0.094,,0.072,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,27785,1,5,WI,I,Ozone_8-hr.1997.Door_Co,2/28/2026
+"Door County, WI",8-Hour Ozone (2015),Maint,,0.072,2014-2016,0.071,,2022-2024,No,5/28/2025,ppm,Marginal (Rural Transport),31,1,5,WI,G,Ozone_8-hr.2015.Door_Co,2/28/2026
+"Door County-Revised, WI",8-Hour Ozone (2015),Maint,,0.072,2014-2016,0.071,,2022-2024,No,5/28/2025,ppm,Marginal (Rural Transport),17004,1,5,WI,G,Ozone_8-hr.2015.Door_Co_Revised,2/28/2026
+"Douglas (Cochise County), AZ",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,17495,1,9,AZ,A,SO2.1978.Douglas,2/28/2026
+"Douglas County (part); Portion of city of Omaha, NE",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,1242,1,7,NE,A,Lead.1992.Omaha,2/28/2026
+"Dukes County, MA",8-Hour Ozone (2008),NAA,,0.076,2008-2010,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,16535,1,1,MA,F,Ozone_8-hr.2008.Dukes_Co,2/28/2026
+"Duluth, MN",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,85857,1,5,MN,C,CO.1990.Duluth,2/28/2026
+"Eagan, MN",Lead (2008),NAA,,0.57,,0.14,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,8997,1,5,MN,A,Lead.2008.Eagan,2/28/2026
+"East Chicago, IN",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,5208,1,5,IN,D,CO.1990.East_Chicago,2/28/2026
+"East Helena Area, MT",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",2669,1,8,MT,A,SO2.1978.East_Helena,2/28/2026
+"East Kern County, CA",1-Hour Ozone (1979),Maint,Revoked,0.170,,0.085,,2022-2024,Yes,5/28/2025,ppm,Serious,141398,1,9,CA,D,Ozone_1-hr.1990.East_Kern,2/28/2026
+"East Kern County, CA",PM-10 (1987),NAA,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Serious,125950,1,9,CA,A,PM-10.1990.East_Kern,2/28/2026
+"Edmonson County, KY",1-Hour Ozone (1979),Maint,Revoked,0.140,,0.074,,2022-2024,Yes,5/28/2025,ppm,Rural Transport (Marginal),12161,1,4,KY,H,Ozone_1-hr.1990.Edmonson_Co,2/28/2026
+"El Paso County, TX",PM-10 (1987),NAA,,,,,13.8,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,649121,1,6,TX,B,PM-10.1990.El_Paso,2/28/2026
+"El Paso, TX",1-Hour Ozone (1979),NAA,Revoked,0.170,,0.090,,2022-2024,Yes,5/28/2025,ppm,Serious,800647,1,6,TX,D,Ozone_1-hr.1990.El_Paso,2/28/2026
+"El Paso, TX",Carbon Monoxide (1971),Maint,,,,3.0,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,73100,1,6,TX,C,CO.1990.El_Paso,2/28/2026
+"El Paso-Las Cruces, TX-NM",8-Hour Ozone (2015),NAA,,0.072,2014-2016,0.076,,2022-2024,No,5/28/2025,ppm,Marginal,813322,2,6,TX-NM,F,Ozone_8-hr.2015.El_Paso,2/28/2026
+"Erie, PA",1-Hour Ozone (1979),NAA,Revoked,0.129,,0.076,,2022-2024,Yes,5/28/2025,ppm,Marginal,280566,1,3,PA,G,Ozone_1-hr.1990.Erie,2/28/2026
+"Erie, PA",8-Hour Ozone (1997),Maint,Revoked,0.092,,0.063,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,280566,1,3,PA,I,Ozone_8-hr.1997.Erie,2/28/2026
+"Essex County (Whiteface Mtn.), NY",8-Hour Ozone (1997),NAA,Revoked,0.091,,0.064,,2022-2024,Yes,5/28/2025,ppm,Marginal,465,1,2,NY,G,Ozone_8-hr.1997.Whiteface_Mountain,2/28/2026
+"Essex County; Whiteface Mountain, NY",1-Hour Ozone (1979),NAA,Revoked,0.127,,0.074,,2022-2024,Yes,5/28/2025,ppm,Rural Transport (Marginal),0,1,2,NY,H,Ozone_1-hr.1990.Whiteface_Mountain,2/28/2026
+"Eugene-Springfield, OR",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,234972,1,10,OR,D,CO.1990.Eugene,2/28/2026
+"Evangeline Parish (Partial), LA",Sulfur Dioxide (2010),NAA,,,,,,2022-2024,,5/6/2025,ppb,,124,1,,LA,A,SO2.2010.Evangeline_Par,2/28/2026
+"Evansville, IN",1-Hour Ozone (1979),Maint,Revoked,0.124,,0.083,,2022-2024,Yes,5/28/2025,ppm,Marginal,179703,1,5,IN,G,Ozone_1-hr.1990.Evansville,2/28/2026
+"Evansville, IN",8-Hour Ozone (1997),Maint,Revoked,0.085,,0.069,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,239392,2,5,IN,I,Ozone_8-hr.1997.Evansville,2/28/2026
+"Evansville, IN",PM-2.5 (1997),Maint,,16.2,,9.0,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,296995,6,5,IN,C,PM-2.5.1997.Evansville,2/28/2026
+"Fairbanks, AK",Carbon Monoxide (1971),Maint,,,,2.1,,2023-2024,Yes,5/6/2025,ppm,Serious,46211,1,10,AK,A,CO.1990.Fairbanks,2/28/2026
+"Fairbanks, AK",PM-2.5 (2006),NAA,,41,,,64,2022-2024,No,5/28/2025,&micro;g/m<sup>3</sup>,Serious,87456,1,10,AK,A,PM-2.5.2006.Fairbanks,2/28/2026
+"Fayette County, TN",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,38033,1,4,TN,A,Lead.1992.Fayette_Co,2/28/2026
+"Flathead County; Columbia Falls and vicinity, MT",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,4610,1,8,MT,B,PM-10.1990.Columbia_Falls,2/28/2026
+"Flathead County; Kalispell and vicinity, MT",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,18422,1,8,MT,B,PM-10.1990.Kalispell,2/28/2026
+"Flathead County; Whitefish and vicinity, MT",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,6138,1,8,MT,B,PM-10.1990.Whitefish,2/28/2026
+"Flint, MI",1-Hour Ozone (1979),Maint,Revoked,0.124,,0.081,,2022-2024,Yes,5/28/2025,ppm,Section 185A,425790,1,5,MI,J,Ozone_1-hr.1990.Flint,2/28/2026
+"Flint, MI",8-Hour Ozone (1997),Maint,Revoked,0.090,,0.067,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,514109,2,5,MI,I,Ozone_8-hr.1997.Flint,2/28/2026
+"Fort Collins, CO",Carbon Monoxide (1971),Maint,,,,1.1,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,170639,1,8,CO,C,CO.1990.Fort_Collins,2/28/2026
+"Fort Wayne, IN",8-Hour Ozone (1997),Maint,Revoked,0.088,,0.070,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,355329,1,5,IN,I,Ozone_8-hr.1997.Fort_Wayne,2/28/2026
+"Franklin County, PA",1-Hour Ozone (1979),NAA,Revoked,,,0.078,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,149618,1,3,PA,K,Ozone_1-hr.1990.Franklin_Co,2/28/2026
+"Franklin County, PA",8-Hour Ozone (1997),Maint,Revoked,0.093,,0.062,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,149618,1,3,PA,I,Ozone_8-hr.1997.Franklin_Co,2/28/2026
+"Fredericksburg, VA",8-Hour Ozone (1997),Maint,Revoked,0.099,,0.060,,2022-2024,Yes,5/28/2025,ppm,Moderate,275644,3,3,VA,E,Ozone_8-hr.1997.Fredericksburg,2/28/2026
+"Freehold, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,12734,1,2,NJ,D,CO.1990.Freehold,2/28/2026
+"Freestone and Anderson Counties, TX",Sulfur Dioxide (2010),NAA,,,,10,,2022-2024,,5/6/2025,ppb,,4094,2,6,TX,A,SO2.2010.Freestone_Anderson_Cos,2/28/2026
+"Fremont County; Canon City Area, CO",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,18860,1,8,CO,B,PM-10.1990.Canon_City,2/28/2026
+"Fresno, CA",Carbon Monoxide (1971),Maint,,,,1.5,,2023-2024,Yes,5/6/2025,ppm,Moderate > 12.7ppm,631483,1,9,CA,B,CO.1990.Fresno,2/28/2026
+"Frisco, TX",Lead (2008),Maint,,0.32,,0.08,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,3670,1,6,TX,A,Lead.2008.Collin_Co,2/28/2026
+"Gallia County; Addison Township, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Secondary,2197,1,5,OH,A,SO2.1978.Addison,2/28/2026
+"Gila County (part): Payson, AZ",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,5333,1,9,AZ,B,PM-10.1990.Payson,2/28/2026
+"Giles County, VA",Sulfur Dioxide (2010),NAA,,,,39,,2022-2024,Yes,5/6/2025,ppb,,183,1,4,VA,A,SO2.2010.Giles_Co,2/28/2026
+"Grand Rapids, MI",1-Hour Ozone (1979),Maint,Revoked,0.143,,0.086,,2022-2024,Yes,5/28/2025,ppm,Moderate,866423,2,5,MI,E,Ozone_1-hr.1990.Grand_Rapids,2/28/2026
+"Grand Rapids, MI",8-Hour Ozone (1997),Maint,Revoked,0.089,,0.070,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,866423,2,5,MI,I,Ozone_8-hr.1997.Grand_Rapids,2/28/2026
+"Granite City, IL",Lead (2008),Maint,,0.28,,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,38901,1,5,IL,A,Lead.2008.Granite_City,2/28/2026
+"Grant County, NM",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,29514,1,6,NM,A,SO2.1978.Grant_Co,2/28/2026
+"Grant Parish, LA",1-Hour Ozone (1979),Maint,Revoked,0.091,,,,,,5/28/2025,ppm,Incomplete Data,22309,1,6,LA,K,Ozone_1-hr.1990.Grant_Par,2/28/2026
+"Grants Pass, OR",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,22449,1,10,OR,C,CO.1990.Grants_Pass,2/28/2026
+"Great Falls, MT",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,57573,1,8,MT,D,CO.1990.Great_Falls,2/28/2026
+"Greater Connecticut, CT",1-Hour Ozone (1979),NAA,Revoked,0.172,,0.104,,2022-2024,Yes,5/28/2025,ppm,Serious,2666958,8,1,CT,D,Ozone_1-hr.1990.Connecticut,2/28/2026
+"Greater Connecticut, CT",8-Hour Ozone (1997),NAA,Revoked,0.095,,0.072,,2022-2024,Yes,5/28/2025,ppm,Moderate,1629115,5,1,CT,E,Ozone_8-hr.1997.Connecticut,2/28/2026
+"Greater Connecticut, CT",8-Hour Ozone (2008),NAA,,0.079,,0.072,,2022-2024,Yes,5/28/2025,ppm,Serious,1629115,5,1,CT,D,Ozone_8-hr.2008.Connecticut,2/28/2026
+"Greater Connecticut, CT",8-Hour Ozone (2015),NAA,,0.074,2014-2016,0.072,,2022-2024,No,5/28/2025,ppm,Serious,1629115,5,1,CT,D,Ozone_8-hr.2015.Connecticut,2/28/2026
+"Greeley, CO",Carbon Monoxide (1971),Maint,,,,0.8,,2023-2024,Yes,5/6/2025,ppm,Not Classified,138101,1,8,CO,D,CO.1990.Greeley,2/28/2026
+"Greenbrier, WV",1-Hour Ozone (1979),Maint,Revoked,0.125,,0.065,,2022-2024,Yes,5/28/2025,ppm,Marginal,35480,1,4,WV,G,Ozone_1-hr.1990.Greenbrier,2/28/2026
+"Greene County, IN",8-Hour Ozone (1997),Maint,Revoked,0.088,,0.068,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,33165,1,5,IN,I,Ozone_8-hr.1997.Greene_Co_IN,2/28/2026
+"Greene County, PA",1-Hour Ozone (1979),NAA,Revoked,,,0.073,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,38686,1,3,PA,K,Ozone_1-hr.1990.Greene_Co_PA,2/28/2026
+"Greene County, PA",8-Hour Ozone (1997),Maint,Revoked,0.089,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Former Subpart 1,38686,1,3,PA,I,Ozone_8-hr.1997.Greene_Co_PA,2/28/2026
+"Greensboro-Winston Salem-High Point, NC",PM-2.5 (1997),Maint,,15.8,,8.8,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,651284,2,4,NC,C,PM-2.5.1997.Greensboro,2/28/2026
+"Greensboro-Winston-Salem-High Point, NC",1-Hour Ozone (1979),Maint,Revoked,0.151,,0.080,,2022-2024,Yes,5/28/2025,ppm,Moderate,1001955,4,4,NC,E,Ozone_1-hr.1990.Greensboro,2/28/2026
+"Guayama-Salinas, PR",Sulfur Dioxide (2010),NAA,,,,,,2022-2024,,5/6/2025,ppb,,23401,1,,PR,A,SO2.2010.Guayama-Salinas,2/28/2026
+"Hancock County (part): Weirton, WV",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",15801,1,3,WV,A,SO2.1978.Weirton,2/28/2026
+"Hancock County and Waldo County, ME",1-Hour Ozone (1979),Maint,Revoked,0.133,,0.084,,2022-2024,Yes,5/28/2025,ppm,Marginal,93204,2,1,ME,G,Ozone_1-hr.1990.Hancock_and_Waldo_Cos,2/28/2026
+"Hancock and Brooke Counties (Part); The city of Weirton, WV",PM-10 (1987),Maint,,,,,0.7,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,14199,2,3,WV,B,PM-10.1990.Weirton,2/28/2026
+"Hancock, Knox, Lincoln and Waldo Counties (Central Maine Coast), ME",8-Hour Ozone (1997),Maint,Revoked,0.094,,0.066,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,97265,4,1,ME,I,Ozone_8-hr.1997.Central_Maine_Coast,2/28/2026
+"Harrisburg-Lebanon-Carlisle, PA",1-Hour Ozone (1979),NAA,Revoked,0.136,,0.081,,2022-2024,Yes,5/28/2025,ppm,Marginal,683043,4,3,PA,G,Ozone_1-hr.1990.Harrisburg,2/28/2026
+"Harrisburg-Lebanon-Carlisle, PA",8-Hour Ozone (1997),Maint,Revoked,0.088,,0.067,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,683043,4,3,PA,I,Ozone_8-hr.1997.Harrisburg,2/28/2026
+"Harrisburg-Lebanon-Carlisle, PA",PM-2.5 (1997),Maint,,15.8,,9.4,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,637074,3,3,PA,B,PM-2.5.1997.Harrisburg,2/28/2026
+"Harrisburg-Lebanon-Carlisle-York, PA",PM-2.5 (2006),Maint,,36,,,26,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,1072046,4,3,PA,B,PM-2.5.2006.Harrisburg,2/28/2026
+"Hartford-New Britain-Middletown, CT",Carbon Monoxide (1971),Maint,,,,1.1,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1106678,4,1,CT,C,CO.1990.Hartford,2/28/2026
+"Hayden (Pinal County), AZ",Sulfur Dioxide (1971),NAA,,,,5,33,2019,Yes,6/8/2020,ppb,Primary,4844,1,9,AZ,A,SO2.1978.Hayden,2/28/2026
+"Hayden, AZ",Lead (2008),NAA,,0.20,2007-2009,0.05,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,4630,2,9,AZ,A,Lead.2008.Hayden,2/28/2026
+"Hayden, AZ",PM-10 (1987),NAA,,,,,2.0,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,11048,2,9,AZ,B,PM-10.1990.Hayden,2/28/2026
+"Hayden, AZ",Sulfur Dioxide (2010),NAA,,259,,2,,2022-2024,Yes,5/6/2025,ppb,,4630,2,9,AZ,A,SO2.2010.Hayden,2/28/2026
+"Haywood and Swain Counties (Great Smoky NP), NC",8-Hour Ozone (1997),Maint,Revoked,0.085,,0.066,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,4273,2,4,NC,I,Ozone_8-hr.1997.Haywood_and_Swain_Cos,2/28/2026
+"Henderson-Webster Counties, KY",Sulfur Dioxide (2010),NAA,,,,82,,2022-2024,No,5/6/2025,ppb,,6932,2,4,KY,A,SO2.2010.Henderson_Webster_Cos,2/28/2026
+"Hickory-Morganton-Lenoir, NC",PM-2.5 (1997),Maint,,15.5,,8.1,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,154358,1,4,NC,C,PM-2.5.1997.Hickory,2/28/2026
+"Hillsborough County, FL",Sulfur Dioxide (2010),Maint,,103,,39,,2022-2024,Yes,5/6/2025,ppb,,17477,1,4,FL,A,SO2.2010.Tampa,2/28/2026
+"Hillsborough-Polk County, FL",Sulfur Dioxide (2010),Maint,,,,,,2022-2024,,5/6/2025,ppb,,2191,2,,FL,A,SO2.2010.Hillsborough_Polk_Cos,2/28/2026
+"Houston-Galveston-Brazoria, TX",1-Hour Ozone (1979),NAA,Revoked,0.220,,0.125,,2022-2024,No,5/28/2025,ppm,Severe-17,5891999,8,6,TX,B,Ozone_1-hr.1990.Houston,2/28/2026
+"Houston-Galveston-Brazoria, TX",8-Hour Ozone (1997),NAA,Revoked,0.102,,0.084,,2022-2024,Yes,5/28/2025,ppm,Severe 15,5891999,8,6,TX,C,Ozone_8-hr.1997.Houston,2/28/2026
+"Houston-Galveston-Brazoria, TX",8-Hour Ozone (2008),NAA,,0.084,,0.084,,2022-2024,No,5/28/2025,ppm,Severe 15,5891999,8,6,TX,C,Ozone_8-hr.2008.Houston,2/28/2026
+"Houston-Galveston-Brazoria, TX",8-Hour Ozone (2015),NAA,,0.079,2014-2016,0.084,,2022-2024,No,5/28/2025,ppm,Serious,5773151,6,6,TX,D,Ozone_8-hr.2015.Houston,2/28/2026
+"Howard County, TX",Sulfur Dioxide (2010),NAA,,,,224,,2022-2024,No,5/6/2025,ppb,,281,1,6,TX,A,SO2.2010.Howard_Co,2/28/2026
+"Humphreys County; (part) TVA Johnsonville, TN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",18539,1,4,TN,A,SO2.1978.Humphreys_Co,2/28/2026
+"Huntington, IN",Sulfur Dioxide (2010),Maint,,,,,,2022-2024,,5/6/2025,ppb,,20838,1,,IN,A,SO2.2010.Huntington_IN,2/28/2026
+"Huntington-Ashland, WV-KY",1-Hour Ozone (1979),Maint,Revoked,0.164,,0.078,,2022-2024,Yes,5/28/2025,ppm,Moderate,205476,4,3-4,WV-KY,E,Ozone_1-hr.1990.Huntington,2/28/2026
+"Huntington-Ashland, WV-KY",8-Hour Ozone (1997),Maint,Revoked,0.091,,0.063,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,188342,3,3-4,WV-KY,I,Ozone_8-hr.1997.Huntington,2/28/2026
+"Huntington-Ashland, WV-KY-OH",PM-2.5 (1997),Maint,,17.2,,7.9,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,343182,9,3-4-5,WV-KY-OH,C,PM-2.5.1997.Huntington,2/28/2026
+"Huron County, MI",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.068,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,33118,1,5,MI,I,Ozone_8-hr.1997.Huron_Co,2/28/2026
+"Hutchinson County, TX",Sulfur Dioxide (2010),NAA,,,,113,,2022-2024,No,5/6/2025,ppb,,14593,1,6,TX,A,SO2.2010.Hutchinson_Co,2/28/2026
+"Imperial County, CA",1-Hour Ozone (1979),NAA,Revoked,0.110,,0.113,,2022-2024,Yes,5/28/2025,ppm,Section 185A,174528,1,9,CA,J,Ozone_1-hr.1990.Imperial_Co,2/28/2026
+"Imperial County, CA",8-Hour Ozone (1997),NAA,Revoked,0.087,,0.077,,2022-2024,Yes,5/28/2025,ppm,Moderate,174528,1,9,CA,E,Ozone_8-hr.1997.Imperial_Co,2/28/2026
+"Imperial County, CA",8-Hour Ozone (2008),NAA,,0.078,,0.077,,2022-2024,No,5/28/2025,ppm,Moderate,174528,1,9,CA,E,Ozone_8-hr.2008.Imperial_Co,2/28/2026
+"Imperial County, CA",8-Hour Ozone (2015),NAA,,0.076,2014-2016,0.077,,2022-2024,No,5/28/2025,ppm,Marginal,174528,1,9,CA,F,Ozone_8-hr.2015.Imperial_Co,2/28/2026
+"Imperial County, CA",PM-2.5 (2006),NAA,,36,,,33,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,154061,1,9,CA,B,PM-2.5.2006.Imperial_Co,2/28/2026
+"Imperial County, CA",PM-2.5 (2012),NAA,,14.3,,10.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,154061,1,9,CA,B,PM-2.5.2012.Imperial_Co,2/28/2026
+"Imperial Valley, CA",PM-10 (1987),Maint,,,,,13.0,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,146905,1,9,CA,A,PM-10.1990.Imperial_Co,2/28/2026
+"Indian Wells, CA",PM-10 (1987),Maint,,,,,1.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,15449,1,9,CA,B,PM-10.1990.Indian_Wells,2/28/2026
+"Indiana, PA",Sulfur Dioxide (2010),NAA,,82,,19,,2022-2024,Yes,5/6/2025,ppb,,92778,2,3,PA,A,SO2.2010.Indiana_Co,2/28/2026
+"Indianapolis, IN",1-Hour Ozone (1979),Maint,Revoked,0.121,,0.085,,2022-2024,Yes,5/28/2025,ppm,Marginal,903393,1,5,IN,G,Ozone_1-hr.1990.Indianapolis,2/28/2026
+"Indianapolis, IN",8-Hour Ozone (1997),Maint,Revoked,0.096,,0.071,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,1834672,9,5,IN,I,Ozone_8-hr.1997.Indianapolis,2/28/2026
+"Indianapolis, IN",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,61160,1,5,IN,D,CO.1990.Indianapolis,2/28/2026
+"Indianapolis, IN",PM-2.5 (1997),Maint,,16.7,,11.5,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,1531958,5,5,IN,C,PM-2.5.1997.Indianapolis,2/28/2026
+"Indianapolis, IN",Sulfur Dioxide (2010),Maint,,80,,3,,2022-2024,Yes,5/6/2025,ppb,,388587,1,5,IN,A,SO2.2010.Indianapolis,2/28/2026
+"Inland Sheboygan County, WI",8-Hour Ozone (1997),NAA,Revoked,0.100,,0.070,,2022-2024,Yes,5/28/2025,ppm,Moderate,53851,1,5,WI,E,Ozone_8-hr.1997.Sheboygan_Inland,2/28/2026
+"Inland Sheboygan County, WI",8-Hour Ozone (2008),Maint,,0.078,,0.070,,2022-2024,Yes,5/28/2025,ppm,Moderate,53851,1,5,WI,E,Ozone_8-hr.2008.Sheboygan_Inland,2/28/2026
+"Inyo County; Owens Valley planning area, CA",PM-10 (1987),NAA,,,,,8.8,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,7333,1,9,CA,A,PM-10.1990.Owens_Valley,2/28/2026
+"Iron County (part); Dent Township, MO",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,1194,1,7,MO,A,Lead.1992.Dent,2/28/2026
+"Iron County (part); Liberty and Arcadia, MO",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,6066,1,7,MO,A,Lead.1992.Liberty,2/28/2026
+"Iron, Dent, and Reynolds Counties, MO",Lead (2008),NAA,,2.46,,0.21,,2022-2024,No,5/6/2025,&micro;g/m<sup>3</sup>,,460,3,7,MO,A,Lead.2008.Iron,2/28/2026
+"Jackson County, IN",8-Hour Ozone (1997),Maint,Revoked,0.085,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Former Subpart 1,42376,1,5,IN,I,Ozone_8-hr.1997.Jackson_Co,2/28/2026
+"Jackson County, MO",Sulfur Dioxide (2010),Maint,,159,,6,,2022-2024,Yes,5/6/2025,ppb,,57293,1,7,MO,A,SO2.2010.Kansas_City,2/28/2026
+"Jackson County; Medford-Ashland (including White City), OR",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,87458,1,10,OR,B,PM-10.1990.Medford,2/28/2026
+"Jacksonville, FL",1-Hour Ozone (1979),Maint,Revoked,0.119,,0.078,,2022-2024,Yes,5/28/2025,ppm,Section 185A,864263,1,4,FL,J,Ozone_1-hr.1990.Jacksonville,2/28/2026
+"Jamestown, NY",8-Hour Ozone (1997),NAA,Revoked,0.094,,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,134905,1,2,NY,E,Ozone_8-hr.1997.Jamestown,2/28/2026
+"Jamestown, NY",8-Hour Ozone (2008),NAA,,0.077,,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,134905,1,2,NY,F,Ozone_8-hr.2008.Jamestown,2/28/2026
+"Jefferson County (part); Herculaneum, MO",Lead (1978),NAA,,,,2.9,,2009-2010,No,7/12/2011,&micro;g/m<sup>3</sup>,,2560,1,7,MO,A,Lead.1992.Herculaneum,2/28/2026
+"Jefferson County, AL",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,658472,1,4,AL,A,Lead.1992.Birmingham,2/28/2026
+"Jefferson County, KY",Sulfur Dioxide (2010),Maint,,112,,15,,2022-2024,Yes,5/6/2025,ppb,,3185,1,4,KY,A,SO2.2010.Louisville,2/28/2026
+"Jefferson County, MO",Lead (2008),NAA,,2.89,,0.04,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,4814,1,7,MO,A,Lead.2008.Herculaneum,2/28/2026
+"Jefferson County, MO",Sulfur Dioxide (2010),Maint,,289,,14,,2022-2024,Yes,5/6/2025,ppb,,61933,1,7,MO,A,SO2.2010.Herculaneum,2/28/2026
+"Jefferson County, NY",1-Hour Ozone (1979),NAA,Revoked,0.143,,0.073,,2022-2024,Yes,5/28/2025,ppm,Marginal,116229,1,2,NY,G,Ozone_1-hr.1990.Jefferson_Co,2/28/2026
+"Jefferson County, NY",8-Hour Ozone (1997),NAA,Revoked,0.097,,0.060,,2022-2024,Yes,5/28/2025,ppm,Moderate,116229,1,2,NY,E,Ozone_8-hr.1997.Jefferson_Co,2/28/2026
+"Jefferson County, OH",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,3472,1,5,OH,B,PM-10.1990.Jefferson_Co,2/28/2026
+"Jefferson County; (part) Steubenville & Mingo Junction, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,69712,1,5,OH,A,SO2.1978.Jefferson_Co,2/28/2026
+"Jersey County, IL",1-Hour Ozone (1979),Maint,Revoked,0.128,,0.090,,2022-2024,Yes,5/28/2025,ppm,Marginal,22985,1,5,IL,G,Ozone_1-hr.1990.Jersey_Co,2/28/2026
+"Johnstown, PA",1-Hour Ozone (1979),NAA,Revoked,0.133,,0.074,,2022-2024,Yes,5/28/2025,ppm,Marginal,221421,2,3,PA,G,Ozone_1-hr.1990.Johnstown,2/28/2026
+"Johnstown, PA",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.063,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,143679,1,3,PA,I,Ozone_8-hr.1997.Johnstown,2/28/2026
+"Johnstown, PA",PM-2.5 (1997),Maint,,15.8,,8.0,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,156923,2,3,PA,B,PM-2.5.1997.Johnstown,2/28/2026
+"Johnstown, PA",PM-2.5 (2006),Maint,,39,2006-2008,,21,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,156923,2,3,PA,B,PM-2.5.2006.Johnstown,2/28/2026
+"Josephine County; Grants Pass, OR",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,22449,1,10,OR,B,PM-10.1990.Grants_Pass,2/28/2026
+"Juneau; Mendenhall Valley area, AK",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,14030,1,10,AK,B,PM-10.1990.Juneau,2/28/2026
+"Juniata County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,24636,1,3,PA,K,Ozone_1-hr.1990.Juniata_Co,2/28/2026
+"Kalamazoo-Battle Creek, MI",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.067,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,462735,3,5,MI,I,Ozone_8-hr.1997.Kalamazoo,2/28/2026
+"Kansas City, MO-KS",1-Hour Ozone (1979),Maint,Revoked,0.120,,0.090,,2022-2024,Yes,5/28/2025,ppm,Other,1687103,5,7-7,MO-KS,F,Ozone_1-hr.1990.Kansas_City,2/28/2026
+"Kent County and Queen Anne's County, MD",1-Hour Ozone (1979),Maint,Revoked,0.131,,0.082,,2022-2024,Yes,5/28/2025,ppm,Marginal,67995,2,3,MD,G,Ozone_1-hr.1990.Kent_and_Queen_Annes_Cos,2/28/2026
+"Kent and Queen Anne's Counties, MD",8-Hour Ozone (1997),Maint,Revoked,0.095,,0.068,,2022-2024,Yes,5/28/2025,ppm,Marginal,67995,2,3,MD,G,Ozone_8-hr.1997.Kent_and_Queen_Annes_Cos,2/28/2026
+"Kern County (Eastern Kern), CA",8-Hour Ozone (1997),NAA,Revoked,0.098,,0.075,,2022-2024,Yes,5/28/2025,ppm,Moderate,95314,1,9,CA,E,Ozone_8-hr.1997.East_Kern,2/28/2026
+"Kern County (Eastern Kern), CA",8-Hour Ozone (2008),NAA,,0.083,,0.075,,2022-2024,Yes,5/28/2025,ppm,Severe 15,95176,1,9,CA,C,Ozone_8-hr.2008.East_Kern,2/28/2026
+"Kern County (Eastern Kern), CA",8-Hour Ozone (2015),NAA,,0.084,2014-2016,0.075,,2022-2024,No,5/28/2025,ppm,Serious,95066,1,9,CA,D,Ozone_8-hr.2015.East_Kern,2/28/2026
+"Kewaunee County, WI",1-Hour Ozone (1979),Maint,Revoked,0.147,,0.098,,2022-2024,Yes,5/28/2025,ppm,Moderate,20574,1,5,WI,E,Ozone_1-hr.1990.Kewaunee_Co,2/28/2026
+"Kewaunee County, WI",8-Hour Ozone (1997),Maint,Revoked,0.093,,0.071,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,20574,1,5,WI,I,Ozone_8-hr.1997.Kewaunee_Co,2/28/2026
+"King County; Kent, WA",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,47315,1,10,WA,B,PM-10.1990.Kent,2/28/2026
+"King County; Seattle, WA",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,661062,1,10,WA,B,PM-10.1990.Seattle,2/28/2026
+"Klamath Falls, OR",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,20703,1,10,OR,C,CO.1990.Klamath_Falls,2/28/2026
+"Klamath Falls, OR",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,20703,1,10,OR,B,PM-10.1990.Klamath_Falls,2/28/2026
+"Klamath Falls, OR",PM-2.5 (2006),NAA,,46,,,34,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,46969,1,10,OR,B,PM-2.5.2006.Klamath_Falls,2/28/2026
+"Knox County and Lincoln County, ME",1-Hour Ozone (1979),NAA,Revoked,0.158,,0.070,,2022-2024,Yes,5/28/2025,ppm,Moderate,74193,2,1,ME,E,Ozone_1-hr.1990.Knox_and_Lincoln_Cos,2/28/2026
+"Knoxville, TN",1-Hour Ozone (1979),Maint,Revoked,0.135,,0.075,,2022-2024,Yes,5/28/2025,ppm,Marginal,432226,1,4,TN,G,Ozone_1-hr.1990.Knoxville,2/28/2026
+"Knoxville, TN",8-Hour Ozone (1997),Maint,Revoked,0.092,,0.068,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,821883,7,4,TN,I,Ozone_8-hr.1997.Knoxville,2/28/2026
+"Knoxville, TN",8-Hour Ozone (2008),Maint,,0.077,2008-2010,0.068,,2022-2024,Yes,5/28/2025,ppm,Marginal,573452,3,4,TN,F,Ozone_8-hr.2008.Knoxville,2/28/2026
+"Knoxville, TN",PM-2.5 (1997),Maint,,16.8,,8.6,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,681523,5,4,TN,B,PM-2.5.1997.Knoxville,2/28/2026
+"Knoxville-Sevierville-La Follette, TN",PM-2.5 (2006),Maint,,37,2006-2008,,21,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,681523,5,4,TN,B,PM-2.5.2006.Knoxville,2/28/2026
+"La Porte County, IN",8-Hour Ozone (1997),Maint,Revoked,0.093,,0.071,,2022-2024,Yes,5/28/2025,ppm,Marginal,111467,1,5,IN,G,Ozone_8-hr.1997.La_Porte_Co,2/28/2026
+"La Porte County, IN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,111471,1,5,IN,A,SO2.1978.La_Porte_Co,2/28/2026
+"LaSalle County; Oglesby, IL",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,3862,1,5,IL,B,PM-10.1990.Oglesby,2/28/2026
+"Lafayette, LA",1-Hour Ozone (1979),Maint,Revoked,0.105,,0.081,,2022-2024,Yes,5/28/2025,ppm,Section 185A,221578,1,6,LA,J,Ozone_1-hr.1990.Lafayette,2/28/2026
+"Lafourche Parish, LA",1-Hour Ozone (1979),Maint,Revoked,0.107,,0.077,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,96318,1,6,LA,K,Ozone_1-hr.1990.Lafourche_Par,2/28/2026
+"Lake Charles, LA",1-Hour Ozone (1979),Maint,Revoked,0.131,,0.094,,2022-2024,Yes,5/28/2025,ppm,Marginal,192768,1,6,LA,G,Ozone_1-hr.1990.Lake_Charles,2/28/2026
+"Lake County (part); Lakeview, OR",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,3296,1,10,OR,B,PM-10.1990.Lakeview,2/28/2026
+"Lake County, IN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,496000,1,5,IN,A,SO2.1978.Lake_Co_IN,2/28/2026
+"Lake County, OH",Sulfur Dioxide (2010),Maint,,157,,11,,2022-2024,Yes,5/6/2025,ppb,,230041,1,5,OH,A,SO2.2010.Lake_Co_OH,2/28/2026
+"Lake County; (part) Eastlake, Timberlake, Lakeline, Willoughby, Mentor, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,229760,1,5,OH,A,SO2.1978.Lake_Co_OH,2/28/2026
+"Lake County; Cities of East Chicago, Hammond, Whiting, and Gary, IN",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,214867,1,5,IN,B,PM-10.1990.East_Chicago,2/28/2026
+"Lake County; Polson, MT",PM-10 (1987),NAA,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,4099,1,8,MT,B,PM-10.1990.Polson,2/28/2026
+"Lake County; Ronan, MT",PM-10 (1987),NAA,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,2734,1,8,MT,B,PM-10.1990.Ronan,2/28/2026
+"Lake Tahoe North Shore, CA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,16132,1,9,CA,D,CO.1990.Lake_Tahoe_North,2/28/2026
+"Lake Tahoe South Shore, CA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,43110,1,9,CA,C,CO.1990.Lake_Tahoe_South,2/28/2026
+"Lake Tahoe, NV",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,33259,3,9,NV,D,CO.1990.Lake_Tahoe,2/28/2026
+"Lancaster, PA",1-Hour Ozone (1979),NAA,Revoked,0.125,,0.078,,2022-2024,Yes,5/28/2025,ppm,Marginal,519445,1,3,PA,G,Ozone_1-hr.1990.Lancaster,2/28/2026
+"Lancaster, PA",8-Hour Ozone (1997),Maint,Revoked,0.092,,0.065,,2022-2024,Yes,5/28/2025,ppm,Marginal,519445,1,3,PA,G,Ozone_8-hr.1997.Lancaster,2/28/2026
+"Lancaster, PA",8-Hour Ozone (2008),NAA,,0.077,2008-2010,0.065,,2022-2024,Yes,5/28/2025,ppm,Marginal,519445,1,3,PA,F,Ozone_8-hr.2008.Lancaster,2/28/2026
+"Lancaster, PA",PM-2.5 (1997),Maint,,17.0,,9.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,519445,1,3,PA,B,PM-2.5.1997.Lancaster,2/28/2026
+"Lancaster, PA",PM-2.5 (2006),Maint,,37,,,25,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,519445,1,3,PA,B,PM-2.5.2006.Lancaster,2/28/2026
+"Lane County (part); Oakridge, OR",PM-10 (1987),Maint,,,,,6.7,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,3728,1,10,OR,B,PM-10.1990.Oakridge,2/28/2026
+"Lane County; Eugene/Springfield, OR",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,195160,1,10,OR,B,PM-10.1990.Eugene,2/28/2026
+"Lansing-East Lansing, MI",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.064,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,464036,3,5,MI,I,Ozone_8-hr.1997.Lansing,2/28/2026
+"Las Vegas, NV",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.073,,2022-2024,Yes,5/28/2025,ppm,Marginal,1918819,1,9,NV,G,Ozone_8-hr.1997.Las_Vegas,2/28/2026
+"Las Vegas, NV",8-Hour Ozone (2015),NAA,,0.074,2014-2016,0.073,,2022-2024,No,5/28/2025,ppm,Serious,1892250,1,9,NV,D,Ozone_8-hr.2015.Las_Vegas,2/28/2026
+"Las Vegas, NV",Carbon Monoxide (1971),Maint,,,,2.6,,2023-2024,Yes,5/6/2025,ppm,Serious,679034,1,9,NV,A,CO.1990.Las_Vegas,2/28/2026
+"Lauderdale County (part); TVA Colbert Plant, AL",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Secondary,92707,1,4,AL,A,SO2.1978.Lauderdale_Co,2/28/2026
+"Laurel Area (Yellowstone County), MT",Sulfur Dioxide (1971),NAA,,,,,,,,6/8/2020,ppb,Primary,6525,1,8,MT,A,SO2.1978.Laurel,2/28/2026
+"Lawrence County, PA",1-Hour Ozone (1979),NAA,Revoked,0.122,,0.082,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,91108,1,3,PA,K,Ozone_1-hr.1990.Lawrence_Co,2/28/2026
+"Lebanon County, PA",PM-2.5 (2012),Maint,,12.7,,8.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,133568,1,3,PA,B,PM-2.5.2012.Lebanon_Co,2/28/2026
+"Lemont, IL",Sulfur Dioxide (2010),Maint,,98,,6,,2022-2024,Yes,5/6/2025,ppb,,168916,2,5,IL,A,SO2.2010.Lemont,2/28/2026
+"Lewis & Clark County (part); City of East Helena and vicinity, MT",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,2669,1,8,MT,A,Lead.1992.East_Helena,2/28/2026
+"Lewiston-Auburn, ME",1-Hour Ozone (1979),NAA,Revoked,0.137,,0.074,,2022-2024,Yes,5/28/2025,ppm,Moderate,229853,2,1,ME,E,Ozone_1-hr.1990.Lewiston,2/28/2026
+"Lexington-Fayette, KY",1-Hour Ozone (1979),Maint,Revoked,0.126,,0.074,,2022-2024,Yes,5/28/2025,ppm,Marginal,342976,2,4,KY,G,Ozone_1-hr.1990.Lexington,2/28/2026
+"Libby, MT",PM-2.5 (1997),Maint,,16.2,,11.6,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,9429,1,8,MT,B,PM-2.5.1997.Libby,2/28/2026
+"Liberty-Clairton, PA",PM-2.5 (1997),Maint,,21.2,,10.6,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,20789,1,3,PA,B,PM-2.5.1997.Liberty-Clairton,2/28/2026
+"Liberty-Clairton, PA",PM-2.5 (2006),Maint,,53,,,31,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,20789,1,3,PA,B,PM-2.5.2006.Liberty-Clairton,2/28/2026
+"Lima, OH",8-Hour Ozone (1997),Maint,Revoked,0.089,,0.068,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,106331,1,5,OH,I,Ozone_8-hr.1997.Lima,2/28/2026
+"Lincoln County; Libby and vicinity, MT",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,3378,1,8,MT,B,PM-10.1990.Libby,2/28/2026
+"Logan, UT-ID",PM-2.5 (2006),Maint,,36,,,31,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,125198,2,8-10,UT-ID,B,PM-2.5.2006.Logan,2/28/2026
+"Longmont, CO",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,86558,2,8,CO,C,CO.1990.Longmont,2/28/2026
+"Lorain County, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,301074,1,5,OH,A,SO2.1978.Lorain_Co,2/28/2026
+"Los Angeles County-South Coast Air Basin, CA",Lead (2008),NAA,,2.49,,0.02,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,9436927,1,9,CA,A,Lead.2008.LA-South_Coast,2/28/2026
+"Los Angeles and San Bernardino Counties (Western Mojave Desert), CA",8-Hour Ozone (1997),NAA,Revoked,0.106,,0.089,,2022-2024,No,5/28/2025,ppm,Severe 15,868350,2,9,CA,C,Ozone_8-hr.1997.LA-Desert,2/28/2026
+"Los Angeles-San Bernardino Counties (West Mojave Desert), CA",8-Hour Ozone (2008),NAA,,0.099,,0.089,,2022-2024,No,5/28/2025,ppm,Severe 15,868380,2,9,CA,C,Ozone_8-hr.2008.LA-Desert,2/28/2026
+"Los Angeles-San Bernardino Counties (West Mojave Desert), CA",8-Hour Ozone (2015),NAA,,0.091,2014-2016,0.089,,2022-2024,No,5/28/2025,ppm,Severe 15,866960,2,9,CA,C,Ozone_8-hr.2015.LA-Desert,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",1-Hour Ozone (1979),NAA,Revoked,0.330,,0.143,,2022-2024,No,5/28/2025,ppm,Extreme,15798191,4,9,CA,A,Ozone_1-hr.1990.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",8-Hour Ozone (1997),NAA,Revoked,0.131,,0.108,,2022-2024,No,5/28/2025,ppm,Extreme,15715184,4,9,CA,A,Ozone_8-hr.1997.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",8-Hour Ozone (2008),NAA,,0.112,,0.108,,2022-2024,No,5/28/2025,ppm,Extreme,15719485,4,9,CA,A,Ozone_8-hr.2008.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",8-Hour Ozone (2015),NAA,,0.108,2014-2016,0.108,,2022-2024,No,5/28/2025,ppm,Extreme,15702771,4,9,CA,A,Ozone_8-hr.2015.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",Carbon Monoxide (1971),Maint,,,,2.6,,2023-2024,Yes,5/6/2025,ppm,Serious,15799134,4,9,CA,A,CO.1990.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",Nitrogen Dioxide (1971),Maint,,,,26,,2024,Yes,5/6/2025,ppb,Primary,15799134,4,9,CA,A,NO2.1990.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",PM-2.5 (1997),NAA,,27.8,,12.9,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,15716335,4,9,CA,B,PM-2.5.1997.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",PM-2.5 (2006),NAA,,49,,,35,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Serious,15716242,4,9,CA,A,PM-2.5.2006.LA-South_Coast,2/28/2026
+"Los Angeles-South Coast Air Basin, CA",PM-2.5 (2012),NAA,,14.6,,12.9,,2022-2024,No,5/28/2025,&micro;g/m<sup>3</sup>,Serious,15716242,4,9,CA,A,PM-2.5.2012.LA-South_Coast,2/28/2026
+"Louisville, KY-IN",1-Hour Ozone (1979),Maint,Revoked,0.149,,0.097,,2022-2024,Yes,5/28/2025,ppm,Moderate,953892,5,4 -5,KY-IN,E,Ozone_1-hr.1990.Louisville,2/28/2026
+"Louisville, KY-IN",8-Hour Ozone (1997),Maint,Revoked,0.092,,0.075,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,1060541,5,4-5,KY-IN,I,Ozone_8-hr.1997.Louisville,2/28/2026
+"Louisville, KY-IN",PM-2.5 (1997),Maint,,16.9,,9.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,1018904,5,4-5,KY-IN,B,PM-2.5.1997.Louisville,2/28/2026
+"Louisville, KY-IN[Split]",8-Hour Ozone (2015),Maint,,0.074,2014-2016,0.075,,2022-2024,No,5/28/2025,ppm,Marginal,1060541,5,4-5,KY-IN,F,Ozone_8-hr.2015.Louisville,2/28/2026
+"Louisville, KY-IN[Split]",8-Hour Ozone (2015),NAA,,0.074,2014-2016,0.075,,2022-2024,No,5/28/2025,ppm,Moderate,1060541,5,4-5,KY-IN,E,Ozone_8-hr.2015.Louisville,2/28/2026
+"Lowell, MA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,106519,1,1,MA,D,CO.1990.Lowell,2/28/2026
+"Lower Beaver Valley, PA",Lead (2008),NAA,,0.17,,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,17654,1,3,PA,A,Lead.2008.Lower_Beaver_Valley,2/28/2026
+"Lucas County, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,441812,1,5,OH,A,SO2.1978.Lucas_Co,2/28/2026
+"Lyons, PA",Lead (2008),NAA,,0.21,,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,19480,1,3,PA,A,Lead.2008.Lyons,2/28/2026
+"Macon, GA",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.063,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,158123,2,4,GA,I,Ozone_8-hr.1997.Macon,2/28/2026
+"Macon, GA",PM-2.5 (1997),Maint,,15.2,,9.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,158123,2,4,GA,C,PM-2.5.1997.Macon,2/28/2026
+"Madison County; Granite City Township and Nameoki Township, IL",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,35652,1,5,IL,B,PM-10.1990.Granite_City,2/28/2026
+"Madison and Page Counties (Shenandoah NP), VA",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.063,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,2026,2,3,VA,I,Ozone_8-hr.1997.Madison_and_Page_Cos,2/28/2026
+"Manchester, NH",1-Hour Ozone (1979),NAA,Revoked,0.128,,0.081,,2022-2024,Yes,5/28/2025,ppm,Marginal,392234,3,1,NH,G,Ozone_1-hr.1990.Manchester,2/28/2026
+"Manchester, NH",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,109565,1,1,NH,D,CO.1990.Manchester,2/28/2026
+"Manitowoc County, WI",1-Hour Ozone (1979),Maint,Revoked,0.167,,0.092,,2022-2024,Yes,5/28/2025,ppm,Moderate,81442,1,5,WI,E,Ozone_1-hr.1990.Manitowoc_Co,2/28/2026
+"Manitowoc County, WI",8-Hour Ozone (1997),Maint,Revoked,0.090,,0.071,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,81442,1,5,WI,I,Ozone_8-hr.1997.Manitowoc_Co,2/28/2026
+"Manitowoc County, WI",8-Hour Ozone (2015),Maint,,0.072,2014-2016,0.073,,2022-2024,No,5/28/2025,ppm,Marginal,56623,1,5,WI,F,Ozone_8-hr.2015.Manitowoc_Co,2/28/2026
+"Marathon County: Rothschild Sub-city area, Rib Mountain, Weston, WI",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",134064,1,5,WI,A,SO2.1978.Rothschild,2/28/2026
+"Maricopa and Pinal Counties; Phoenix planning area, AZ",PM-10 (1987),NAA,,,,,4.1,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,3852985,2,9,AZ,A,PM-10.1990.Phoenix,2/28/2026
+"Marion County: Lawrence, Washington, and Warrant Townships, IN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,349929,1,5,IN,A,SO2.1978.Indianapolis,2/28/2026
+"Marion County; Franklin Township, IN",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,18158,1,5,IN,A,Lead.1992.Franklin,2/28/2026
+"Mariposa County, CA",8-Hour Ozone (2008),NAA,,0.077,2008-2010,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,18251,1,9,CA,E,Ozone_8-hr.2008.Mariposa_Co,2/28/2026
+"Mariposa County, CA",8-Hour Ozone (2015),NAA,,0.075,2014-2016,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,18251,1,9,CA,E,Ozone_8-hr.2015.Mariposa_Co,2/28/2026
+"Mariposa and Tuolumne Cos. (Southern Mountain Counties), CA",8-Hour Ozone (1997),NAA,Revoked,0.091,,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,73616,2,9,CA,E,Ozone_8-hr.1997.Mariposa_and_Tuolumne_Cos,2/28/2026
+"Marshall, WV",Sulfur Dioxide (2010),Maint,,80,,7,,2022-2024,Yes,5/6/2025,ppb,,20365,1,3,WV,A,SO2.2010.Marshall_Co,2/28/2026
+"Martinsburg-Hagerstown, WV-MD",PM-2.5 (1997),Maint,,16.3,,8.7,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,251599,2,3-3,WV-MD,B,PM-2.5.1997.Hagerstown,2/28/2026
+"Mason County, MI",8-Hour Ozone (1997),Maint,Revoked,0.089,,0.065,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,28705,1,5,MI,I,Ozone_8-hr.1997.Mason_Co,2/28/2026
+"Medford, OR",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,86056,1,10,OR,C,CO.1990.Medford,2/28/2026
+"Memphis, TN",1-Hour Ozone (1979),Maint,Revoked,0.140,,0.092,,2022-2024,Yes,5/28/2025,ppm,Marginal,927644,1,4,TN,G,Ozone_1-hr.1990.Memphis,2/28/2026
+"Memphis, TN",Carbon Monoxide (1971),Maint,,,,0.8,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,927644,1,4,TN,C,CO.1990.Memphis,2/28/2026
+"Memphis, TN-AR",8-Hour Ozone (1997),Maint,Revoked,0.092,,0.073,,2022-2024,Yes,5/28/2025,ppm,Moderate,978546,2,4-6,TN-AR,E,Ozone_8-hr.1997.Memphis,2/28/2026
+"Memphis, TN-MS-AR",8-Hour Ozone (2008),Maint,,0.076,,0.073,,2022-2024,Yes,5/28/2025,ppm,Marginal,1127469,3,4-4-6,TN-MS-AR,F,Ozone_8-hr.2008.Memphis,2/28/2026
+"Miami (Gila County), AZ",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,1514,1,9,AZ,A,SO2.1978.Miami,2/28/2026
+"Miami, AZ",PM-10 (1987),NAA,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,15218,2,9,AZ,B,PM-10.1990.Miami,2/28/2026
+"Miami, AZ",Sulfur Dioxide (2010),NAA,,111,,68,,2022-2024,Yes,5/6/2025,ppb,,14995,1,9,AZ,A,SO2.2010.Miami,2/28/2026
+"Miami-Fort Lauderdale-W. Palm Beach, FL",1-Hour Ozone (1979),Maint,Revoked,0.138,,0.080,,2022-2024,Yes,5/28/2025,ppm,Moderate,5564635,3,4,FL,E,Ozone_1-hr.1990.Miami,2/28/2026
+"Millinocket AQCR 109, ME",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,5526,1,1,ME,A,SO2.1978.Millinocket,2/28/2026
+"Milwaukee, WI",8-Hour Ozone (2015),NAA,,0.073,2014-2016,0.074,,2022-2024,No,5/28/2025,ppm,Serious,1647684,5,5,WI,D,Ozone_8-hr.2015.Milwaukee,2/28/2026
+"Milwaukee, WI",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,947779,1,5,WI,A,SO2.1978.Milwaukee,2/28/2026
+"Milwaukee-Racine, WI",1-Hour Ozone (1979),NAA,Revoked,0.183,,0.106,,2022-2024,Yes,5/28/2025,ppm,Severe-17,1917742,6,5,WI,B,Ozone_1-hr.1990.Milwaukee,2/28/2026
+"Milwaukee-Racine, WI",8-Hour Ozone (1997),Maint,Revoked,0.101,,0.078,,2022-2024,Yes,5/28/2025,ppm,Moderate,1917742,6,5,WI,E,Ozone_8-hr.1997.Milwaukee,2/28/2026
+"Milwaukee-Racine, WI",PM-2.5 (2006),Maint,,37,,,26,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,1533034,3,5,WI,C,PM-2.5.2006.Milwaukee,2/28/2026
+"Minneapolis-St. Paul, MN",Carbon Monoxide (1971),Maint,,,,3.8,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,2920178,8,5,MN,C,CO.1990.Minneapolis,2/28/2026
+"Minneapolis-St. Paul, MN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,2849567,7,5,MN,A,SO2.1978.Minneapolis,2/28/2026
+"Missoula, MT",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,59733,1,8,MT,C,CO.1990.Missoula,2/28/2026
+"Missoula, MT",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,59733,1,8,MT,B,PM-10.1990.Missoula,2/28/2026
+"Modesto, CA",Carbon Monoxide (1971),Maint,,,,1.2,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,320707,1,9,CA,C,CO.1990.Modesto,2/28/2026
+"Mohave County (part); Bullhead City, AZ",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,10710,1,9,AZ,B,PM-10.1990.Bullhead_City,2/28/2026
+"Mono Basin, CA",PM-10 (1987),NAA,,,,,11.3,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,285,1,9,CA,B,PM-10.1990.Mono_Basin,2/28/2026
+"Mono County; Mammoth Lake planning area, CA",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,7133,1,9,CA,B,PM-10.1990.Mammoth_Lake,2/28/2026
+"Monterey Bay, CA",1-Hour Ozone (1979),Maint,Revoked,0.138,,0.075,,2022-2024,Yes,5/28/2025,ppm,Moderate,732708,3,9,CA,E,Ozone_1-hr.1990.Monterey,2/28/2026
+"Morenci (Greenlee County), AZ",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,8437,1,9,AZ,A,SO2.1978.Morenci,2/28/2026
+"Morgan County, IN",Sulfur Dioxide (2010),Maint,,100,,,,2022-2024,Insufficient Data,5/6/2025,ppb,,21365,1,5,IN,A,SO2.2010.Morgan_Co_IN,2/28/2026
+"Morgan County: Center Township, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Secondary,15053,1,5,OH,A,SO2.1978.Morgan_Co,2/28/2026
+"Morongo Band of Mission Indians, CA",1-Hour Ozone (1979),NAA,Revoked,,,0.136,,2022-2024,No,5/28/2025,ppm,Severe-17,913,1,9,CA,B,Ozone_1-hr.1990.Morongo,2/28/2026
+"Morongo Band of Mission Indians, CA",8-Hour Ozone (1997),NAA,Revoked,,,0.100,,2022-2024,No,5/28/2025,ppm,Severe 17,913,1,9,CA,B,Ozone_8-hr.1997.Morongo,2/28/2026
+"Morongo Band of Mission Indians, CA",8-Hour Ozone (2008),NAA,,0.112,,0.100,,2022-2024,No,5/28/2025,ppm,Severe 15,913,1,9,CA,C,Ozone_8-hr.2008.Morongo,2/28/2026
+"Morongo Band of Mission Indians, CA",8-Hour Ozone (2015),NAA,,0.097,2014-2016,0.100,,2022-2024,No,5/28/2025,ppm,Serious,932,1,9,CA,D,Ozone_8-hr.2015.Morongo,2/28/2026
+"Morristown, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,21955,1,2,NJ,D,CO.1990.Morristown,2/28/2026
+"Muhlenberg County, KY",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Secondary,31499,1,4,KY,A,SO2.1978.Muhlenberg_Co,2/28/2026
+"Mun. of Guaynabo, PR",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,90470,1,2,PR,B,PM-10.1990.Guaynabo_Co,2/28/2026
+"Muncie, IN",8-Hour Ozone (1997),Maint,Revoked,0.088,,0.068,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,117671,1,5,IN,I,Ozone_8-hr.1997.Muncie,2/28/2026
+"Muncie, IN",Lead (2008),Maint,,2.14,,0.04,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,854,1,5,IN,A,Lead.2008.Muncie,2/28/2026
+"Murray County (Chattahoochee Nat Forest), GA",8-Hour Ozone (1997),Maint,Revoked,0.085,,0.066,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,6231,1,4,GA,I,Ozone_8-hr.1997.Murray_Co,2/28/2026
+"Muscatine County, IA",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,24633,1,7,IA,A,SO2.1978.Muscatine_Co,2/28/2026
+"Muscatine, IA",Sulfur Dioxide (2010),Maint,,127,,17,,2022-2024,Yes,5/6/2025,ppb,,30329,1,7,IA,A,SO2.2010.Muscatine_Co,2/28/2026
+"Muscogee County, GA",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,189886,1,4,GA,A,Lead.1992.Muscogee_Co,2/28/2026
+"Muskegon County, MI",8-Hour Ozone (2015),NAA,,0.075,2014-2016,0.076,,2022-2024,No,5/28/2025,ppm,Serious,146852,1,5,MI,D,Ozone_8-hr.2015.Muskegon,2/28/2026
+"Muskegon, MI",1-Hour Ozone (1979),Maint,Revoked,0.181,,0.091,,2022-2024,Yes,5/28/2025,ppm,Moderate,172188,1,5,MI,E,Ozone_1-hr.1990.Muskegon,2/28/2026
+"Muskegon, MI",8-Hour Ozone (1997),Maint,Revoked,0.095,,0.076,,2022-2024,Yes,5/28/2025,ppm,Marginal,172188,1,5,MI,G,Ozone_8-hr.1997.Muskegon,2/28/2026
+"Muskingum River, OH",Sulfur Dioxide (2010),NAA,,180,,24,,2022-2024,Yes,5/6/2025,ppb,,4456,2,5,OH,A,SO2.2010.Muskingum_River,2/28/2026
+"Nashua, NH",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,86494,1,1,NH,D,CO.1990.Nashua,2/28/2026
+"Nashville, TN",1-Hour Ozone (1979),Maint,Revoked,0.138,,0.089,,2022-2024,Yes,5/28/2025,ppm,Moderate,1347105,5,4,TN,E,Ozone_1-hr.1990.Nashville,2/28/2026
+"Nassau County, FL",Sulfur Dioxide (2010),Maint,,129,,42,,2022-2024,Yes,5/6/2025,ppb,,6217,1,4,FL,A,SO2.2010.Nassau_Co,2/28/2026
+"Navarro County, TX",Sulfur Dioxide (2010),NAA,,,,130,,2022-2024,No,5/6/2025,ppb,,1593,1,6,TX,A,SO2.2010.Navarro_Co,2/28/2026
+"Nevada County (Western part), CA",8-Hour Ozone (1997),NAA,Revoked,0.098,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Moderate,82393,1,9,CA,E,Ozone_8-hr.1997.Nevada_Co,2/28/2026
+"Nevada County (Western part), CA",8-Hour Ozone (2008),NAA,,0.079,2008-2010,,,2022-2024,Insufficient Data,5/28/2025,ppm,Serious,82107,1,9,CA,D,Ozone_8-hr.2008.Nevada_Co,2/28/2026
+"Nevada County (Western part), CA",8-Hour Ozone (2015),NAA,,0.083,2014-2016,,,2022-2024,Insufficient Data,5/28/2025,ppm,Serious,82042,1,9,CA,D,Ozone_8-hr.2015.Nevada_Co,2/28/2026
+"New Haven County, CT",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,129779,1,1,CT,B,PM-10.1990.New_Haven,2/28/2026
+"New Haven-Meriden-Waterbury, CT",Carbon Monoxide (1971),Maint,,,,1.3,,2023-2024,Yes,5/6/2025,ppm,Not Classified,945612,3,1,CT,D,CO.1990.New_Haven,2/28/2026
+"New Madrid County, MO",Sulfur Dioxide (2010),NAA,,,,396,,2022-2024,No,5/6/2025,ppb,,2,1,7,MO,A,SO2.2010.New_Madrid_Co,2/28/2026
+"New Manchester-Grant magisterial district in Hancock County, WV",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,8706,1,3,WV,A,SO2.1978.New_Manchester,2/28/2026
+"New Orleans, LA",1-Hour Ozone (1979),Maint,Revoked,0.121,,0.082,,2022-2024,Yes,5/28/2025,ppm,Section 185A,865058,4,6,LA,J,Ozone_1-hr.1990.New_Orleans,2/28/2026
+"New York County, NY",PM-10 (1987),NAA,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,1585873,1,2,NY,B,PM-10.1990.New_York,2/28/2026
+"New York-N. New Jersey-Long Island, NY-NJ-CT",1-Hour Ozone (1979),NAA,Revoked,0.201,,0.109,,2022-2024,Yes,5/28/2025,ppm,Severe-17,19776927,24,2-2-1,NY-NJ-CT,B,Ozone_1-hr.1990.New_York,2/28/2026
+"New York-N. New Jersey-Long Island, NY-NJ-CT",8-Hour Ozone (1997),NAA,Revoked,0.102,,0.080,,2022-2024,Yes,5/28/2025,ppm,Moderate,20217137,24,2-2-1,NY-NJ-CT,E,Ozone_8-hr.1997.New_York,2/28/2026
+"New York-N. New Jersey-Long Island, NY-NJ-CT",8-Hour Ozone (2008),NAA,,0.084,,0.080,,2022-2024,No,5/28/2025,ppm,Severe 15,20217137,24,2-2-1,NY-NJ-CT,C,Ozone_8-hr.2008.New_York,2/28/2026
+"New York-N. New Jersey-Long Island, NY-NJ-CT",Carbon Monoxide (1971),Maint,,,,2.4,,2023-2024,Yes,5/6/2025,ppm,Moderate > 12.7ppm,14531186,14,2-2-1,NY-NJ-CT,B,CO.1990.New_York,2/28/2026
+"New York-N. New Jersey-Long Island, NY-NJ-CT",PM-2.5 (1997),Maint,,17.7,,8.4,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,20404481,22,2-2-1,NY-NJ-CT,C,PM-2.5.1997.New_York,2/28/2026
+"New York-N. New Jersey-Long Island, NY-NJ-CT",PM-2.5 (2006),Maint,,38,,,23,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,20404481,22,2-2-1,NY-NJ-CT,C,PM-2.5.2006.New_York,2/28/2026
+"New York-Northern New Jersey-Long Island, NY-NJ-CT",8-Hour Ozone (2015),NAA,,0.083,2014-2016,0.080,,2022-2024,No,5/28/2025,ppm,Serious,20217137,24,2-1,NY-NJ-CT,D,Ozone_8-hr.2015.New_York,2/28/2026
+"Nogales, AZ",PM-2.5 (2006),Maint,,40,,,30,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,30622,1,9,AZ,B,PM-2.5.2006.Nogales,2/28/2026
+"Norfolk-Virginia Beach-Newport News (Hampton Roads), VA",1-Hour Ozone (1979),Maint,Revoked,0.130,,0.074,,2022-2024,Yes,5/28/2025,ppm,Marginal,1559972,11,3,VA,G,Ozone_1-hr.1990.Norfolk,2/28/2026
+"Norfolk-Virginia Beach-Newport News (Hampton Roads), VA",8-Hour Ozone (1997),Maint,Revoked,0.090,,0.062,,2022-2024,Yes,5/28/2025,ppm,Marginal,1632100,13,3,VA,G,Ozone_8-hr.1997.Norfolk,2/28/2026
+"North Reading, PA",Lead (2008),NAA,,0.36,,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,29334,1,3,PA,A,Lead.2008.Reading,2/28/2026
+"Northern Wasatch Front, UT",8-Hour Ozone (2015),NAA,,0.075,2014-2016,0.075,,2022-2024,No,5/28/2025,ppm,Serious,1615574,4,8,UT,D,Ozone_8-hr.2015.Salt_Lake,2/28/2026
+"Northumberland County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,94528,1,3,PA,K,Ozone_1-hr.1990.Northumberland_Co,2/28/2026
+"Oakridge, OR",PM-2.5 (2006),Maint,,40,,,111,2022-2024,No,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,4261,1,10,OR,B,PM-2.5.2006.Oakridge,2/28/2026
+"Ogden, UT",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,82825,1,8,UT,C,CO.1990.Ogden,2/28/2026
+"Ogden, UT",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,82825,1,8,UT,B,PM-10.1990.Ogden,2/28/2026
+"Olmsted County, MN",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,96199,1,5,MN,B,PM-10.1990.Rochester,2/28/2026
+"Olmsted County; City of Rochester, MN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,106769,1,5,MN,A,SO2.1978.Rochester,2/28/2026
+"Oneida County: Rhinelander Sub-city area, WI",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",35996,1,5,WI,A,SO2.1978.Rhinelander,2/28/2026
+"Owensboro, KY",1-Hour Ozone (1979),Maint,Revoked,0.137,,0.079,,2022-2024,Yes,5/28/2025,ppm,Marginal,97517,2,4,KY,G,Ozone_1-hr.1990.Owensboro,2/28/2026
+"Paducah, KY",1-Hour Ozone (1979),Maint,Revoked,0.124,,0.077,,2022-2024,Yes,5/28/2025,ppm,Marginal,32690,2,4,KY,G,Ozone_1-hr.1990.Paducah,2/28/2026
+"Parkersburg-Marietta, WV",1-Hour Ozone (1979),Maint,Revoked,0.152,,0.082,,2022-2024,Yes,5/28/2025,ppm,Moderate,86956,1,3,WV,E,Ozone_1-hr.1990.Parkersburg,2/28/2026
+"Parkersburg-Marietta, WV-OH",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.064,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,148734,2,3-5,WV-OH,I,Ozone_8-hr.1997.Parkersburg,2/28/2026
+"Parkersburg-Marietta, WV-OH",PM-2.5 (1997),Maint,,16.0,,7.7,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,150316,3,3-5,WV-OH,C,PM-2.5.1997.Parkersburg,2/28/2026
+"Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, CA",8-Hour Ozone (1997),Maint,Revoked,,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Severe 17,2844,2,9,CA,B,Ozone_8-hr.1997.Pechanga,2/28/2026
+"Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, CA",8-Hour Ozone (2008),NAA,,0.096,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Moderate,2844,2,9,CA,E,Ozone_8-hr.2008.Pechanga,2/28/2026
+"Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, CA",8-Hour Ozone (2015),NAA,,0.071,2014-2016,,,2022-2024,Insufficient Data,5/28/2025,ppm,Moderate,652,2,9,CA,E,Ozone_8-hr.2015.Pechanga,2/28/2026
+"Pekin, IL",Sulfur Dioxide (2010),Maint,,211,,7,,2022-2024,Yes,5/6/2025,ppb,,41194,2,5,IL,A,SO2.2010.Pekin,2/28/2026
+"Penns Grove, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,5201,1,2,NJ,D,CO.1990.Penns_Grove,2/28/2026
+"Peoria County: Hollis twp, IL",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",2032,1,5,IL,A,SO2.1978.Hollis,2/28/2026
+"Peoria, IL",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,127507,1,5,IL,A,SO2.1978.Peoria,2/28/2026
+"Perth Amboy, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,49645,1,2,NJ,D,CO.1990.Perth_Amboy,2/28/2026
+"Philadelphia-Camden County, PA-NJ",Carbon Monoxide (1971),Maint,,,,1.4,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1187407,2,3-2,PA-NJ,C,CO.1990.Philadelphia,2/28/2026
+"Philadelphia-Wilmington, PA-NJ-DE",PM-2.5 (1997),Maint,,16.4,,10.3,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,5798152,9,3-2-3,PA-NJ-DE,C,PM-2.5.1997.Philadelphia,2/28/2026
+"Philadelphia-Wilmington, PA-NJ-DE",PM-2.5 (1997),Maint,,16.4,,10.3,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,5798152,9,3-2-3,PA-NJ-DE,B,PM-2.5.1997.Philadelphia,2/28/2026
+"Philadelphia-Wilmington, PA-NJ-DE",PM-2.5 (2006),Maint,,36,,,27,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,5798152,9,3-2-3,PA-NJ-DE,C,PM-2.5.2006.Philadelphia,2/28/2026
+"Philadelphia-Wilmington, PA-NJ-DE",PM-2.5 (2006),Maint,,36,,,27,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,5798152,9,3-2-3,PA-NJ-DE,B,PM-2.5.2006.Philadelphia,2/28/2026
+"Philadelphia-Wilmington-Atlantic City, PA-NJ-MD-DE",8-Hour Ozone (1997),NAA,Revoked,0.106,,0.073,,2022-2024,Yes,5/28/2025,ppm,Moderate,7796590,18,3-2-3-3,PA-NJ-MD-DE,E,Ozone_8-hr.1997.Philadelphia,2/28/2026
+"Philadelphia-Wilmington-Atlantic City, PA-NJ-MD-DE",8-Hour Ozone (2008),NAA,,0.083,,0.073,,2022-2024,Yes,5/28/2025,ppm,Marginal,7437135,16,3-2-3,PA-NJ-DE,F,Ozone_8-hr.2008.Philadelphia,2/28/2026
+"Philadelphia-Wilmington-Atlantic City, PA-NJ-MD-DE",8-Hour Ozone (2015),NAA,,0.077,2014-2016,0.073,,2022-2024,No,5/28/2025,ppm,Serious,7437135,16,3-2,PA-NJ-MD-DE,D,Ozone_8-hr.2015.Philadelphia,2/28/2026
+"Philadelphia-Wilmington-Trenton, PA-NJ-DE-MD",1-Hour Ozone (1979),NAA,Revoked,0.187,,0.091,,2022-2024,Yes,5/28/2025,ppm,Severe-15,6651064,14,3-2-3-3,PA-NJ-DE-MD,C,Ozone_1-hr.1990.Philadelphia,2/28/2026
+"Phoenix, AZ",1-Hour Ozone (1979),Maint,Revoked,0.141,,0.103,,2022-2024,Yes,5/28/2025,ppm,Serious,3763324,1,9,AZ,D,Ozone_1-hr.1990.Phoenix,2/28/2026
+"Phoenix, AZ",Carbon Monoxide (1971),Maint,,,,2.7,,2023-2024,Yes,5/6/2025,ppm,Serious,3763324,1,9,AZ,A,CO.1990.Phoenix,2/28/2026
+"Phoenix-Mesa, AZ",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.080,,2022-2024,Yes,5/28/2025,ppm,Marginal,3848627,2,9,AZ,G,Ozone_8-hr.1997.Phoenix,2/28/2026
+"Phoenix-Mesa, AZ",8-Hour Ozone (2008),NAA,,0.077,,0.080,,2022-2024,No,5/28/2025,ppm,Moderate,3849627,2,9,AZ,E,Ozone_8-hr.2008.Phoenix,2/28/2026
+"Phoenix-Mesa, AZ",8-Hour Ozone (2015),NAA,,0.077,2014-2016,0.080,,2022-2024,No,5/28/2025,ppm,Moderate,3945140,3,9,AZ,E,Ozone_8-hr.2015.Phoenix,2/28/2026
+"Pierce County; Tacoma, WA",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,238725,1,10,WA,B,PM-10.1990.Tacoma,2/28/2026
+"Pike County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,57369,1,3,PA,K,Ozone_1-hr.1990.Pike_Co,2/28/2026
+"Pima County; Ajo planning area, AZ",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,8823,1,9,AZ,B,PM-10.1990.Ajo,2/28/2026
+"Pima County; Rillito planning area, AZ",PM-10 (1987),NAA,,,,,3.4,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,588,1,9,AZ,B,PM-10.1990.Rillito,2/28/2026
+"Pinal County (part); West Pinal, AZ",PM-10 (1987),NAA,,,,,30.2,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,283032,1,9,AZ,A,PM-10.1990.Pinal_Co,2/28/2026
+"Piti, GU",Sulfur Dioxide (1971),NAA,,,,,,,,6/8/2020,ppb,Primary,1000,1,9,GU,A,SO2.1978.Piti,2/28/2026
+"Piti-Cabras, GU",Sulfur Dioxide (2010),NAA,,,,,,2022-2024,,5/6/2025,ppb,,6116,1,,GU,A,SO2.2010.Piti-Cabras,2/28/2026
+"Pitkin County; Aspen, CO",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,6772,1,8,CO,B,PM-10.1990.Aspen,2/28/2026
+"Pittsburgh, PA",Carbon Monoxide (1971),Maint,,,,1.3,,2023-2024,Yes,5/6/2025,ppm,Not Classified,320395,1,3,PA,D,CO.1990.Pittsburgh,2/28/2026
+"Pittsburgh-Beaver Valley, PA",1-Hour Ozone (1979),Maint,Revoked,0.149,,0.084,,2022-2024,Yes,5/28/2025,ppm,Moderate,2356285,7,3,PA,E,Ozone_1-hr.1990.Pittsburgh,2/28/2026
+"Pittsburgh-Beaver Valley, PA",8-Hour Ozone (1997),NAA,Revoked,0.094,,0.067,,2022-2024,Yes,5/28/2025,ppm,Moderate,2356285,7,3,PA,E,Ozone_8-hr.1997.Pittsburgh,2/28/2026
+"Pittsburgh-Beaver Valley, PA",8-Hour Ozone (2008),NAA,,0.080,2008-2010,0.067,,2022-2024,Yes,5/28/2025,ppm,Marginal,2356285,7,3,PA,F,Ozone_8-hr.2008.Pittsburgh,2/28/2026
+"Pittsburgh-Beaver Valley, PA",PM-2.5 (1997),Maint,,21.2,,9.2,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,2142981,8,3,PA,B,PM-2.5.1997.Pittsburgh,2/28/2026
+"Pittsburgh-Beaver Valley, PA",PM-2.5 (2006),Maint,,36,,,24,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,2142981,8,3,PA,B,PM-2.5.2006.Pittsburgh,2/28/2026
+"Plumas County, CA",PM-2.5 (2012),NAA,,14.1,,12.3,,2022-2024,No,5/28/2025,&micro;g/m<sup>3</sup>,Serious,5843,1,9,CA,A,PM-2.5.2012.Plumas_Co,2/28/2026
+"Pointe Coupee Parish, LA",1-Hour Ozone (1979),Maint,Revoked,0.127,,0.082,,2022-2024,Yes,5/28/2025,ppm,Marginal,22802,1,6,LA,G,Ozone_1-hr.1990.Pointe_Coupee,2/28/2026
+"Polk County, TN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",16825,1,4,TN,A,SO2.1978.Polk_Co,2/28/2026
+"Portland, ME",1-Hour Ozone (1979),NAA,Revoked,0.156,,0.080,,2022-2024,Yes,5/28/2025,ppm,Moderate,514098,3,1,ME,E,Ozone_1-hr.1990.Portland_ME,2/28/2026
+"Portland, ME",8-Hour Ozone (1997),Maint,Revoked,0.091,,0.063,,2022-2024,Yes,5/28/2025,ppm,Marginal,481641,4,1,ME,G,Ozone_8-hr.1997.Portland_ME,2/28/2026
+"Portland, OR",Carbon Monoxide (1971),Maint,,,,1.3,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1330473,3,10,OR,C,CO.1990.Portland_OR,2/28/2026
+"Portland-Vancouver AQMA, OR-WA",1-Hour Ozone (1979),Maint,Revoked,0.128,,0.082,,2022-2024,Yes,5/28/2025,ppm,Marginal,1672360,4,10-10,OR-WA,G,Ozone_1-hr.1990.Portland_OR,2/28/2026
+"Portsmouth-Dover-Rochester, NH",1-Hour Ozone (1979),NAA,Revoked,0.165,,0.081,,2022-2024,Yes,5/28/2025,ppm,Serious,206398,2,1,NH,D,Ozone_1-hr.1990.Portsmouth,2/28/2026
+"Pottawattamie County, IA",Lead (2008),Maint,,0.26,2007-2009,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,12845,1,7,IA,A,Lead.2008.Council_Bluffs,2/28/2026
+"Poughkeepsie, NY",1-Hour Ozone (1979),NAA,Revoked,0.134,,0.098,,2022-2024,Yes,5/28/2025,ppm,Moderate,640556,3,2,NY,E,Ozone_1-hr.1990.Poughkeepsie,2/28/2026
+"Poughkeepsie, NY",8-Hour Ozone (1997),NAA,Revoked,0.094,,0.068,,2022-2024,Yes,5/28/2025,ppm,Moderate,770011,3,2,NY,E,Ozone_8-hr.1997.Poughkeepsie,2/28/2026
+"Power-Bannock Counties; Fort Hall Indian Reservation, ID",PM-10 (1987),NAA,,,,,16.3,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,591,2,10,ID,B,PM-10.1990.Fort_Hall,2/28/2026
+"Power-Bannock Counties; Portneuf Valley Area, ID",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,72396,2,10,ID,B,PM-10.1990.Portneuf_Valley,2/28/2026
+"Preble County, OH",1-Hour Ozone (1979),Maint,Revoked,0.118,,0.078,,2022-2024,Yes,5/28/2025,ppm,Section 185A,42270,1,5,OH,J,Ozone_1-hr.1990.Preble_Co,2/28/2026
+"Providence (all of RI), RI",1-Hour Ozone (1979),NAA,Revoked,0.162,,0.093,,2022-2024,Yes,5/28/2025,ppm,Serious,1052567,5,1,RI,D,Ozone_1-hr.1990.Providence,2/28/2026
+"Providence (all of RI), RI",8-Hour Ozone (1997),NAA,Revoked,0.095,,0.067,,2022-2024,Yes,5/28/2025,ppm,Moderate,1052567,5,1,RI,E,Ozone_8-hr.1997.Providence,2/28/2026
+"Provo, UT",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate > 12.7ppm,166596,1,8,UT,B,CO.1990.Provo,2/28/2026
+"Provo, UT",PM-2.5 (2006),Maint,,44,,,22,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Serious,517537,1,8,UT,A,PM-2.5.2006.Provo,2/28/2026
+"Prowers County; Lamar, CO",PM-10 (1987),Maint,,,,,1.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,7523,1,8,CO,B,PM-10.1990.Lamar,2/28/2026
+"Raleigh-Durham, NC",1-Hour Ozone (1979),Maint,Revoked,0.141,,0.079,,2022-2024,Yes,5/28/2025,ppm,Moderate,1186305,3,4,NC,E,Ozone_1-hr.1990.Raleigh,2/28/2026
+"Raleigh-Durham, NC",Carbon Monoxide (1971),Maint,,,,1.3,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1168580,2,4,NC,C,CO.1990.Raleigh,2/28/2026
+"Raleigh-Durham-Chapel Hill, NC",8-Hour Ozone (1997),Maint,Revoked,0.094,,0.064,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,1663630,8,4,NC,I,Ozone_8-hr.1997.Raleigh,2/28/2026
+"Ramsey County, MN",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,284783,1,5,MN,B,PM-10.1990.Minneapolis,2/28/2026
+"Reading, PA",1-Hour Ozone (1979),Maint,Revoked,0.141,,0.086,,2022-2024,Yes,5/28/2025,ppm,Moderate,411442,1,3,PA,E,Ozone_1-hr.1990.Reading,2/28/2026
+"Reading, PA",8-Hour Ozone (1997),Maint,Revoked,0.091,,0.065,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,411442,1,3,PA,I,Ozone_8-hr.1997.Reading,2/28/2026
+"Reading, PA",8-Hour Ozone (2008),NAA,,0.077,2008-2010,0.065,,2022-2024,Yes,5/28/2025,ppm,Marginal,411442,1,3,PA,F,Ozone_8-hr.2008.Reading,2/28/2026
+"Reading, PA",PM-2.5 (1997),Maint,,16.4,,7.9,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,411442,1,3,PA,B,PM-2.5.1997.Reading,2/28/2026
+"Reno, NV",1-Hour Ozone (1979),NAA,Revoked,0.131,,0.077,,2022-2024,Yes,5/28/2025,ppm,Marginal,421407,1,9,NV,G,Ozone_1-hr.1990.Reno,2/28/2026
+"Reno, NV",Carbon Monoxide (1971),Maint,,,,1.6,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,221743,1,9,NV,C,CO.1990.Reno,2/28/2026
+"Rhinelander, WI",Sulfur Dioxide (2010),Maint,,151,,12,,2022-2024,Yes,5/6/2025,ppb,,18054,1,5,WI,A,SO2.2010.Rhinelander,2/28/2026
+"Richmond, VA",1-Hour Ozone (1979),Maint,Revoked,0.142,,0.079,,2022-2024,Yes,5/28/2025,ppm,Moderate,967312,7,3,VA,E,Ozone_1-hr.1990.Richmond,2/28/2026
+"Richmond-Petersburg, VA",8-Hour Ozone (1997),Maint,Revoked,0.094,,0.062,,2022-2024,Yes,5/28/2025,ppm,Marginal,1042651,9,3,VA,G,Ozone_8-hr.1997.Richmond,2/28/2026
+"Riverside County (Coachella Valley), CA",8-Hour Ozone (1997),NAA,Revoked,0.108,,0.084,,2022-2024,Yes,5/28/2025,ppm,Extreme,425425,1,9,CA,A,Ozone_8-hr.1997.Coachella_Valley,2/28/2026
+"Riverside County (Coachella Valley), CA",8-Hour Ozone (2008),NAA,,0.095,,0.084,,2022-2024,No,5/28/2025,ppm,Extreme,425806,1,9,CA,A,Ozone_8-hr.2008.Coachella_Valley,2/28/2026
+"Riverside County (Coachella Valley), CA",8-Hour Ozone (2015),NAA,,0.087,2014-2016,0.084,,2022-2024,No,5/28/2025,ppm,Severe 15,425029,1,9,CA,C,Ozone_8-hr.2015.Coachella_Valley,2/28/2026
+"Riverside County; Coachella Valley planning area, CA",PM-10 (1987),NAA,,,,,8.0,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,257794,1,9,CA,A,PM-10.1990.Coachella_Valley,2/28/2026
+"Riverside, Los Angeles, Orange, & San Bernardino Counties; South Coast Air Basin, CA",PM-10 (1987),Maint,,,,,1.7,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,15799134,4,9,CA,A,PM-10.1990.LA-South_Coast,2/28/2026
+"Rochester, NY",8-Hour Ozone (1997),NAA,Revoked,0.088,,0.065,,2022-2024,Yes,5/28/2025,ppm,Marginal,1114402,6,2,NY,G,Ozone_8-hr.1997.Rochester,2/28/2026
+"Rocky Mount, NC",8-Hour Ozone (1997),Maint,Revoked,0.089,,0.061,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,152392,2,4,NC,I,Ozone_8-hr.1997.Rocky_Mount,2/28/2026
+"Rome, GA",PM-2.5 (1997),Maint,,15.7,,,,2022-2024,Insufficient Data,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,96317,1,4,GA,C,PM-2.5.1997.Rome,2/28/2026
+"Rosebud County; Lame Deer, MT",PM-10 (1987),NAA,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,527,1,8,MT,B,PM-10.1990.Lame_Deer,2/28/2026
+"Routt County (part); Steamboat Springs, CO",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,12088,1,8,CO,B,PM-10.1990.Steamboat_Springs,2/28/2026
+"Rusk and Panola Counties, TX",Sulfur Dioxide (2010),NAA,,,,46,,2022-2024,,5/6/2025,ppb,,1680,2,,,A,SO2.2010.Rusk_Panola_Cos,2/28/2026
+"Sacramento County, CA",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,1418788,1,9,CA,B,PM-10.1990.Sacramento,2/28/2026
+"Sacramento Metro, CA",1-Hour Ozone (1979),NAA,Revoked,0.160,,0.094,,2022-2024,Yes,5/28/2025,ppm,Severe-15,2336542,6,9,CA,C,Ozone_1-hr.1990.Sacramento,2/28/2026
+"Sacramento Metro, CA",8-Hour Ozone (1997),NAA,Revoked,0.107,,0.074,,2022-2024,Yes,5/28/2025,ppm,Severe 15,2243911,6,9,CA,C,Ozone_8-hr.1997.Sacramento,2/28/2026
+"Sacramento Metro, CA",8-Hour Ozone (2008),NAA,,0.095,2008-2010,0.074,,2022-2024,Yes,5/28/2025,ppm,Severe 15,2241057,6,9,CA,C,Ozone_8-hr.2008.Sacramento,2/28/2026
+"Sacramento Metro, CA",8-Hour Ozone (2015),NAA,,0.085,2014-2016,0.075,,2022-2024,No,5/28/2025,ppm,Serious,2240448,6,9,CA,D,Ozone_8-hr.2015.Sacramento,2/28/2026
+"Sacramento, CA",Carbon Monoxide (1971),Maint,,,,1.3,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1530116,3,9,CA,C,CO.1990.Sacramento,2/28/2026
+"Sacramento, CA",PM-2.5 (2006),NAA,,56,,,31,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,2206060,5,9,CA,B,PM-2.5.2006.Sacramento,2/28/2026
+"Saginaw-Bay City-Midland, MI",1-Hour Ozone (1979),Maint,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,391569,3,5,MI,K,Ozone_1-hr.1990.Saginaw,2/28/2026
+"Salem, OR",1-Hour Ozone (1979),NAA,Revoked,0.095,,0.079,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,388564,2,10,OR,K,Ozone_1-hr.1990.Salem,2/28/2026
+"Salem, OR",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,156100,2,10,OR,D,CO.1990.Salem,2/28/2026
+"Saline County, KS",Lead (2008),Maint,,0.42,2007-2009,,,2022-2024,Insufficient Data,5/6/2025,&micro;g/m<sup>3</sup>,,9,1,7,KS,A,Lead.2008.Salina,2/28/2026
+"Salt Lake City, UT",1-Hour Ozone (1979),Maint,Revoked,0.143,,0.097,,2022-2024,Yes,5/28/2025,ppm,Moderate,1336134,2,8,UT,E,Ozone_1-hr.1990.Salt_Lake,2/28/2026
+"Salt Lake City, UT",Carbon Monoxide (1971),Maint,,,,1.4,,2023-2024,Yes,5/6/2025,ppm,Not Classified,186440,1,8,UT,D,CO.1990.Salt_Lake,2/28/2026
+"Salt Lake City, UT",PM-2.5 (2006),Maint,,48,,,32,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Serious,1665137,5,8,UT,A,PM-2.5.2006.Salt_Lake,2/28/2026
+"Salt Lake County, UT",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,1029655,1,8,UT,B,PM-10.1990.Salt_Lake,2/28/2026
+"Salt Lake County, UT",Sulfur Dioxide (1971),NAA,,,,1,2,2019,Yes,6/8/2020,ppb,"Primary, Secondary",1029655,1,8,UT,A,SO2.1978.Salt_Lake,2/28/2026
+"San Antonio, TX",8-Hour Ozone (2015),NAA,,0.074,2014-2016,0.075,,2022-2024,No,5/28/2025,ppm,Serious,1714773,1,6,TX,D,Ozone_8-hr.2015.San_Antonio,2/28/2026
+"San Bernardino County, CA",PM-10 (1987),NAA,,,,,3.1,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,237418,1,9,CA,B,PM-10.1990.San_Bernardino_Co,2/28/2026
+"San Diego County, CA",8-Hour Ozone (2008),NAA,,0.082,2008-2010,0.081,,2022-2024,No,5/28/2025,ppm,Severe 15,3095199,1,9,CA,C,Ozone_8-hr.2008.San_Diego,2/28/2026
+"San Diego County, CA",8-Hour Ozone (2015),NAA,,0.081,2014-2016,0.081,,2022-2024,No,5/28/2025,ppm,Severe 15,3077287,1,9,CA,C,Ozone_8-hr.2015.San_Diego,2/28/2026
+"San Diego, CA",1-Hour Ozone (1979),Maint,Revoked,0.185,,0.101,,2022-2024,Yes,5/28/2025,ppm,Serious,3095313,1,9,CA,D,Ozone_1-hr.1990.San_Diego,2/28/2026
+"San Diego, CA",8-Hour Ozone (1997),Maint,Revoked,0.093,,0.081,,2022-2024,Yes,5/28/2025,ppm,Moderate,3093345,1,9,CA,E,Ozone_8-hr.1997.San_Diego,2/28/2026
+"San Diego, CA",Carbon Monoxide (1971),Maint,,,,2.2,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,2909194,1,9,CA,C,CO.1990.San_Diego,2/28/2026
+"San Francisco Bay Area, CA",8-Hour Ozone (1997),NAA,Revoked,0.086,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Marginal,6970997,9,9,CA,G,Ozone_8-hr.1997.San_Francisco,2/28/2026
+"San Francisco Bay Area, CA",8-Hour Ozone (2008),NAA,,0.080,,,,2022-2024,Insufficient Data,5/28/2025,ppm,Marginal,6973020,9,9,CA,F,Ozone_8-hr.2008.San_Francisco,2/28/2026
+"San Francisco Bay Area, CA",8-Hour Ozone (2015),NAA,,0.074,2014-2016,,,2022-2024,Insufficient Data,5/28/2025,ppm,Marginal,6969365,9,9,CA,F,Ozone_8-hr.2015.San_Francisco,2/28/2026
+"San Francisco Bay Area, CA",PM-2.5 (2006),NAA,,36,,,25,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,6971067,9, 9,CA,B,PM-2.5.2006.San_Francisco,2/28/2026
+"San Francisco-Bay Area, CA",1-Hour Ozone (1979),NAA,Revoked,0.140,,0.087,,2022-2024,Yes,5/28/2025,ppm,Other,6896958,9,9,CA,F,Ozone_1-hr.1990.San_Francisco,2/28/2026
+"San Francisco-Oakland-San Jose, CA",Carbon Monoxide (1971),Maint,,,,4.9,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,4296499,9,9,CA,C,CO.1990.San_Francisco,2/28/2026
+"San Joaquin Valley Air Basin, CA",PM-10 (1987),Maint,,,,,2.8,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,3830257,8,9,CA,A,PM-10.1990.San_Joaquin_Valley,2/28/2026
+"San Joaquin Valley, CA",1-Hour Ozone (1979),NAA,Revoked,0.170,,0.114,,2022-2024,Yes,5/28/2025,ppm,Extreme,3830257,8,9,CA,A,Ozone_1-hr.1990.San_Joaquin_Valley,2/28/2026
+"San Joaquin Valley, CA",8-Hour Ozone (1997),NAA,Revoked,0.115,,0.088,,2022-2024,No,5/28/2025,ppm,Extreme,3842586,8,9,CA,A,Ozone_8-hr.1997.San_Joaquin_Valley,2/28/2026
+"San Joaquin Valley, CA",8-Hour Ozone (2008),NAA,,0.104,,0.088,,2022-2024,No,5/28/2025,ppm,Extreme,3842365,8,9,CA,A,Ozone_8-hr.2008.San_Joaquin_Valley,2/28/2026
+"San Joaquin Valley, CA",8-Hour Ozone (2015),NAA,,0.094,2014-2016,0.088,,2022-2024,No,5/28/2025,ppm,Extreme,3841897,8,9,CA,A,Ozone_8-hr.2015.San_Joaquin_Valley,2/28/2026
+"San Joaquin Valley, CA",PM-2.5 (1997),NAA,,21.8,,14.7,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Serious,3842165,8,9,CA,A,PM-2.5.1997.San_Joaquin_Valley,2/28/2026
+"San Joaquin Valley, CA",PM-2.5 (2006),NAA,,70,,,48,2022-2024,No,5/28/2025,&micro;g/m<sup>3</sup>,Serious,3842165,8,9,CA,A,PM-2.5.2006.San_Joaquin_Valley,2/28/2026
+"San Joaquin Valley, CA",PM-2.5 (2012),NAA,,19.7,,14.7,,2022-2024,No,5/28/2025,&micro;g/m<sup>3</sup>,Serious,3842165,8,9,CA,A,PM-2.5.2012.San_Joaquin_Valley,2/28/2026
+"San Juan, PR",Sulfur Dioxide (2010),NAA,,,,,,2022-2024,,5/6/2025,ppb,,275267,5,,PR,A,SO2.2010.San_Juan,2/28/2026
+"San Luis Obispo (Eastern San Luis Obispo), CA",8-Hour Ozone (2008),NAA,,0.078,2008-2010,0.072,,2022-2024,Yes,5/28/2025,ppm,Marginal,1649,1,9,CA,F,Ozone_8-hr.2008.San_Luis_Obispo,2/28/2026
+"San Luis Obispo (Eastern part), CA",8-Hour Ozone (2015),NAA,,0.073,2014-2016,0.072,,2022-2024,No,5/28/2025,ppm,Marginal,1290,1,9,CA,F,Ozone_8-hr.2015.San_Luis_Obispo,2/28/2026
+"San Manual (Pinal County), AZ",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,16158,1,9,AZ,A,SO2.1978.San_Manuel,2/28/2026
+"San Miguel County; Telluride, CO",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,2014,1,8,CO,B,PM-10.1990.Telluride,2/28/2026
+"Sanders County (part); Thompson Falls and vicinity, MT",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,1317,1,8,MT,B,PM-10.1990.Thompson_Falls,2/28/2026
+"Santa Barbara-Santa Maria-Lompoc, CA",1-Hour Ozone (1979),Maint,Revoked,0.140,,0.073,,2022-2024,Yes,5/28/2025,ppm,Serious,423895,1,9,CA,D,Ozone_1-hr.1990.Santa_Barbara,2/28/2026
+"Santa Cruz County; Nogales planning area, AZ",PM-10 (1987),NAA,,,,,1.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,30359,1,9,AZ,B,PM-10.1990.Nogales,2/28/2026
+"Schuylkill County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,148289,1,3,PA,K,Ozone_1-hr.1990.Schuylkill_Co,2/28/2026
+"Scranton-Wilkes-Barre, PA",1-Hour Ozone (1979),NAA,Revoked,0.129,,0.081,,2022-2024,Yes,5/28/2025,ppm,Marginal,800768,5,3,PA,G,Ozone_1-hr.1990.Scranton,2/28/2026
+"Scranton-Wilkes-Barre, PA",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.063,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,733473,4,3,PA,I,Ozone_8-hr.1997.Scranton,2/28/2026
+"Seaford, DE",8-Hour Ozone (2008),NAA,,0.077,,0.064,,2022-2024,Yes,5/28/2025,ppm,Marginal,197145,1,3,DE,F,Ozone_8-hr.2008.Sussex_Co,2/28/2026
+"Seattle-Tacoma, WA",1-Hour Ozone (1979),Maint,Revoked,0.131,,0.090,,2022-2024,Yes,5/28/2025,ppm,Marginal,3439810,3,10,WA,G,Ozone_1-hr.1990.Seattle,2/28/2026
+"Seattle-Tacoma, WA",Carbon Monoxide (1971),Maint,,,,1.0,,2023-2024,Yes,5/6/2025,ppm,Moderate > 12.7ppm,3016710,3,10,WA,B,CO.1990.Seattle,2/28/2026
+"Sheboygan County, WI",8-Hour Ozone (2015),NAA,,0.079,2014-2016,0.078,,2022-2024,No,5/28/2025,ppm,Serious,67710,1,5,WI,D,Ozone_8-hr.2015.Sheboygan,2/28/2026
+"Sheboygan, WI",1-Hour Ozone (1979),Maint,Revoked,0.176,,0.104,,2022-2024,Yes,5/28/2025,ppm,Moderate,115507,1,5,WI,E,Ozone_1-hr.1990.Sheboygan,2/28/2026
+"Shelby County, TN",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,2226,1,4,TN,A,Lead.1992.Memphis,2/28/2026
+"Sheridan County; City of Sheridan, WY",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,17300,1,8,WY,B,PM-10.1990.Sheridan,2/28/2026
+"Shoreline Sheboygan County, WI",8-Hour Ozone (1997),NAA,Revoked,,,0.078,,2022-2024,Yes,5/28/2025,ppm,Moderate,61656,1,5,WI,E,Ozone_8-hr.1997.Sheboygan_Shoreline,2/28/2026
+"Shoreline Sheboygan County, WI",8-Hour Ozone (2008),Maint,,,,0.078,,2022-2024,No,5/28/2025,ppm,Moderate,61656,1,5,WI,E,Ozone_8-hr.2008.Sheboygan_Shoreline,2/28/2026
+"Shoshone County; City of Pinehurst, ID",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,1578,1,10,ID,B,PM-10.1990.Pinehurst,2/28/2026
+"Shoshone County; Pinehurst Expansion Area, ID",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,9691,1,10,ID,B,PM-10.1990.Shoshone_Co_ex_Pinehurst,2/28/2026
+"Silver Bow County; Butte, MT",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,34201,1,8,MT,B,PM-10.1990.Butte,2/28/2026
+"Smyth County; White Top Mountain, VA",1-Hour Ozone (1979),NAA,Revoked,0.125,,,,,,5/28/2025,ppm,Rural Transport (Marginal),0,1,3,VA,H,Ozone_1-hr.1990.White_Top_Mountain,2/28/2026
+"Snyder County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,39702,1,3,PA,K,Ozone_1-hr.1990.Snyder_Co,2/28/2026
+"Somerville, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,15557,1,2,NJ,D,CO.1990.Somerville,2/28/2026
+"South Bend-Elkhart, IN",1-Hour Ozone (1979),Maint,Revoked,0.121,,0.083,,2022-2024,Yes,5/28/2025,ppm,Marginal,464490,2,5,IN,G,Ozone_1-hr.1990.South_Bend,2/28/2026
+"South Bend-Elkhart, IN",8-Hour Ozone (1997),Maint,Revoked,0.093,,0.071,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,464490,2,5,IN,I,Ozone_8-hr.1997.South_Bend,2/28/2026
+"Southeast Desert Modified AQMA, CA",1-Hour Ozone (1979),NAA,Revoked,0.240,,0.109,,2022-2024,,5/28/2025,ppm,Severe-17,1194366,3,9,CA,B,Ozone_1-hr.1990.LA-Desert,2/28/2026
+"Southern Wasatch Front, UT",8-Hour Ozone (2015),NAA,,0.073,2014-2016,0.071,,2022-2024,No,5/28/2025,ppm,Marginal,515895,1,8,UT,F,Ozone_8-hr.2015.Provo,2/28/2026
+"Southwest Indiana, IN",Sulfur Dioxide (2010),Maint,,175,,,,2022-2024,Insufficient Data,5/6/2025,ppb,,5555,2,5,IN,A,SO2.2010.Daviess_Co,2/28/2026
+"Spokane County, WA",PM-10 (1987),Maint,,,,,0.7,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,230807,1,10,WA,B,PM-10.1990.Spokane,2/28/2026
+"Spokane, WA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Serious,363834,1,10,WA,A,CO.1990.Spokane,2/28/2026
+"Springfield (W. Mass), MA",8-Hour Ozone (1997),NAA,Revoked,0.094,,0.066,,2022-2024,Yes,5/28/2025,ppm,Moderate,824161,4,1,MA,E,Ozone_8-hr.1997.Springfield,2/28/2026
+"Springfield (Western MA), MA",1-Hour Ozone (1979),NAA,Revoked,0.167,,0.090,,2022-2024,Yes,5/28/2025,ppm,Serious,824161,4,1,MA,D,Ozone_1-hr.1990.Springfield,2/28/2026
+"Springfield, MA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,153060,1,1,MA,D,CO.1990.Springfield,2/28/2026
+"St. Bernard Parish, LA",Sulfur Dioxide (2010),NAA,,287,,44,,2022-2024,Yes,5/6/2025,ppb,,35897,1,6,LA,A,SO2.2010.St_Bernard_Par,2/28/2026
+"St. Clair, MI",Sulfur Dioxide (2010),NAA,,,2009-2011,,,2022-2024,,5/6/2025,ppb,,52102,1,5,MI,A,SO2.2010.St_Clair,2/28/2026
+"St. James Parish, LA",1-Hour Ozone (1979),Maint,Revoked,0.109,,0.084,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,22102,1,6,LA,K,Ozone_1-hr.1990.St_James_Par,2/28/2026
+"St. Lawrence County, NY",Sulfur Dioxide (2010),NAA,,,,78,,2022-2024,No,5/6/2025,ppb,,11922,1,2,NY,A,SO2.2010.St_Lawrence_Co,2/28/2026
+"St. Louis, MO",Carbon Monoxide (1971),Maint,,,,1.5,,2023-2024,Yes,5/6/2025,ppm,Not Classified,1227527,2,7,MO,D,CO.1990.St_Louis,2/28/2026
+"St. Louis, MO-IL",1-Hour Ozone (1979),Maint,Revoked,0.156,,0.090,,2022-2024,Yes,5/28/2025,ppm,Serious,2571253,8,7-5,MO-IL,D,Ozone_1-hr.1990.St_Louis,2/28/2026
+"St. Louis, MO-IL",8-Hour Ozone (1997),Maint,Revoked,0.092,,0.074,,2022-2024,Yes,5/28/2025,ppm,Moderate,2594238,9,7-5,MO-IL,E,Ozone_8-hr.1997.St_Louis,2/28/2026
+"St. Louis, MO-IL",8-Hour Ozone (2015),NAA,,0.072,2014-2016,0.074,,2022-2024,No,5/28/2025,ppm,Serious,2487869,8,7-5,MO-IL,D,Ozone_8-hr.2015.St_Louis,2/28/2026
+"St. Louis, MO-IL",PM-2.5 (1997),Maint,,17.5,,9.6,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,2572706,9,7-5,MO-IL,B,PM-2.5.1997.St_Louis,2/28/2026
+"St. Louis-St. Charles-Farmington, MO-IL",8-Hour Ozone (2008),Maint,,0.077,,0.074,,2022-2024,Yes,5/28/2025,ppm,Marginal,2571253,8,7-5,MO-IL,F,Ozone_8-hr.2008.St_Louis,2/28/2026
+"St. Mary Parish, LA",1-Hour Ozone (1979),Maint,Revoked,0.101,,,,,,5/28/2025,ppm,Incomplete Data,54650,1,6,LA,K,Ozone_1-hr.1990.St_Mary_Par,2/28/2026
+"State College, PA",8-Hour Ozone (1997),Maint,Revoked,0.088,,0.065,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,153990,1,3,PA,I,Ozone_8-hr.1997.State_College,2/28/2026
+"Steubenville, OH",1-Hour Ozone (1979),Maint,Revoked,0.118,,0.076,,2022-2024,Yes,5/28/2025,ppm,Section 185A,69709,1,5,OH,J,Ozone_1-hr.1990.Steubenville,2/28/2026
+"Steubenville, OH-WV",Sulfur Dioxide (2010),Maint,,119,,32,,2022-2024,Yes,5/6/2025,ppb,,58267,2,5-3,OH-WV,A,SO2.2010.Steubenville,2/28/2026
+"Steubenville-Weirton, OH-WV",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.066,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,124454,3,5-3,OH-WV,I,Ozone_8-hr.1997.Weirton,2/28/2026
+"Steubenville-Weirton, OH-WV",PM-2.5 (1997),Maint,,17.8,,8.9,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,124454,3,5-3,OH-WV,C,PM-2.5.1997.Weirton,2/28/2026
+"Steubenville-Weirton, OH-WV",PM-2.5 (2006),Maint,,41,,,21,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,124454,3,5-3,OH-WV,C,PM-2.5.2006.Weirton,2/28/2026
+"Stockton, CA",Carbon Monoxide (1971),Maint,,,,1.3,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,373545,1,9,CA,C,CO.1990.Stockton,2/28/2026
+"Sullivan County, TN",Sulfur Dioxide (2010),NAA,,196,,57,,2022-2024,Yes,5/6/2025,ppb,,15289,1,4,TN,A,SO2.2010.Kingsport,2/28/2026
+"Susquehanna County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,43356,1,3,PA,K,Ozone_1-hr.1990.Susquehanna_Co,2/28/2026
+"Sussex County, DE",1-Hour Ozone (1979),NAA,Revoked,0.130,,0.074,,2022-2024,Yes,5/28/2025,ppm,Marginal,197145,1,3,DE,G,Ozone_1-hr.1990.Sussex_Co,2/28/2026
+"Sutter Buttes, CA",8-Hour Ozone (2015),NAA,,0.075,2014-2016,0.068,,2022-2024,Yes,5/28/2025,ppm,Marginal,3,1,9,CA,F,Ozone_8-hr.2015.Sutter_Buttes,2/28/2026
+"Sutter County (part) (Sutter Buttes), CA",8-Hour Ozone (1997),NAA,Revoked,0.088,,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,33,1,9,CA,G,Ozone_8-hr.1997.Sutter_Buttes,2/28/2026
+"Syracuse, NY",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,467026,1,2,NY,C,CO.1990.Syracuse,2/28/2026
+"Tacoma, WA",PM-2.5 (2006),Maint,,44,,,29,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,539682,1,10,WA,B,PM-2.5.2006.Tacoma,2/28/2026
+"Tampa, FL",Lead (2008),Maint,,1.77,,0.12,,2022-2024,Yes,5/6/2025,&micro;g/m<sup>3</sup>,,4128,1,4,FL,A,Lead.2008.Tampa,2/28/2026
+"Tampa-St. Petersburg-Clearwater, FL",1-Hour Ozone (1979),Maint,Revoked,0.129,,0.086,,2022-2024,Yes,5/28/2025,ppm,Marginal,2145768,2,4,FL,G,Ozone_1-hr.1990.Tampa,2/28/2026
+"Tanguisson, GU",Sulfur Dioxide (1971),NAA,,,,,,,,6/8/2020,ppb,Primary,1000,1,9,GU,A,SO2.1978.Tanguisson,2/28/2026
+"Tazewell County: Groveland twp, IL",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,22991,1,5,IL,A,SO2.1978.Groveland,2/28/2026
+"Terre Haute, IN",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.067,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,107848,1,5,IN,I,Ozone_8-hr.1997.Terre_Haute,2/28/2026
+"Terre Haute, IN",Sulfur Dioxide (2010),Maint,,150,,3,,2022-2024,Yes,5/6/2025,ppb,,53902,1,5,IN,A,SO2.2010.Vigo_Co,2/28/2026
+"Thurston County; Cities of Olympia, Tumwater, and Lacey, WA",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,98562,1,10,WA,B,PM-10.1990.Olympia,2/28/2026
+"Tioga County, PA",8-Hour Ozone (1997),Maint,Revoked,0.086,,0.061,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,41981,1,3,PA,I,Ozone_8-hr.1997.Tioga_Co,2/28/2026
+"Titus County, TX",Sulfur Dioxide (2010),NAA,,,,,,2022-2024,,5/6/2025,ppb,,211,1,,,A,SO2.2010.Titus_Co,2/28/2026
+"Toledo, OH",1-Hour Ozone (1979),Maint,Revoked,0.140,,0.085,,2022-2024,Yes,5/28/2025,ppm,Moderate,567303,2,5,OH,E,Ozone_1-hr.1990.Toledo,2/28/2026
+"Toledo, OH",8-Hour Ozone (1997),Maint,Revoked,0.093,,0.071,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,567303,2,5,OH,I,Ozone_8-hr.1997.Toledo,2/28/2026
+"Toms River, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,10667,1,2,NJ,D,CO.1990.Toms_River,2/28/2026
+"Tooele County, UT",Sulfur Dioxide (1971),NAA,,,,,,,,6/8/2020,ppb,"Primary, Secondary",58218,1,8,UT,A,SO2.1978.Tooele_Co,2/28/2026
+"Trenton, NJ",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,97712,1,2,NJ,D,CO.1990.Trenton,2/28/2026
+"Trona, CA",PM-10 (1987),NAA,,,,,1.5,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,4167,1,9,CA,B,PM-10.1990.Trona,2/28/2026
+"Troy, AL",Lead (2008),Maint,,1.35,,0.22,,2022-2024,No,5/6/2025,&micro;g/m<sup>3</sup>,,2275,1,4,AL,A,Lead.2008.Troy,2/28/2026
+"Tucson, AZ",Carbon Monoxide (1971),Maint,,,,0.8,,2023-2024,Yes,5/6/2025,ppm,Not Classified,595314,1,9,AZ,D,CO.1990.Tucson,2/28/2026
+"Tuolumne County, CA",8-Hour Ozone (2015),NAA,,0.079,2014-2016,,,2022-2024,Insufficient Data,5/28/2025,ppm,Marginal,55365,1,9,CA,F,Ozone_8-hr.2015.Tuolumne_Co,2/28/2026
+"Tuscan Buttes, CA",8-Hour Ozone (2008),NAA,,0.076,2008-2010,0.068,,2022-2024,Yes,5/28/2025,ppm,Marginal,0,1,9,CA,F,Ozone_8-hr.2008.Tuscan_Buttes,2/28/2026
+"Tuscan Buttes, CA",8-Hour Ozone (2015),NAA,,0.079,2014-2016,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal (Rural Transport),0,1,9,CA,G,Ozone_8-hr.2015.Tuscan_Buttes,2/28/2026
+"Uinta Basin, UT",8-Hour Ozone (2015),NAA,,0.08,2014-2016,0.076,,2022-2024,No,5/28/2025,ppm,Moderate,47317,2,8,UT,E,Ozone_8-hr.2015.Uinta_Basin,2/28/2026
+"Union County; LaGrande, OR",PM-10 (1987),Maint,,,,,,2022-2024,Insufficient Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,13094,1,10,OR,B,PM-10.1990.LaGrande,2/28/2026
+"Upper Green River Basin Area, WY",8-Hour Ozone (2008),NAA,,0.078,,0.066,,2022-2024,Yes,5/28/2025,ppm,Marginal,11498,3,8,WY,F,Ozone_8-hr.2008.Green_River,2/28/2026
+"Utah County, UT",PM-10 (1987),Maint,,,,,0.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,516564,1,8,UT,B,PM-10.1990.Utah_Co,2/28/2026
+"Vancouver, WA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,400271,1,10,WA,C,CO.1990.Vancouver,2/28/2026
+"Ventura County (part), CA",8-Hour Ozone (1997),NAA,Revoked,0.095,,0.076,,2022-2024,Yes,5/28/2025,ppm,Serious,823360,1,9,CA,D,Ozone_8-hr.1997.Ventura_Co,2/28/2026
+"Ventura County, CA",1-Hour Ozone (1979),NAA,Revoked,0.170,,0.093,,2022-2024,Yes,5/28/2025,ppm,Severe-15,823318,1,9,CA,C,Ozone_1-hr.1990.Ventura_Co,2/28/2026
+"Ventura County, CA",8-Hour Ozone (2008),NAA,,0.086,,0.076,,2022-2024,No,5/28/2025,ppm,Serious,823262,1,9,CA,D,Ozone_8-hr.2008.Ventura_Co,2/28/2026
+"Ventura County, CA",8-Hour Ozone (2015),NAA,,0.077,2014-2016,0.076,,2022-2024,No,5/28/2025,ppm,Serious,820808,1,9,CA,D,Ozone_8-hr.2015.Ventura_Co,2/28/2026
+"Vermillion County; Part of Clinton Township, IN",PM-10 (1987),Maint,,,,,,2022-2024,No Data,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,9119,1,5,IN,B,PM-10.1990.Clinton,2/28/2026
+"Victoria, TX",1-Hour Ozone (1979),Maint,Revoked,0.110,,0.074,,2022-2024,Yes,5/28/2025,ppm,Incomplete Data,86793,1,6,TX,K,Ozone_1-hr.1990.Victoria,2/28/2026
+"Vigo County, IN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,107848,1,5,IN,A,SO2.1978.Vigo_Co,2/28/2026
+"Walla Walla County; Wallula, WA",PM-10 (1987),Maint,,,,,1.0,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Serious,426,1,10,WA,A,PM-10.1990.Wallula,2/28/2026
+"Waltham, MA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,60632,1,1,MA,D,CO.1990.Waltham,2/28/2026
+"Walworth County, WI",1-Hour Ozone (1979),Maint,Revoked,0.129,,0.089,,2022-2024,Yes,5/28/2025,ppm,Marginal,102228,1,5,WI,G,Ozone_1-hr.1990.Walworth,2/28/2026
+"Warren County, NJ",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",108696,1,2,NJ,A,SO2.1978.Warren_Co,2/28/2026
+"Warren County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,41815,1,3,PA,K,Ozone_1-hr.1990.Warren_Co,2/28/2026
+"Warren County: Conewago Twp, PA",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,3594,1,3,PA,A,SO2.1978.Conewago,2/28/2026
+"Warren County: Warren Boro, Pleasant Twp, Glade Twp, PA",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,"Primary, Secondary",15781,1,3,PA,A,SO2.1978.Warren_Boro,2/28/2026
+"Warren, PA",Sulfur Dioxide (2010),NAA,,105,,45,,2022-2024,Yes,5/6/2025,ppb,,18056,1,3,PA,A,SO2.2010.Warren_Co,2/28/2026
+"Washington County: Waterford Township, OH",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Secondary,61777,1,5,OH,A,SO2.1978.Waterford,2/28/2026
+"Washington, DC-MD-VA",1-Hour Ozone (1979),NAA,Revoked,0.165,,0.090,,2022-2024,Yes,5/28/2025,ppm,Severe-15,5265177,16,3-3-3,DC-MD-VA,C,Ozone_1-hr.1990.Washington,2/28/2026
+"Washington, DC-MD-VA",8-Hour Ozone (1997),NAA,Revoked,0.099,,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,5136216,15,3-3-3,DC-MD-VA,E,Ozone_8-hr.1997.Washington,2/28/2026
+"Washington, DC-MD-VA",8-Hour Ozone (2008),Maint,,0.081,,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,5136216,15,3-3-3,DC-MD-VA,F,Ozone_8-hr.2008.Washington,2/28/2026
+"Washington, DC-MD-VA",8-Hour Ozone (2015),NAA,,0.072,2014-2016,0.069,,2022-2024,Yes,5/28/2025,ppm,Moderate,5136216,15,3,DC-MD-VA,E,Ozone_8-hr.2015.Washington,2/28/2026
+"Washington, DC-MD-VA",Carbon Monoxide (1971),Maint,,,,1.6,,2023-2024,Yes,5/6/2025,ppm,Moderate <= 12.7ppm,1793091,5,3-3-3,DC-MD-VA,C,CO.1990.Washington,2/28/2026
+"Washington, DC-MD-VA",PM-2.5 (1997),Maint,,15.8,,8.1,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,5047479,14,3-3-3,DC-MD-VA,B,PM-2.5.1997.Washington,2/28/2026
+"Washoe County; Reno planning area, NV",PM-10 (1987),Maint,,,,,1.3,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Serious,421404,1,9,NV,A,PM-10.1990.Reno,2/28/2026
+"Wayne County, MI",PM-10 (1987),Maint,,,,,0.3,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,713777,1,5,MI,B,PM-10.1990.Detroit,2/28/2026
+"Wayne County, PA",1-Hour Ozone (1979),NAA,Revoked,,,,,,,5/28/2025,ppm,Incomplete Data,52822,1,3,PA,K,Ozone_1-hr.1990.Wayne_Co,2/28/2026
+"Wayne County: Boston, Center, Franklin, Wayne & Webster Townships, IN",Sulfur Dioxide (1971),Maint,,,,,,,,6/8/2020,ppb,Primary,52325,1,5,IN,A,SO2.1978.Wayne_Co,2/28/2026
+"West Central Pinal, AZ",PM-2.5 (2006),NAA,,48,,,26,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,52314,1,9,AZ,B,PM-2.5.2006.Pinal_Co,2/28/2026
+"West Silver Valley, ID",PM-2.5 (2012),Maint,,13.1,,9.4,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,7497,1,10,ID,B,PM-2.5.2012.West_Silver_Valley,2/28/2026
+"Whatcom County, WA",Sulfur Dioxide (2010),Maint,,,,4,,2022-2024,Yes,5/6/2025,ppb,,32,1,10,WA,A,SO2.2010.Whatcom_Co,2/28/2026
+"Wheeling, WV-OH",8-Hour Ozone (1997),Maint,Revoked,0.087,,0.062,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,147950,3,3-5,WV-OH,I,Ozone_8-hr.1997.Wheeling,2/28/2026
+"Wheeling, WV-OH",PM-2.5 (1997),Maint,,15.7,,8.3,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Former Subpart 1,147950,3,3-5,WV-OH,C,PM-2.5.1997.Wheeling,2/28/2026
+"Williamson County, TN",Lead (1978),Maint,,,,,,2009-2010,No Data,7/12/2011,&micro;g/m<sup>3</sup>,,183182,1,4,TN,A,Lead.1992.Nashville,2/28/2026
+"Winston-Salem, NC",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Moderate <= 12.7ppm,350670,1,4,NC,C,CO.1990.Winston-Salem,2/28/2026
+"Worcester, MA",Carbon Monoxide (1971),Maint,,,,1.1,,2023-2024,Yes,5/6/2025,ppm,Not Classified,181045,1,1,MA,D,CO.1990.Worcester,2/28/2026
+"Yakima County, WA",PM-10 (1987),Maint,,,,,0.7,2022-2024,Yes,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,69565,1,10,WA,B,PM-10.1990.Yakima,2/28/2026
+"Yakima, WA",Carbon Monoxide (1971),Maint,,,,,,2023-2024,No Data,5/6/2025,ppm,Not Classified,69565,1,10,WA,D,CO.1990.Yakima,2/28/2026
+"York, PA",1-Hour Ozone (1979),NAA,Revoked,0.129,,0.077,,2022-2024,Yes,5/28/2025,ppm,Marginal,536379,2,3,PA,G,Ozone_1-hr.1990.York,2/28/2026
+"York, PA",8-Hour Ozone (1997),Maint,Revoked,0.089,,0.065,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,536379,2,3,PA,I,Ozone_8-hr.1997.York,2/28/2026
+"York, PA",PM-2.5 (1997),Maint,,17.3,,8.6,,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,434972,1,3,PA,B,PM-2.5.1997.York,2/28/2026
+"Youngstown-Warren-Sharon, OH-PA",8-Hour Ozone (1997),Maint,Revoked,0.095,,0.068,,2022-2024,Yes,5/28/2025,ppm,Former Subpart 1,673614,4,5-3,OH-PA,I,Ozone_8-hr.1997.Youngstown,2/28/2026
+"Youngstown-Warren-Sharon, OH-PA[Split]",1-Hour Ozone (1979),Maint,Revoked,0.134,,0.078,,2022-2024,Yes,5/28/2025,ppm,Marginal,565773,3,5,OH,G,Ozone_1-hr.1990.Youngstown,2/28/2026
+"Youngstown-Warren-Sharon, OH-PA[Split]",1-Hour Ozone (1979),NAA,Revoked,0.134,,0.078,,2022-2024,Yes,5/28/2025,ppm,Marginal,565773,3,5,OH,G,Ozone_1-hr.1990.Youngstown,2/28/2026
+"Yuba City, CA",1-Hour Ozone (1979),NAA,Revoked,0.120,,0.081,,2022-2024,Yes,5/28/2025,ppm,Section 185A,136872,2,9,CA,J,Ozone_1-hr.1990.Yuba_City,2/28/2026
+"Yuba City-Marysville, CA",PM-2.5 (2006),Maint,,47,,,25,2022-2024,Yes,5/28/2025,&micro;g/m<sup>3</sup>,Moderate,164955,2,9,CA,B,PM-2.5.2006.Yuba_City,2/28/2026
+"Yuma, AZ",8-Hour Ozone (2015),Maint,,0.074,2014-2016,0.069,,2022-2024,Yes,5/28/2025,ppm,Marginal,87254,1,9,AZ,F,Ozone_8-hr.2015.Yuma,2/28/2026
+"Yuma, AZ",PM-10 (1987),NAA,,,,,6.0,2022-2024,No,5/30/2025,&micro;g/m<sup>3</sup>,Moderate,100710,1,9,AZ,B,PM-10.1990.Yuma,2/28/2026
