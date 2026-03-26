@@ -42,7 +42,7 @@ AVXYF3F3,,,HV 4,TDEC APC - Hendersonville - AVXYF3F3,Clarity Node,,36.29704022,-
 ARMTKC7X,,,HV 3,TDEC APC - Hendersonville - ARMTKC7X,Clarity Node,,36.29786584,-86.65250465,,12/23/2025,"PM,NO2",Clarity Node,Hendersonville,HVILLE,FALSE
 AYP7CLJJ,1/25/2025,,Cookeville Cane Creek Node/O3,TDEC APC - Cookeville Cane Creek - AYP7CLJJ,Clarity Node,,36.16131845,-85.54025169,,1/23/2026,"PM,O3,NO2",Clarity Node,Cookeville Cane Creek,,TRUE
 ALMCWJHW,1/25/2025,,Jackson Clarity Node-S/Ozone Module (DQGJD0125),TDEC APC - Jackson - ALMCWJHW,Clarity Node,,35.7053557,-88.81956447,,1/23/2026,"PM,O3,NO2",Clarity Node,Jackson,Jackson NP,TRUE
-A9PNC7JG,,,Loudon Node-S/O3 Module,TDEC APC - Loudon - A9PNC7JG,Clarity Node,,35.72117632,-84.34296064,,1/23/2026,"PM,O3,NO2",Clarity Node,Loudon,Loudon School,FALSE
+A9PNC7JG,,,Loudon Node-S/O3 Module,TDEC APC - Loudon - A9PNC7JG,Clarity Node,,35.72117632,-84.34296064,,1/23/2026,"PM,O3,NO2",Clarity Node,Loudon,Loudon School,TRUE
 261319,1/25/2025,8/6/2025,Loudon QC4,TDEC APC - Loudon - 261319,PA-II,7.02,35.72113715,-84.34297425,812,,PM,PurpleAir,Loudon,Loudon School,TRUE
 261289,1/25/2025,8/6/2025,Loudon QC3,TDEC APC - Loudon - 261289,PA-II,7.02,35.72089979,-84.34295279,812,,PM,PurpleAir,Loudon,Loudon School,TRUE
 261333,1/25/2025,,Happy Hill,TDEC APC - Happy Hill - 261333,PA-II,7.02,36.51302639,-82.55048083,1304,,PM,PurpleAir,Happy Hill,,TRUE
