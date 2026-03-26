@@ -8,7 +8,7 @@ sensor_index,date_created,last_seen,name,Friendly_Name,model,firmware_version,la
 93325,12/9/2020,7/21/2025,West Dickson,TDEC APC - West Dickson - 93325,PA-II-SD,7.02,36.080555,-87.39947,825,,PM,PurpleAir,West Dickson,,FALSE
 93659,12/10/2020,7/21/2025,ClarksvilleC223,TDEC APC - Clarksville - 93659,PA-II-SD,7.02,36.61107,-87.384705,486,,PM,PurpleAir,Clarksville,Clarksville WC,FALSE
 261331,1/25/2025,7/21/2025,Columbia QC2,TDEC APC - Columbia - 261331,PA-II,7.02,35.65159,-87.00967,713,,PM,PurpleAir,Columbia,Columbia,TRUE
-261271,1/25/2025,7/21/2025,Columbia QC1,TDEC APC - Columbia - 261271,PA-II,7.02,35.65159,-87.00967,713,,PM,PurpleAir,Columbia,Columbia,TRUE
+261271,1/25/2025,7/21/2025,Columbia QC1,TDEC APC - Columbia - 261271,PA-II,7.02,35.65120641,-87.0097612,713,,PM,PurpleAir,Columbia,Columbia,TRUE
 93577,12/10/2020,7/21/2025,Columbia,TDEC APC - Columbia - 93577,PA-II-SD,7.02,35.65182,-87.00883,722,,PM,PurpleAir,Columbia,Columbia,FALSE
 51873,4/8/2020,7/21/2025,LockelandD6CD,TDEC APC - Lockeland - 51873,PA-II-SD,7.02,36.176247,-86.739105,511,,PM,PurpleAir,Lockeland,,FALSE
 51921,4/9/2020,3/13/2025,Lockeland3975,TDEC APC - Lockeland - 51921,PA-II-SD,7.02,36.17634,-86.738976,511,,PM,PurpleAir,Lockeland,,FALSE
@@ -26,10 +26,10 @@ sensor_index,date_created,last_seen,name,Friendly_Name,model,firmware_version,la
 261459,1/26/2025,7/21/2025,Loudon QC2,TDEC APC - Loudon - 261459,PA-II,7.02,35.721127,-84.34303,811,,PM,PurpleAir,Loudon,Loudon School,TRUE
 261449,1/26/2025,7/21/2025,Loudon QC1,TDEC APC - Loudon - 261449,PA-II,7.02,35.721123,-84.34303,811,,PM,PurpleAir,Loudon,Loudon School,TRUE
 176307,3/10/2023,7/21/2025,NewMarketC19D,TDEC APC - New Market - 176307,PA-II,7.02,36.10563,-83.60208,1111,,PM,PurpleAir,New Market,,FALSE
-261315,1/25/2025,7/21/2025,New Market Sensor 2,TDEC APC - New Market - 261315,PA-II,7.02,36.10563,-83.60208,1111,,PM,PurpleAir,New Market,,TRUE
-261326,1/25/2025,7/21/2025,New Market Sensor 1,TDEC APC - New Market - 261326,PA-II,7.02,36.10563,-83.60207,1112,,PM,PurpleAir,New Market,,TRUE
+261315,1/25/2025,7/21/2025,New Market Sensor 2,TDEC APC - New Market - 261315,PA-II,7.02,36.10520526,-83.60206391,1111,,PM,PurpleAir,New Market,,TRUE
+261326,1/25/2025,7/21/2025,New Market Sensor 1,TDEC APC - New Market - 261326,PA-II,7.02,36.10544363,-83.60228726,1112,,PM,PurpleAir,New Market,,TRUE
 176263,3/10/2023,7/21/2025,AndrewJohnsonFEAC,TDEC APC - Andrew Johnson - 176263,PA-II,7.02,36.52636,-82.52868,1272,,PM,PurpleAir,Andrew Johnson,,FALSE
-261329,1/25/2025,7/21/2025,AJ 2025,TDEC APC - Andrew Johnson - 261329,PA-II,7.02,36.52636,-82.52868,1272,,PM,PurpleAir,Andrew Johnson,,TRUE
+261329,1/25/2025,7/21/2025,AJ 2025,TDEC APC - Andrew Johnson - 261329,PA-II,7.02,36.52629614,-82.52866511,1272,,PM,PurpleAir,Andrew Johnson,,TRUE
 262243,1/29/2025,7/21/2025,Kingsport QC1,TDEC APC - Kingsport - 262243,PA-II,7.02,36.538925,-82.52163,1305,,PM,PurpleAir,Kingsport PM,Kingsport PM,TRUE
 261447,1/26/2025,7/21/2025,RNR,TDEC APC - Ross N Robinson - 261447,PA-II,7.02,36.52927,-82.516304,1323,,PM,PurpleAir,Ross N Robinson,,TRUE
 200451,10/25/2023,7/21/2025,Exide 1,TDEC APC - Exide - 200451,PA-II-SD,7.02,36.524433,-82.27261,1507,,PM,PurpleAir,Exide,,FALSE
@@ -44,7 +44,7 @@ AYP7CLJJ,1/25/2025,,Cookeville Cane Creek Node/O3,TDEC APC - Cookeville Cane Cre
 ALMCWJHW,1/25/2025,,Jackson Clarity Node-S/Ozone Module (DQGJD0125),TDEC APC - Jackson - ALMCWJHW,Clarity Node,,35.7053557,-88.81956447,,1/23/2026,"PM,O3,NO2",Clarity Node,Jackson,Jackson NP,TRUE
 A9PNC7JG,,,Loudon Node-S/O3 Module,TDEC APC - Loudon - A9PNC7JG,Clarity Node,,35.72117632,-84.34296064,,1/23/2026,"PM,O3,NO2",Clarity Node,Loudon,Loudon School,FALSE
 261319,1/25/2025,8/6/2025,Loudon QC4,TDEC APC - Loudon - 261319,PA-II,7.02,35.72113715,-84.34297425,812,,PM,PurpleAir,Loudon,Loudon School,TRUE
-261289,1/25/2025,8/6/2025,Loudon QC3,TDEC APC - Loudon - 261289,PA-II,7.02,35.72113715,-84.34297425,812,,PM,PurpleAir,Loudon,Loudon School,TRUE
+261289,1/25/2025,8/6/2025,Loudon QC3,TDEC APC - Loudon - 261289,PA-II,7.02,35.72089979,-84.34295279,812,,PM,PurpleAir,Loudon,Loudon School,TRUE
 261333,1/25/2025,,Happy Hill,TDEC APC - Happy Hill - 261333,PA-II,7.02,36.51302639,-82.55048083,1304,,PM,PurpleAir,Happy Hill,,TRUE
 261453,1/26/2025,,Kingsport Ketron,TDEC APC - Kingsport Ketron - 261453,PA-II,7.02,36.58211,-82.485742,1397,,PM,PurpleAir,Kingsport Ketron,,TRUE
 261325,1/25/2025,,Kingsport QC2,TDEC APC - Kingsport PM - 261325,PA-II,7.02,36.53961,-82.522621,1305,,PM,PurpleAir,Kingsport PM,Kingsport PM,TRUE
