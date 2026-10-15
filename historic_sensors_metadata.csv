@@ -47,6 +47,6 @@ A9PNC7JG,,,Loudon Node-S/O3 Module,TDEC APC - Loudon - A9PNC7JG,Clarity Node,,35
 261289,1/25/2025,8/6/2025,Loudon QC3,TDEC APC - Loudon - 261289,PA-II,7.02,35.72089979,-84.34295279,812,,PM,PurpleAir,Loudon,Loudon School,TRUE,
 261333,1/25/2025,,Happy Hill,TDEC APC - Happy Hill - 261333,PA-II,7.02,36.51302639,-82.55048083,1304,,PM,PurpleAir,Happy Hill,Kingsport PM,TRUE,
 261453,1/26/2025,,Kingsport Ketron,TDEC APC - Kingsport Ketron - 261453,PA-II,7.02,36.58211,-82.485742,1397,,PM,PurpleAir,Kingsport Ketron,Kingsport PM,TRUE,
-261325h,1/25/2025,10/14/2026,Kingsport QC2,TDEC APC - Kingsport PM - 261325h,PA-II,7.02,36.53961,-82.522621,1305,,PM,PurpleAir,Kingsport PM,Kingsport PM,TRUE,Relocated to HH on 10/15/26
+261325,1/25/2025,10/14/2026,Kingsport QC2,TDEC APC - Kingsport PM - 261325,PA-II,7.02,36.53961,-82.522621,1305,,PM,PurpleAir,Kingsport PM,Kingsport PM,TRUE,Relocated to HH on 10/15/26
 A9YQHXMX,1/25/2025,,Loretto Node/O3,TDEC APC - Loretto - A9YQHXMX,Clarity Node,,35.11624,-87.41935,,12/23/2025,"PM,O3,NO2",Clarity Node,Loretto,Loretto,TRUE,
-261325,10/15/2026,,TDEC APC - Kingsport PM - 261325,TDEC APC - Happy Hill - 261325,PA-II,7.02,36.51302639,-82.55048083,1305,,PM,PurpleAir,Happy Hill,Kingsport PM,TRUE,Relocated from Kingsport PM 10/15/26
+326141,10/15/2026,,TDEC APC - Kingsport PM - 261325,TDEC APC - Happy Hill - 326141,PA-II,7.02,36.51302639,-82.55048083,1305,,PM,PurpleAir,Happy Hill,Kingsport PM,TRUE,Relocated from Kingsport PM 10/15/26
