@@ -45,7 +45,7 @@ ALMCWJHW,1/25/2025,NA,Jackson Clarity Node-S/Ozone Module (DQGJD0125),TDEC APC -
 A9PNC7JG,NA,NA,Loudon Node-S/O3 Module,TDEC APC - Loudon - A9PNC7JG,Clarity Node,NA,35.72117632,-84.34296064,NA,1/23/2026,"PM,O3,NO2",Clarity Node,Loudon,Loudon School,TRUE,NA,FALSE
 261319,1/25/2025,8/6/2025,Loudon QC4,TDEC APC - Loudon - 261319,PA-II,7.02,35.72113715,-84.34297425,812,NA,PM,PurpleAir,Loudon,Loudon School,FALSE,QAPP only has 1 PA assigned for Loudon,TRUE
 261289,1/25/2025,8/6/2025,Loudon QC3,TDEC APC - Loudon - 261289,PA-II,7.02,35.72089979,-84.34295279,812,NA,PM,PurpleAir,Loudon,Loudon School,TRUE,NA,TRUE
-261333,1/25/2025,NA,Happy Hill,TDEC APC - Happy Hill - 261333,PA-II,7.02,36.51302639,-82.55048083,1304,NA,PM,PurpleAir,Happy Hill,Kingsport PM,TRUE,Decommissioned / Inactivated on 10/15/2026: Taken offlien,TRUE
+261333,1/25/2025,NA,Happy Hill,TDEC APC - Happy Hill - 261333,PA-II,7.02,36.51302639,-82.55048083,1304,NA,PM,PurpleAir,Happy Hill,Kingsport PM,TRUE,Decommissioned / Inactivated on 10/15/2026: Taken offlien | Decommissioned / Inactivated on 10/16/2026: Adam test,FALSE
 261453,1/26/2025,NA,Kingsport Ketron,TDEC APC - Kingsport Ketron - 261453,PA-II,7.02,36.58211,-82.485742,1397,NA,PM,PurpleAir,Kingsport Ketron,Kingsport PM,TRUE,NA,TRUE
 261325,1/25/2025,10/14/2026,Kingsport QC2,TDEC APC - Kingsport PM - 261325,PA-II,7.02,36.53961,-82.522621,1305,NA,PM,PurpleAir,Kingsport PM,Kingsport PM,TRUE,Relocated to HH on 10/15/26,TRUE
 A9YQHXMX,1/25/2025,NA,Loretto Node/O3,TDEC APC - Loretto - A9YQHXMX,Clarity Node,NA,35.11624,-87.41935,NA,12/23/2025,"PM,O3,NO2",Clarity Node,Loretto,Loretto,TRUE,NA,FALSE
